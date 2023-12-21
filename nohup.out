@@ -5222,3 +5222,16 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [03:28:13] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: RogThor lost connection: Disconnected
 [03:28:13] [Server thread/INFO] [minecraft/MinecraftServer]: RogThor left the game
 [03:28:13] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RogThor
+[03:47:56] [Server thread/INFO] [minecraft/ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@7b22142[id=<null>,name=XDASSASSINDX,properties={},legacy=false] (/177.228.144.92:17655) lost connection: Disconnected
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:03:00] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:03:01] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04:03:01] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

@@ -821,3 +821,16 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [21Dec2023 03:28:13.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RogThor lost connection: Disconnected
 [21Dec2023 03:28:13.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RogThor left the game
 [21Dec2023 03:28:13.184] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RogThor
+[21Dec2023 03:47:56.306] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b22142[id=<null>,name=XDASSASSINDX,properties={},legacy=false] (/177.228.144.92:17655) lost connection: Disconnected
+[21Dec2023 04:03:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2023 04:03:00.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2023 04:03:00.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Dec2023 04:03:00.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Dec2023 04:03:00.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Dec2023 04:03:00.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Dec2023 04:03:00.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Dec2023 04:03:00.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Dec2023 04:03:00.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Dec2023 04:03:00.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Dec2023 04:03:01.055] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Dec2023 04:03:01.056] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
