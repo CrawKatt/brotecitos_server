@@ -736,6 +736,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2023-12-21 01:40:03 +0000",
+      "mutton": "2023-12-22 03:25:26 +0000",
       "bread": "2023-12-21 01:42:41 +0000"
     },
     "done": false
@@ -856,7 +857,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2023-12-21 01:51:46 +0000"
+      "minecraft:pillager": "2023-12-22 03:27:49 +0000",
+      "minecraft:skeleton": "2023-12-21 01:51:46 +0000",
+      "minecraft:spider": "2023-12-22 03:36:22 +0000"
     },
     "done": false
   },
@@ -1166,7 +1169,25 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-12-22 02:54:25 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2023-12-22 02:56:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2023-12-22 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2023-12-22 02:57:50 +0000"
     },
@@ -1178,21 +1199,159 @@
     },
     "done": true
   },
-  "supplementaries:recipes/ash_brick": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "forge:ash": "2023-12-22 02:57:50 +0000"
+      "onion": "2023-12-22 03:34:09 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "iron_pickaxe": "2023-12-22 02:54:25 +0000"
+      "has_string": "2023-12-22 03:36:22 +0000"
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "supplementaries:recipes/bomb": {
     "criteria": {
-      "find_artifact": "2023-12-22 02:56:39 +0000"
+      "has_string": "2023-12-22 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2023-12-22 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2023-12-22 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-12-22 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-22 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2023-12-22 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2023-12-22 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2023-12-22 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2023-12-22 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-12-22 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-22 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2023-12-22 03:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-12-22 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2023-12-22 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-22 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2023-12-22 03:36:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-22 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2023-12-22 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2023-12-22 03:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-12-22 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2023-12-22 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2023-12-22 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-12-22 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-22 03:34:09 +0000"
     },
     "done": true
   },

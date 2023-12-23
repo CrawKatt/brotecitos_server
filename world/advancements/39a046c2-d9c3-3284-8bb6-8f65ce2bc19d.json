@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2023-12-23 02:23:56 +0000",
       "minecraft:cherry_grove": "2023-12-20 23:29:51 +0000",
       "minecraft:sunflower_plains": "2023-12-20 23:34:33 +0000",
       "minecraft:birch_forest": "2023-12-19 23:29:54 +0000",
@@ -45,9 +46,15 @@
       "minecraft:sparse_jungle": "2023-12-20 22:33:46 +0000",
       "minecraft:river": "2023-12-20 00:38:25 +0000",
       "minecraft:lukewarm_ocean": "2023-12-20 22:38:47 +0000",
+      "minecraft:snowy_plains": "2023-12-23 02:43:00 +0000",
+      "minecraft:stony_shore": "2023-12-23 02:42:54 +0000",
       "minecraft:dripstone_caves": "2023-12-21 23:26:08 +0000",
+      "minecraft:cold_ocean": "2023-12-23 02:40:31 +0000",
       "minecraft:forest": "2023-12-19 22:59:23 +0000",
+      "minecraft:deep_cold_ocean": "2023-12-23 02:38:09 +0000",
+      "minecraft:frozen_ocean": "2023-12-23 02:42:36 +0000",
       "minecraft:jungle": "2023-12-20 22:34:30 +0000",
+      "minecraft:ocean": "2023-12-23 02:23:31 +0000",
       "minecraft:flower_forest": "2023-12-20 23:35:16 +0000",
       "minecraft:old_growth_birch_forest": "2023-12-19 23:14:07 +0000",
       "minecraft:deep_dark": "2023-12-21 23:19:59 +0000",
@@ -973,7 +980,8 @@
       "minecraft:cave_spider": "2023-12-21 23:10:06 +0000",
       "minecraft:enderman": "2023-12-20 23:40:59 +0000",
       "minecraft:silverfish": "2023-12-21 23:24:54 +0000",
-      "minecraft:zombie": "2023-12-20 00:31:41 +0000"
+      "minecraft:zombie": "2023-12-20 00:31:41 +0000",
+      "minecraft:zombie_villager": "2023-12-22 04:36:52 +0000"
     },
     "done": false
   },
@@ -1051,7 +1059,10 @@
       "potato": "2023-12-21 23:32:11 +0000",
       "pumpkin_pie": "2023-12-20 22:17:12 +0000",
       "bread": "2023-12-21 23:27:31 +0000",
+      "golden_apple": "2023-12-23 02:54:19 +0000",
+      "cookie": "2023-12-22 03:42:46 +0000",
       "melon_slice": "2023-12-21 03:07:43 +0000",
+      "golden_carrot": "2023-12-22 03:33:16 +0000",
       "cooked_chicken": "2023-12-20 00:07:58 +0000",
       "carrot": "2023-12-20 22:33:13 +0000"
     },
@@ -4477,6 +4488,192 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2023-12-22 00:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-12-22 03:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-12-22 03:47:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-12-22 03:47:43 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2023-12-22 04:07:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2023-12-22 04:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-12-22 04:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-12-22 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2023-12-22 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-12-22 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-12-22 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2023-12-22 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-12-22 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2023-12-22 04:36:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2023-12-22 05:10:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2023-12-22 23:32:36 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_birch": "2023-12-23 00:16:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-12-23 00:18:33 +0000"
     },
     "done": true
   },
