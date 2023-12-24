@@ -10604,3 +10604,654 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [03:02:49] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
 [03:02:49] [Server thread/INFO] [Framework/]: Unloading server configs...
 [03:02:49] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+2023-12-24 03:09:29,003 main WARN Advanced terminal features are not available in this environment
+[03:09:29] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[03:09:29] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 18.0.2-ea by Private Build; OS Linux arch amd64 version 5.15.0-1045-oracle
+[03:09:29] [main/INFO] [ne.mi.fm.lo.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03:09:29] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/ubuntu/server_mods/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03:09:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[03:09:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[03:09:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[03:09:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[03:09:31] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[03:09:31] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 32 dependencies adding them to mods collection
+[03:09:31] [main/INFO] [or.gr.gm.ma.MappingsProvider/]: Starting runtime mappings setup...
+[03:09:31] [main/INFO] [or.gr.gm.in.lo.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[03:09:31] [main/INFO] [or.gr.gm.sc.ScriptModLocator/]: Injected Jimfs file system
+[03:09:31] [main/INFO] [or.gr.gm.sc.ScriptModLocator/]: Skipped loading script mods from directory /home/ubuntu/server_mods/mods/scripts as it did not exist.
+[03:09:31] [main/INFO] [or.gr.gm.in.lo.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[03:09:36] [GML Mappings Thread/INFO] [or.gr.gm.ma.MappingsProvider/]: Loaded runtime mappings in 3883ms
+[03:09:36] [GML Mappings Thread/INFO] [or.gr.gm.ma.MappingsProvider/]: Finished runtime mappings setup.
+[03:09:36] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03:09:36] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[03:09:36] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[03:09:36] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03:09:36] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:36] [main/INFO] [Puzzles Lib/]: Loading 64 mods:
+	- alexsmobs 1.22.7
+	- architectury 9.1.12
+	- artifacts 9.2.0
+	- attributefix 21.0.4
+	- awesomedungeon 3.2.0
+	- awesomedungeonend 3.1.1
+	- awesomedungeonocean 3.3.0
+	- azurelib 2.0.17
+	- balm 7.2.1
+	- betteranimationscollection 8.0.0
+	- bookshelf 20.1.7
+	- caelus 3.1.0+1.20
+	- carryon 2.1.2.7
+	- charmofundying 6.4.5+1.20.1
+	- citadel 2.4.9
+	- cloth_config 11.1.106
+	- commongroovylibrary 0.3.3
+	- create 0.5.1.f
+	- createaddition 1.20.1-1.2.1
+	- creativecore 2.11.16
+	- cristellib 1.1.5
+	- curios 5.4.6+1.20.1
+	- customskinloader 14.17
+	- eatinganimation 5.0.0
+	- elytraslot 6.3.0+1.20.1
+	- enchdesc 17.0.9
+	- epicsamurai 0.0.32-1.20.1-neo
+	- expandability 9.0.0
+	- explorify 1.3.0-mc1.20
+	- fallingtree 4.3.3
+	- farmersdelight 1.20.1-1.2.3
+	- flywheel 0.6.10-7
+	- forge 47.2.0
+	- framework 0.6.16
+	- gml 4.0.9
+	- goblintraders 1.9.3
+	- itemproductionlib 1.0.0a
+	- jade 11.6.3
+	- jei 15.2.0.27
+	- journeymap 5.9.18
+	- konkrete 1.6.1
+	- libraryferret 4.0.0
+	- maxhealthfix 12.0.2
+	- mcwbridges 2.1.1
+	- minecraft 1.20.1
+	- mixinextras 0.3.2
+	- mixinsquared 0.1.1
+	- moonlight 1.20-2.8.67
+	- mousetweaks 2.25
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.11
+	- repurposed_structures 7.1.11+1.20.1-forge
+	- securitycraft 1.9.8
+	- skilltree 0.6.3
+	- skyvillages 1.0.3
+	- spectrelib 0.13.14+1.20.1
+	- supplementaries 1.20-2.7.12
+	- t_and_t 0.0NONE
+	- tombstone 8.5.5
+	- torchmaster 20.1.5
+	- trashslot 15.1.0
+	- travelersbackpack 9.1.11
+	- voicechat 1.20.1-2.4.32
+	- waystones 14.1.3
+[03:09:36] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:38] [main/ERROR] [ne.mi.fm.lo.RuntimeDistCleaner/DISTXFORM]: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER
+[03:09:38] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.RuntimeException: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER)
+[03:09:38] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[03:09:38] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[03:09:38] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[03:09:38] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
+[03:09:38] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[03:09:38] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
+[03:09:38] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe)
+[03:09:38] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
+[03:09:38] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus)
+[03:09:38] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
+[03:09:38] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus)
+[03:09:38] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
+[03:09:39] [main/ERROR] [ne.mi.fm.lo.RuntimeDistCleaner/DISTXFORM]: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER
+[03:09:39] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.RuntimeException: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER)
+[03:09:39] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/blockentity/SignRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.blockentity.SignRenderer)
+[03:09:39] [main/ERROR] [mixin/]: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.isMixin()" because "superClass" is null
+java.lang.NullPointerException: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.isMixin()" because "superClass" is null
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:581) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:801) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:567) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-10.0.9.jar%2355!/:10.0.9+10.0.9+main.dcd20f30] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:633) ~[?:?] {}
+	at java.lang.Class.forName(Class.java:577) ~[?:?] {}
+	at java.lang.Class.forName(Class.java:552) ~[?:?] {}
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler$DummyProvider.lambda$updateModuleReads$1(ImmediateWindowHandler.java:145) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at java.util.Optional.map(Optional.java:260) ~[?:?] {}
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler$DummyProvider.updateModuleReads(ImmediateWindowHandler.java:145) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler.acceptGameLayer(ImmediateWindowHandler.java:71) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at net.minecraftforge.fml.loading.FMLLoader.beforeStart(FMLLoader.java:207) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.launchService(CommonLaunchHandler.java:92) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[03:09:39] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[03:09:43] [main/WARN] [mixin/]: Method overwrite conflict for setUser in skilltree.mixins.json:minecraft/BlockEntityMixin, previously written by daripher.itemproduction.mixin.minecraft/BlockEntityMixin. Skipping method.
+[03:09:49] [main/INFO] [or.gr.gm.in.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[03:09:50] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for betteranimationscollection:main
+[03:09:50] [modloading-worker-0/INFO] [co.jt.li.LibraryFerret/]: Initialize mod Library Ferret
+[03:09:50] [modloading-worker-0/INFO] [co.jt.li.LibraryFerret/]: Initialized mod Library Ferret
+[03:09:50] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03:09:50] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03:09:50] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03:09:50] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03:09:50] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03:09:50] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03:09:50] [modloading-worker-0/INFO] [MaxHealthFix/]: Loaded maxhealthfix for Forge.
+[03:09:51] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[03:09:51] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[03:09:51] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[03:09:51] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[03:09:51] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[03:09:51] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[03:09:51] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[03:09:51] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[03:09:51] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[03:09:51] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[03:09:51] [modloading-worker-0/INFO] [de.ke.ko.Konkrete/]: [KONKRETE] Successfully initialized!
+[03:09:51] [modloading-worker-0/INFO] [de.ke.ko.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[Mouse Tweaks] Disabled because not running on the client.
+[03:09:52] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[03:09:53] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[03:09:54] [modloading-worker-0/INFO] [be.fl.ex.ExpandAbility/]: ExpandAbility here, who dis?
+[03:10:00] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
+[03:10:01] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 17
+[03:10:01] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [betteranimationscollection] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/betteranimationscollection.json
+[03:10:01] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[03:10:01] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[03:10:01] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[03:10:01] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[03:10:02] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [betteranimationscollection] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[03:10:02] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[03:10:02] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03:10:02] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[03:10:02] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[03:10:02] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[03:10:02] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[03:10:02] [main/INFO] [Supplementaries/]: Finished mod setup in: [53, 1, 0, 1, 0, 0, 10, 1] ms
+[03:10:02] [main/INFO] [Moonlight/]: Initialized color sets in 35ms
+[03:10:02] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 27 compatible attributes.
+[03:10:02] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 27 values from config.
+[03:10:02] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 27 entries.
+[03:10:02] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 27 attributes.
+[03:10:02] [modloading-worker-0/INFO] [ne.xa.to.Torchmaster/]: Applying mega torch entity block list overrides...
+[03:10:02] [modloading-worker-0/INFO] [ne.xa.to.Torchmaster/]: Applying dread lamp entity block list overrides...
+Create Crafts & Additions Initialized!
+[03:10:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[03:10:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[03:10:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[03:10:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[03:10:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[03:10:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[03:10:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[03:10:03] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[03:10:03] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[03:10:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[03:10:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03:10:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.18 Target: null
+[03:10:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[03:10:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.11 Target: null
+[03:10:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [maxhealthfix] Starting version check at https://updates.blamejared.com/get?n=maxhealthfix&gv=1.20.1
+[03:10:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [maxhealthfix] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[03:10:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [bookshelf] Found status: BETA_OUTDATED Current: 20.1.7 Target: 20.1.8
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.2.0 Target: null
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.7.12 Target: null
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 2.1.1 Target: null
+[03:10:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[03:10:07] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:10:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [voicechat] Found status: UP_TO_DATE Current: 1.20.1-2.4.32 Target: null
+[03:10:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[03:10:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 17.0.9 Target: 17.0.11
+[03:10:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[03:10:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.8.67 Target: null
+[03:10:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[03:10:09] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[03:10:09] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[03:10:09] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[03:10:09] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03:10:10] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.8 Target: null
+[03:10:10] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[03:10:10] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.5.5 Target: null
+[03:10:10] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[03:10:10] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.11 Target: null
+[03:10:10] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[03:10:10] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [framework] Found status: BETA Current: 0.6.16 Target: 0.6.16
+[03:10:11] [main/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/home/ubuntu/server_mods/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/assets/.mcassetsroot' uses unexpected schema
+[03:10:11] [main/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/home/ubuntu/server_mods/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/data/.mcassetsroot' uses unexpected schema
+[03:10:11] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[03:10:11] [main/WARN] [Cristel Lib/]: T&T Waystone Patch Pack accepted!
+[03:10:11] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 50 ms
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonend:aws_all_end_structures/start_pool`: { spacing: 20, separation: 15, salt: 49082056, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[03:10:11] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[03:10:13] [main/INFO] [co.gi.al.al.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03:10:13] [Worker-Main-1/WARN] [ar.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-8.5.5-1.20.1.jar
+[03:10:13] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [epicsamurai:etyrite_samurai_helmet (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_chestplate (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_leggings (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:etyrite_samurai_helmet (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_chestplate (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_leggings (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[03:10:13] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[03:10:13] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[03:10:13] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [minecraft:amethyst_shard (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: minecraft:amethyst_shard (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_boots_smithing as it's serializer returned null
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_helmet as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_leggings as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_leggings_array as it's serializer returned null
+[03:10:15] [main/ERROR] [minecraft/RecipeManager]: Parsing error loading recipe epicsamurai:samurai_guide
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.0-universal.jar%23216!/:?] {re:mixin,re:classloading}
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.0-universal.jar%23216!/:?] {re:mixin,re:classloading}
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.item.crafting.AccessorShapedRecipe,pl:mixin:APP:skilltree.mixins.json:ShapedRecipeAccessor,pl:mixin:APP:tombstone.mixins.json:accessor.ShapedRecipeAccessor,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:classloading}
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.2.0-universal.jar%23216!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.world.AccessorRecipeManager,pl:mixin:APP:farmersdelight.mixins.json:accessor.RecipeManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.world.AccessorRecipeManager,pl:mixin:APP:farmersdelight.mixins.json:accessor.RecipeManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.world.AccessorRecipeManager,pl:mixin:APP:farmersdelight.mixins.json:accessor.RecipeManagerAccessor,pl:mixin:A}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,re:computing_frames,re:classloading,pl:mixin:APP:moonlight.mixins.json:ConditionHackMixin,pl:mixin:A}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:classloading}
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:classloading,re:mixin}
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:classloading,re:mixin}
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,re:classloading,pl:mixin:A}
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_helmet_ritual as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_helmet_smithing as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_boots as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_chestplate_smithing as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_chestplate as it's serializer returned null
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_leggings as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_helmet as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_chestplate_array as it's serializer returned null
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_helmet_smithing as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_boots_array as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_boots_helmet as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_leggings_smithing as it's serializer returned null
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_leggings_ritual as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_boots as it's serializer returned null
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:steel_ingot_from_blasting_iron_ingot as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_chestplate_ritual as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_chestplate as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_leggings_smithing as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_chestplate_smithing as it's serializer returned null
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_boots_ritual as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_boots_smithing as it's serializer returned null
+[03:10:15] [main/INFO] [minecraft/RecipeManager]: Loaded 28 recipes
+[03:10:16] [main/INFO] [minecraft/AdvancementList]: Loaded 4015 advancements
+[03:10:16] [main/INFO] [Supplementaries/]: Loaded 24 flute songs
+[03:10:16] [main/INFO] [to.th.cu.Curios/]: Loaded 14 curio slots
+[03:10:16] [main/INFO] [to.th.cu.Curios/]: Loaded 1 curio entities
+[03:10:19] [main/INFO] [Supplementaries/]: Finished additional setup in 83 ms
+[03:10:19] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.20.1
+[03:10:19] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+[03:10:19] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+[03:10:19] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair
+[03:10:19] [Server console handler/ERROR] [minecraft/DedicatedServer]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?] {}
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?] {}
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?] {}
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?] {}
+	at java.io.InputStreamReader.read(InputStreamReader.java:176) ~[?:?] {}
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?] {re:computing_frames,re:mixin}
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?] {re:computing_frames,re:mixin}
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?] {re:computing_frames,re:mixin}
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:classloading}
+[03:10:19] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565
+[03:10:19] [Server thread/INFO] [minecraft/ServerConnectionListener]: Using epoll channel type
+[03:10:19] [Server thread/WARN] [minecraft/DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:10:19] [Server thread/WARN] [minecraft/DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[03:10:19] [Server thread/WARN] [minecraft/DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:10:19] [Server thread/WARN] [minecraft/DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:10:19] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03:10:19] [Thread-4/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03:10:19] [Thread-4/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03:10:20] [Server thread/INFO] [Framework/]: Loading server configs...
+[03:10:20] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+[03:10:20] [Netty Epoll Server IO #1/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03:10:20] [Netty Epoll Server IO #2/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03:10:21] [Netty Epoll Server IO #3/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03:10:28] [Netty Epoll Server IO #0/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03:10:34] [Netty Epoll Server IO #1/INFO] [ne.mi.se.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03:10:34] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:41] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:42] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[03:10:42] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 1%
+[03:10:43] [Server thread/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 8474 ms
+[03:10:43] [Server thread/INFO] [minecraft/DedicatedServer]: Done (23.485s)! For help, type "help"
+[03:10:43] [Server thread/INFO] [ne.mi.se.pe.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03:10:43] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03:10:43] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[03:11:19] [Server thread/WARN] [minecraft/SynchedEntityData]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[03:11:19] [Server thread/INFO] [minecraft/PlayerList]: ShioriIto[/157.100.202.35:4697] logged in with entity id 537 at (-141.99833526652253, 48.0, -111.16696631074524)
+[03:11:19] [Server thread/INFO] [minecraft/MinecraftServer]: ShioriIto joined the game
+[03:11:20] [Server thread/INFO] [Jade/]: Syncing config to ShioriIto (95a93641-fe45-3236-ba62-7dd4d657cd8e)
+[03:11:20] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShioriIto (17)
+[03:11:20] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShioriIto
+[03:11:33] [Server thread/INFO] [minecraft/PlayerList]: Shuryn[/190.231.177.161:61288] logged in with entity id 672 at (19331.400289975874, 49.0, -25402.30000001192)
+[03:11:33] [Server thread/INFO] [minecraft/MinecraftServer]: Shuryn joined the game
+[03:11:33] [Server thread/INFO] [Jade/]: Syncing config to Shuryn (b7602664-58da-37d0-9805-0f07d495f458)
+[03:11:37] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shuryn (17)
+[03:11:37] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shuryn
+[03:11:37] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 4508ms or 90 ticks behind
+[03:12:13] [Server thread/INFO] [minecraft/PlayerList]: CrawKatt[/186.79.14.188:57638] logged in with entity id 1244 at (81.2429286680985, 128.0, -184.20366651505145)
+[03:12:13] [Server thread/INFO] [minecraft/MinecraftServer]: CrawKatt joined the game
+[03:12:13] [Server thread/INFO] [Jade/]: Syncing config to CrawKatt (5cf373c6-9b7d-3c4b-b767-5718e6090af7)
+[03:12:17] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Shuryn moved too quickly! 5.927620846512582,6.7819757202790925,4.542970429811248
+[03:12:17] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CrawKatt (17)
+[03:12:17] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CrawKatt
+[03:12:17] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 4400ms or 88 ticks behind
+[03:12:34] [Server thread/INFO] [minecraft/PlayerList]: mBattousai[/38.10.112.5:1727] logged in with entity id 1658 at (84.30205822866091, 121.0, -188.59644330496633)
+[03:12:34] [Server thread/INFO] [minecraft/MinecraftServer]: mBattousai joined the game
+[03:12:35] [Server thread/INFO] [Jade/]: Syncing config to mBattousai (dcdff24d-ed82-3e06-bfdf-2dd452bcb2e9)
+[03:12:35] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mBattousai (17)
+[03:12:35] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mBattousai
+[03:12:37] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03:12:55] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 3072ms or 61 ticks behind
+[03:13:08] [Server thread/INFO] [minecraft/PlayerList]: Metrocon[/179.6.4.36:22153] logged in with entity id 1976 at (4.53598624470335, 61.0, -116.42839798478869)
+[03:13:08] [Server thread/INFO] [minecraft/MinecraftServer]: Metrocon joined the game
+[03:13:08] [Server thread/INFO] [Jade/]: Syncing config to Metrocon (f5b40665-eadf-3ee0-8b7d-19331e5e5e02)
+[03:13:09] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Metrocon (17)
+[03:13:09] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Metrocon
+[03:13:13] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[03:13:23] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: CrawKatt moved too quickly! -1.6770830740016436,-9.634497858026435,3.343843027488333
+[03:13:32] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]]
+[03:13:35] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: CrawKatt moved too quickly! -1.3592211268159673,-9.501386718836514,3.4413402554868355
+[03:13:35] [Server thread/WARN] [minecraft/LevelChunk]: Tried to load a DUMMY block entity @ BlockPos{x=19525, y=76, z=-25180} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[03:13:35] [Server thread/WARN] [minecraft/LevelChunk]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=19525, y=76, z=-25180}
+[03:13:35] [Server thread/WARN] [minecraft/LevelChunk]: Tried to load a DUMMY block entity @ BlockPos{x=19525, y=77, z=-25180} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[03:13:35] [Server thread/WARN] [minecraft/LevelChunk]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=19525, y=77, z=-25180}
+[03:13:35] [Server thread/WARN] [minecraft/LevelChunk]: Tried to load a DUMMY block entity @ BlockPos{x=19525, y=77, z=-25179} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[03:13:35] [Server thread/WARN] [minecraft/LevelChunk]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=19525, y=77, z=-25179}
+[03:13:37] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 8671ms or 173 ticks behind
+[03:14:10] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:14:21] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Shuryn moved too quickly! 6.39717274812574,7.279251291364716,-3.944491705602559
+[03:14:36] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: CrawKatt lost connection: Disconnected
+[03:14:36] [Server thread/INFO] [minecraft/MinecraftServer]: CrawKatt left the game
+[03:14:36] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CrawKatt
+[03:15:17] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[03:17:27] [Server thread/INFO] [minecraft/PlayerList]: Nygel1657[/179.6.164.35:6703] logged in with entity id 7298 at (-1552.607596174391, -52.0, -2467.527156457354)
+[03:17:27] [Server thread/INFO] [minecraft/MinecraftServer]: Nygel1657 joined the game
+[03:17:27] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
+[03:17:28] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nygel1657 (17)
+[03:17:28] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nygel1657
+[03:17:28] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Shuryn moved too quickly! 6.069279251685657,-1.9118240859462787,7.87011644633094
+[03:18:19] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry]]
+[03:20:47] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03:21:05] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[03:21:22] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[03:21:40] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 3155ms or 63 ticks behind
+[03:22:09] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[03:22:27] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:22:44] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[03:23:01] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[03:23:27] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03:23:45] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[03:23:45] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Shuryn moved too quickly! -6.424408109458454,5.955089582229803,5.260414618584036
+[03:24:05] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1611, y=-51, z=-2504} BlockPos{x=-1611, y=-52, z=-2504}
+[03:24:06] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1611, y=-52, z=-2504} BlockPos{x=-1611, y=-52, z=-2503}
+[03:24:28] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[03:27:00] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:27:37] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1581, y=-51, z=-2500} BlockPos{x=-1581, y=-52, z=-2500}
+[03:27:38] [Server thread/INFO] [minecraft/MinecraftServer]: Metrocon has reached the goal [Home Sweet Home]
+[03:28:00] [Server thread/WARN] [minecraft/PersistentEntitySectionManager]: UUID of added entity already exists: Drowned['Drowned'/22756, l='ServerLevel[world]', x=20885.50, y=59.00, z=-25642.50]
+[03:28:47] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1591, y=-52, z=-2513} BlockPos{x=-1592, y=-53, z=-2513}
+[03:28:55] [Server thread/INFO] [co.ti.tr.TravelersBackpack/]: Created new backpack backup file for ShioriIto with unique ID b56fde5e-36e7-4cb7-8c85-f1c2e7ca7ac7
+[03:28:55] [Server thread/INFO] [co.ti.tr.TravelersBackpack/]: Your backpack has been placed at X: -1526 Y: -50 Z: -2463
+[03:28:55] [Server thread/INFO] [minecraft/MinecraftServer]: ShioriIto fell from a high place
+[03:28:55] [Server thread/INFO] [tombstone/]: The player ShioriIto has successfully been saved
+[03:29:21] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Shuryn> ito
+[03:29:28] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <ShioriIto> shuryn
+[03:29:35] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <Shuryn> queres una zapatillas de conejo?
+[03:29:47] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <ShioriIto> a
+[03:29:56] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <ShioriIto> me va a tardar regresar
+[03:30:00] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <ShioriIto> no me traje la waystone
+[03:30:39] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Boat (vehicle of Shuryn) moved wrongly! 0.33077430448611267
+[03:30:39] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Boat (vehicle of Shuryn) moved wrongly! 0.7429017090144043
+[03:30:39] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Boat (vehicle of Shuryn) moved wrongly! 0.2846325142454589
+[03:31:00] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 9190ms or 183 ticks behind
+[03:31:01] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Metrocon moved too quickly! -8.899625208171557,-2.0146178540372404,-4.627454290752823
+[03:31:01] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: ShioriIto moved too quickly! -8.59348616853299,1.5800000131130219,5.182209898268866
+[03:33:25] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1568, y=-52, z=-2533} BlockPos{x=-1567, y=-53, z=-2533}
+[03:35:30] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1566, y=-45, z=-2516} BlockPos{x=-1567, y=-46, z=-2516}
+[03:39:37] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <ShioriIto> chinga me confundi un aldeano cortapiedras de un aldeano armero
+[03:39:46] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <mBattousai> f
+[03:40:35] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1522, y=-46, z=-2519} BlockPos{x=-1523, y=-46, z=-2520}
+[03:43:15] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[03:44:18] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:44:43] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03:46:27] [Server thread/INFO] [minecraft/MinecraftServer]: [mBattousai: Set own game mode to Creative Mode]
+[03:47:50] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1460, y=-52, z=-2466} BlockPos{x=-1460, y=-53, z=-2465}
+[03:48:16] [Server thread/INFO] [minecraft/MinecraftServer]: Metrocon has completed the challenge [Return to Sender]
+[03:49:03] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1480, y=-52, z=-2452} BlockPos{x=-1480, y=-53, z=-2454}
+[03:50:06] [Server thread/INFO] [minecraft/MinecraftServer]: [mBattousai: Set own game mode to Survival Mode]
+[03:50:39] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1493, y=-52, z=-2465} BlockPos{x=-1491, y=-52, z=-2465}
+[03:52:12] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1503, y=-46, z=-2480} BlockPos{x=-1503, y=-47, z=-2481}
+[03:58:43] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1437, y=-50, z=-2461} BlockPos{x=-1437, y=-50, z=-2460}
+[03:58:43] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1437, y=-51, z=-2461} BlockPos{x=-1436, y=-50, z=-2461}
+[03:58:43] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1436, y=-50, z=-2461} BlockPos{x=-1437, y=-51, z=-2461}
+[03:58:43] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1436, y=-50, z=-2461} BlockPos{x=-1437, y=-51, z=-2461}
+[03:58:44] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1436, y=-50, z=-2461} BlockPos{x=-1437, y=-51, z=-2461}
+[03:59:06] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03:59:48] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04:00:06] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04:00:24] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[04:00:41] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[04:01:02] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04:01:20] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[04:01:43] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04:07:06] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Metrocon lost connection: Disconnected
+[04:07:06] [Server thread/INFO] [minecraft/MinecraftServer]: Metrocon left the game
+[04:07:06] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Metrocon
+[04:08:25] [Server thread/INFO] [minecraft/MinecraftServer]: [mBattousai: Set own game mode to Creative Mode]
+[04:09:57] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1524, y=-51, z=-2601} BlockPos{x=-1524, y=-52, z=-2601}
+[04:10:49] [Server thread/INFO] [minecraft/MinecraftServer]: [mBattousai: Set own game mode to Survival Mode]
+[04:12:22] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1544, y=-44, z=-2501} BlockPos{x=-1544, y=-44, z=-2502}
+[04:12:22] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1544, y=-44, z=-2501} BlockPos{x=-1544, y=-44, z=-2502}
+[04:12:22] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1544, y=-44, z=-2499} BlockPos{x=-1544, y=-45, z=-2501}
+[04:13:32] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1536, y=-49, z=-2488} BlockPos{x=-1536, y=-50, z=-2487}
+[04:13:40] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1538, y=-51, z=-2492} BlockPos{x=-1537, y=-51, z=-2491}
+[04:14:18] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1528, y=-47, z=-2488} BlockPos{x=-1528, y=-46, z=-2489}
+[04:16:07] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1542, y=-52, z=-2466} BlockPos{x=-1542, y=-53, z=-2465}
+[04:16:12] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1547, y=-51, z=-2465} BlockPos{x=-1546, y=-50, z=-2466}
+[04:16:12] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1547, y=-51, z=-2465} BlockPos{x=-1546, y=-50, z=-2466}
+[04:18:33] [Server thread/INFO] [minecraft/PlayerList]: Metrocon[/179.6.4.36:21975] logged in with entity id 75178 at (-21.365981618842156, 48.0, -148.69999998807907)
+[04:18:33] [Server thread/INFO] [minecraft/MinecraftServer]: Metrocon joined the game
+[04:18:33] [Server thread/INFO] [Jade/]: Syncing config to Metrocon (f5b40665-eadf-3ee0-8b7d-19331e5e5e02)
+[04:18:33] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Metrocon (17)
+[04:18:33] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Metrocon
+[04:19:15] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[04:19:33] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2781ms or 55 ticks behind
+[04:19:50] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[04:20:07] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[04:20:25] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04:20:43] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04:23:04] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1545, y=-37, z=-2510} BlockPos{x=-1544, y=-36, z=-2511}
+[04:24:21] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1507, y=-51, z=-2492} BlockPos{x=-1508, y=-52, z=-2492}
+[04:25:46] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1502, y=-46, z=-2486} BlockPos{x=-1502, y=-49, z=-2486}
+[04:25:46] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1502, y=-46, z=-2486} BlockPos{x=-1502, y=-49, z=-2486}
+[04:27:18] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1498, y=-49, z=-2506} BlockPos{x=-1498, y=-49, z=-2505}
+[04:29:37] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: mBattousai lost connection: Disconnected
+[04:29:37] [Server thread/INFO] [minecraft/MinecraftServer]: mBattousai left the game
+[04:29:37] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mBattousai
+[04:32:20] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1496, y=-52, z=-2521} BlockPos{x=-1496, y=-53, z=-2520}
+[04:32:26] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1496, y=-50, z=-2519} BlockPos{x=-1495, y=-51, z=-2519}
+[04:32:26] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1495, y=-50, z=-2519} BlockPos{x=-1496, y=-51, z=-2519}
+[04:33:25] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1495, y=-52, z=-2531} BlockPos{x=-1493, y=-52, z=-2530}
+[04:36:09] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Metrocon lost connection: Disconnected
+[04:36:09] [Server thread/INFO] [minecraft/MinecraftServer]: Metrocon left the game
+[04:36:09] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Metrocon
+[04:36:13] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1471, y=-51, z=-2490} BlockPos{x=-1471, y=-52, z=-2490}
+[04:36:34] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Shuryn lost connection: Disconnected
+[04:36:34] [Server thread/INFO] [minecraft/MinecraftServer]: Shuryn left the game
+[04:36:34] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shuryn
+[04:39:07] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1434, y=-47, z=-2496} BlockPos{x=-1434, y=-49, z=-2496}
+[04:39:07] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1434, y=-47, z=-2496} BlockPos{x=-1434, y=-49, z=-2496}
+[04:39:38] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1432, y=-52, z=-2492} BlockPos{x=-1433, y=-52, z=-2492}
+[04:45:24] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1408, y=-52, z=-2436} BlockPos{x=-1408, y=-52, z=-2435}
+[04:45:25] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1408, y=-52, z=-2436} BlockPos{x=-1408, y=-52, z=-2435}
+[04:45:30] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1406, y=-52, z=-2429} BlockPos{x=-1406, y=-53, z=-2430}
+[04:46:10] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1400, y=-53, z=-2435} BlockPos{x=-1399, y=-54, z=-2436}
+[04:50:23] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1388, y=-48, z=-2423} BlockPos{x=-1389, y=-49, z=-2422}
+[04:50:54] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1391, y=-51, z=-2435} BlockPos{x=-1390, y=-52, z=-2434}
+[04:50:54] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1392, y=-52, z=-2435} BlockPos{x=-1391, y=-52, z=-2435}
+[04:51:00] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1389, y=-48, z=-2437} BlockPos{x=-1390, y=-49, z=-2436}
+[04:54:42] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1452, y=-46, z=-2473} BlockPos{x=-1451, y=-46, z=-2474}
+[04:54:42] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1452, y=-46, z=-2473} BlockPos{x=-1451, y=-46, z=-2474}
+[04:54:42] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1452, y=-46, z=-2473} BlockPos{x=-1451, y=-46, z=-2474}
+[05:00:14] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1468, y=-51, z=-2523} BlockPos{x=-1468, y=-52, z=-2522}
+[05:00:56] [Server thread/INFO] [minecraft/Villager]: Villager Villager['Unemployed'/92970, l='ServerLevel[world]', x=-1093.84, y=64.00, z=-2226.40] died, message: 'Unemployed hit the ground too hard'
+[05:01:35] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1426, y=-52, z=-2517} BlockPos{x=-1426, y=-52, z=-2518}
+[05:02:14] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1442, y=-48, z=-2524} BlockPos{x=-1441, y=-48, z=-2524}
+[05:07:29] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-979, y=-50, z=-2326} BlockPos{x=-978, y=-51, z=-2326}
+[05:12:08] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1476, y=-52, z=-2552} BlockPos{x=-1474, y=-52, z=-2551}
+[05:14:29] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1483, y=-52, z=-2539} BlockPos{x=-1482, y=-53, z=-2539}
+[05:15:55] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1487, y=-50, z=-2543} BlockPos{x=-1486, y=-51, z=-2543}
+[05:15:55] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1487, y=-50, z=-2543} BlockPos{x=-1486, y=-51, z=-2543}
+[05:19:38] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1516, y=-53, z=-2535} BlockPos{x=-1515, y=-52, z=-2534}
+[05:29:37] [Server thread/INFO] [minecraft/PlayerList]: XDASSASSINDX[/177.228.144.92:65472] logged in with entity id 111081 at (-129.30000001192093, 54.0, -104.30000001192093)
+[05:29:37] [Server thread/INFO] [minecraft/MinecraftServer]: XDASSASSINDX joined the game
+[05:29:37] [Server thread/INFO] [Jade/]: Syncing config to XDASSASSINDX (768865e0-2678-3b49-9d66-545ea0d8833f)
+[05:29:37] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XDASSASSINDX (17)
+[05:29:37] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XDASSASSINDX
+[05:30:17] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: XDASSASSINDX lost connection: Disconnected
+[05:30:17] [Server thread/INFO] [minecraft/MinecraftServer]: XDASSASSINDX left the game
+[05:30:17] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XDASSASSINDX
+[05:30:41] [Server thread/INFO] [minecraft/PlayerList]: mBattousai[/38.10.112.5:50136] logged in with entity id 111445 at (76.00292436888543, 120.0, -171.46903581609845)
+[05:30:41] [Server thread/INFO] [minecraft/MinecraftServer]: mBattousai joined the game
+[05:30:41] [Server thread/INFO] [Jade/]: Syncing config to mBattousai (dcdff24d-ed82-3e06-bfdf-2dd452bcb2e9)
+[05:30:42] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mBattousai (17)
+[05:30:42] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mBattousai
+[05:49:26] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <mBattousai> vas a usar la granja de exp?
+[05:49:42] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <ShioriIto> me tpee mal
+[05:49:42] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <ShioriIto> xd
+[05:49:45] [Server thread/INFO] [minecraft/MinecraftServer]: [Not Secure] <mBattousai> jaja
+[06:02:41] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1573, y=-46, z=-2438} BlockPos{x=-1574, y=-46, z=-2437}
+[06:12:04] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Nygel1657 lost connection: Disconnected
+[06:12:04] [Server thread/INFO] [minecraft/MinecraftServer]: Nygel1657 left the game
+[06:12:04] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nygel1657
+[06:12:09] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: mBattousai lost connection: Disconnected
+[06:12:09] [Server thread/INFO] [minecraft/MinecraftServer]: mBattousai left the game
+[06:12:09] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mBattousai
+[06:18:52] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1400, y=88, z=-2487} BlockPos{x=-1399, y=87, z=-2487}
+[06:26:33] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1391, y=87, z=-2472} BlockPos{x=-1389, y=87, z=-2472}
+[06:27:25] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1389, y=92, z=-2492} BlockPos{x=-1390, y=90, z=-2493}
+[06:27:25] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1389, y=92, z=-2492} BlockPos{x=-1390, y=90, z=-2493}
+[06:27:25] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1393, y=92, z=-2491} BlockPos{x=-1393, y=91, z=-2490}
+[06:27:34] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1393, y=89, z=-2484} BlockPos{x=-1395, y=89, z=-2484}
+[06:27:42] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1388, y=91, z=-2490} BlockPos{x=-1387, y=90, z=-2490}
+[06:37:42] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1391, y=88, z=-2526} BlockPos{x=-1390, y=88, z=-2526}
+[06:37:42] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=-1391, y=88, z=-2526} BlockPos{x=-1390, y=88, z=-2526}
+[08:32:22] [Server thread/INFO] [minecraft/MinecraftServer]: ShioriIto has made the advancement [A Throwaway Joke]
+[08:45:57] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: ShioriIto lost connection: Disconnected
+[08:45:57] [Server thread/INFO] [minecraft/MinecraftServer]: ShioriIto left the game
+[08:45:57] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShioriIto
+[14:59:28] [Server thread/INFO] [minecraft/PlayerList]: CrawKatt[/186.79.14.188:55550] logged in with entity id 160656 at (60.15313432289167, 118.0, -163.09538752792008)
+[14:59:28] [Server thread/INFO] [minecraft/MinecraftServer]: CrawKatt joined the game
+[14:59:28] [Server thread/INFO] [Jade/]: Syncing config to CrawKatt (5cf373c6-9b7d-3c4b-b767-5718e6090af7)
+[14:59:30] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CrawKatt (17)
+[14:59:30] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CrawKatt
+[15:01:07] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: CrawKatt lost connection: Disconnected
+[15:01:07] [Server thread/INFO] [minecraft/MinecraftServer]: CrawKatt left the game
+[15:01:07] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CrawKatt
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:01:24] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:01:24] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15:01:24] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

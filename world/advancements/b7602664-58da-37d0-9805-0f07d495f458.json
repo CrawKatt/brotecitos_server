@@ -71,6 +71,7 @@
       "minecraft:windswept_forest": "2023-12-23 05:52:29 +0000",
       "minecraft:jungle": "2023-12-21 02:23:33 +0000",
       "minecraft:ocean": "2023-12-21 02:13:58 +0000",
+      "minecraft:old_growth_spruce_taiga": "2023-12-24 03:14:17 +0000",
       "minecraft:snowy_beach": "2023-12-22 04:16:32 +0000",
       "minecraft:warm_ocean": "2023-12-21 07:58:59 +0000",
       "minecraft:flower_forest": "2023-12-21 02:06:29 +0000",
@@ -6716,7 +6717,9 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_jungle": "2023-12-22 05:55:28 +0000"
+      "in_mineshaft_jungle": "2023-12-22 05:55:28 +0000",
+      "in_mineshaft_crimson": "2023-12-24 03:56:46 +0000",
+      "in_mineshaft_nether": "2023-12-24 04:01:28 +0000"
     },
     "done": false
   },
@@ -7204,6 +7207,7 @@
     "criteria": {
       "in_village_birch": "2023-12-24 01:00:03 +0000",
       "in_village_swamp": "2023-12-23 05:47:56 +0000",
+      "in_village_oak": "2023-12-24 03:20:49 +0000",
       "in_village_warped": "2023-12-23 20:32:42 +0000"
     },
     "done": false
@@ -7754,147 +7758,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2023-12-24 03:02:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2023-12-24 03:02:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_bridge_pier": {
-    "criteria": {
-      "has_planks": "2023-12-24 02:54:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2023-12-24 03:02:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2023-12-24 02:44:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2023-12-24 02:54:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2023-12-24 02:48:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_glazed_terracotta": {
-    "criteria": {
-      "has_gray_terracotta": "2023-12-24 03:02:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2023-12-24 02:38:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2023-12-24 03:02:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2023-12-24 02:54:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2023-12-24 02:54:11 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/froststalker_kill": {
-    "criteria": {
-      "ex": "2023-12-24 02:59:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2023-12-24 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2023-12-24 02:38:41 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/brick_bridge": {
-    "criteria": {
-      "has_planks": "2023-12-24 03:02:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/brick_bridge_pier": {
-    "criteria": {
-      "has_planks": "2023-12-24 03:02:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2023-12-24 02:54:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2023-12-24 03:02:20 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:temples": {
-    "criteria": {
-      "in_temple_taiga": "2023-12-24 02:53:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2023-12-24 03:02:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2023-12-24 02:54:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2023-12-24 02:54:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2023-12-24 02:59:17 +0000"
     },
     "done": true
   },
@@ -7904,9 +7770,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_minecart": "2023-12-24 02:54:36 +0000"
+      "has_slime_ball": "2023-12-24 02:31:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2023-12-24 02:38:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2023-12-24 02:38:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2023-12-24 02:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-12-24 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2023-12-24 02:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-12-24 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2023-12-24 02:53:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2023-12-24 02:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-12-24 02:54:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2023-12-24 02:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2023-12-24 02:54:34 +0000"
     },
     "done": true
   },
@@ -7916,9 +7848,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
-      "has_slime_ball": "2023-12-24 02:31:57 +0000"
+      "has_minecart": "2023-12-24 02:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-12-24 02:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-12-24 02:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-12-24 02:54:36 +0000"
     },
     "done": true
   },
@@ -7934,21 +7884,75 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sugar_cube": {
+  "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
-      "has_sugar": "2023-12-24 02:47:27 +0000"
+      "ex": "2023-12-24 02:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-12-24 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2023-12-24 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2023-12-24 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2023-12-24 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2023-12-24 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-12-24 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2023-12-24 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/brick_bridge": {
+    "criteria": {
+      "has_planks": "2023-12-24 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2023-12-24 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-12-24 03:02:29 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2023-12-24 03:02:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2023-12-24 02:38:41 +0000"
     },
     "done": true
   },
