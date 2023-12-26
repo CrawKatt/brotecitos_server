@@ -4344,9 +4344,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_home": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "coded_trigger": "2023-12-21 20:37:42 +0000"
+      "has_magic_tablet": "2023-12-21 20:19:57 +0000"
     },
     "done": true
   },
@@ -4356,9 +4356,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
+  "tombstone:adventure/use_home": {
     "criteria": {
-      "has_magic_tablet": "2023-12-21 20:19:57 +0000"
+      "coded_trigger": "2023-12-21 20:37:42 +0000"
     },
     "done": true
   },

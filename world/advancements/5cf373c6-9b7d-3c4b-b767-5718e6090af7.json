@@ -756,6 +756,7 @@
       "rotten_flesh": "2023-12-23 23:41:28 +0000",
       "glow_berries": "2023-12-23 23:34:21 +0000",
       "cooked_chicken": "2023-12-21 13:49:35 +0000",
+      "cooked_salmon": "2023-12-26 02:08:51 +0000",
       "carrot": "2023-12-20 21:15:03 +0000"
     },
     "done": false
@@ -1812,6 +1813,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2023-12-26 02:15:00 +0000",
       "minecraft:skeleton": "2023-12-20 21:27:40 +0000",
       "minecraft:ghast": "2023-12-20 22:06:59 +0000",
       "minecraft:spider": "2023-12-20 23:47:44 +0000",
@@ -2106,6 +2108,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2023-12-26 02:31:36 +0000",
       "minecraft:nether_wastes": "2023-12-20 21:39:22 +0000",
       "minecraft:basalt_deltas": "2023-12-24 02:18:52 +0000"
     },
@@ -2677,7 +2680,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_birch": "2023-12-20 22:42:04 +0000"
+      "in_mineshaft_birch": "2023-12-20 22:42:04 +0000",
+      "in_mineshaft_nether": "2023-12-26 03:04:22 +0000"
     },
     "done": false
   },
@@ -5037,6 +5041,36 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2023-12-24 02:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-12-26 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2023-12-26 00:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2023-12-26 01:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-12-26 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-12-26 02:15:01 +0000"
     },
     "done": true
   },
