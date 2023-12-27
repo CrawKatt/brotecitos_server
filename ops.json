@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "dcdff24d-ed82-3e06-bfdf-2dd452bcb2e9",
+    "name": "mBattousai",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

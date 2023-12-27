@@ -1,650 +1,628 @@
-[26Dec2023 00:01:16.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
-[26Dec2023 00:01:16.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
-[26Dec2023 00:01:16.778] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shuryn
-[26Dec2023 00:01:25.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shuryn[/190.231.178.183:64700] logged in with entity id 157754 at (-134.5, 63.03584062504456, -109.5)
-[26Dec2023 00:01:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn joined the game
-[26Dec2023 00:01:25.978] [Server thread/INFO] [Jade/]: Syncing config to Shuryn (b7602664-58da-37d0-9805-0f07d495f458)
-[26Dec2023 00:01:26.174] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shuryn (17)
-[26Dec2023 00:01:26.175] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shuryn
-[26Dec2023 00:01:55.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! -10.049591421817695,0.7849419981460315,1.3283005440176794
-[26Dec2023 00:02:40.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -7.77748296947766,5.6843418860808015E-14,6.830451262121414
-[26Dec2023 00:02:40.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -8.046419227014667,5.6843418860808015E-14,7.124906276210936
-[26Dec2023 00:02:40.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -8.314875065847673,5.6843418860808015E-14,7.419954790578004
-[26Dec2023 00:02:40.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -8.58299343521685,5.6843418860808015E-14,7.715453736731774
-[26Dec2023 00:02:40.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -8.850891264083657,5.6843418860808015E-14,8.011284254855582
-[26Dec2023 00:02:40.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -9.11866786902442,5.6843418860808015E-14,8.307344254972804
-[26Dec2023 00:02:45.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -7.740718139969545,0.0,6.928373759212718
-[26Dec2023 00:02:45.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -8.047237448053806,0.0,7.185164304108753
-[26Dec2023 00:02:45.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -8.35405197986006,0.0,7.441618895452507
-[26Dec2023 00:02:45.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -8.661139501539537,0.0,7.697762227025919
-[26Dec2023 00:02:45.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -8.968477571876974,0.0,7.9536194904260356
-[26Dec2023 00:02:45.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -9.276048418943105,0.0,8.20921038530787
-[26Dec2023 00:02:45.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -9.583833619112852,0.0,8.464555612279582
-[26Dec2023 00:02:45.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -9.89181416409724,0.0,8.71967676721897
-[26Dec2023 00:02:45.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -10.199975371600885,0.0,8.97459031735923
-[26Dec2023 00:02:45.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -10.508301602394113,0.0,9.229314052266318
-[26Dec2023 00:02:45.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -10.816781204472022,0.0,9.483861013492628
-[26Dec2023 00:02:45.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -11.125401264003813,0.0,9.738245907491432
-[26Dec2023 00:02:45.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -11.43415016040467,0.0,9.99248197007023
-[26Dec2023 00:02:45.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -11.743017435148658,0.0,10.246581113455704
-[26Dec2023 00:02:45.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.051993675562699,0.0,10.500554056788701
-[26Dec2023 00:02:45.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.361070408378396,0.0,10.754410449158513
-[26Dec2023 00:02:45.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.670237584353345,0.0,11.008161945664256
-[26Dec2023 00:02:45.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.979488582470708,0.0,11.261816063113088
-[26Dec2023 00:02:45.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.288815020514221,0.0,11.515382539413167
-[26Dec2023 00:02:45.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.598211779653525,0.0,11.768867167762323
-[26Dec2023 00:02:45.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.907671827777335,0.0,12.022278132957695
-[26Dec2023 00:02:45.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.21719125742436,0.0,12.275619828534673
-[26Dec2023 00:02:45.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.526764130440824,0.0,12.528899181456723
-[26Dec2023 00:02:45.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.836387525789974,0.0,12.782119453209248
-[26Dec2023 00:02:45.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.146056391237266,0.0,13.035286551910644
-[26Dec2023 00:02:45.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.455766179771786,0.0,13.28840579486723
-[26Dec2023 00:02:45.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.765512799083808,0.0,13.54148196765459
-[26Dec2023 00:02:45.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -16.075294987533425,0.0,13.794516402646423
-[26Dec2023 00:02:45.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -8.950590430391344,0.0,7.3762934503953375
-[26Dec2023 00:02:45.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -9.260433442063913,0.0,7.629256513759515
-[26Dec2023 00:02:45.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -9.570302383635749,0.0,7.882189150273234
-[26Dec2023 00:02:45.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -9.88019466211631,0.0,8.135094402622144
-[26Dec2023 00:02:45.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -10.190544065412041,0.0,8.387430092385102
-[26Dec2023 00:02:45.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -10.501689673715987,0.0,8.638755700567685
-[26Dec2023 00:02:45.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -10.81389236549228,0.0,8.888718148541784
-[26Dec2023 00:02:45.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -11.127346899382815,0.0,9.137041603005855
-[26Dec2023 00:02:45.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -11.442192452646964,0.0,9.38351797821258
-[26Dec2023 00:02:45.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -11.758526162598514,0.0,9.627991790484202
-[26Dec2023 00:02:45.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.076408377407688,0.0,9.870355682178342
-[26Dec2023 00:02:45.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.39586940838069,0.0,10.110543100099903
-[26Dec2023 00:02:45.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.716915405846066,0.0,10.348521555198317
-[26Dec2023 00:02:45.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.039535554799954,0.0,10.584283194220347
-[26Dec2023 00:02:45.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.363702177015966,0.0,10.817845882606434
-[26Dec2023 00:02:45.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.689376943595335,0.0,11.049244441187852
-[26Dec2023 00:02:45.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.016514268340757,0.0,11.278525888458944
-[26Dec2023 00:02:45.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.34506027887494,0.0,11.505751653665243
-[26Dec2023 00:02:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.674957877188263,0.0,11.730989735679373
-[26Dec2023 00:02:46.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.006145240535488,0.0,11.95431743232723
-[26Dec2023 00:02:46.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.338560406629654,0.0,12.175813932212463
-[26Dec2023 00:02:46.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.672141373277896,0.0,12.395560181518022
-[26Dec2023 00:02:46.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -16.00682425090315,0.0,12.613642070322499
-[26Dec2023 00:02:46.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -16.342545492741237,0.0,12.83014669162037
-[26Dec2023 00:02:46.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -16.679245787015702,0.0,13.045155630991417
-[26Dec2023 00:02:47.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -17.016865811291154,0.0,13.258752168848446
-[26Dec2023 00:02:47.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -17.355346289418662,0.0,13.471021142618724
-[26Dec2023 00:02:47.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -17.694633779733067,0.0,13.682038853830818
-[26Dec2023 00:02:47.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -18.03467436210849,0.0,13.891883894306602
-[26Dec2023 00:02:47.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -18.375417537754174,0.0,14.100630289840524
-[26Dec2023 00:02:47.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -18.716815901982386,0.0,14.308347962390371
-[26Dec2023 00:02:47.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -19.058824849698908,0.0,14.515103147911645
-[26Dec2023 00:02:47.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -19.4014004029965,0.0,14.720962102817907
-[26Dec2023 00:02:49.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.593130291546913,0.0,-8.51593276854328
-[26Dec2023 00:02:49.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.593130291546913,0.0,-8.51593276854328
-[26Dec2023 00:02:49.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.593130291546913,0.0,-8.51593276854328
-[26Dec2023 00:02:49.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.593130291546913,0.0,-8.51593276854328
-[26Dec2023 00:02:49.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.593130291546913,0.0,-8.51593276854328
-[26Dec2023 00:02:49.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.593130291546913,0.0,-8.51593276854328
-[26Dec2023 00:02:49.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.593130291546913,0.0,-8.51593276854328
-[26Dec2023 00:02:49.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.593130291546913,0.0,-8.51593276854328
-[26Dec2023 00:02:49.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.593450506517229,0.0,-8.515439942229364
-[26Dec2023 00:02:49.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 10.2757031230434,0.0,-8.273113785612736
-[26Dec2023 00:02:49.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 9.95736620273567,0.0,-8.031513804625092
-[26Dec2023 00:02:49.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 9.63812870718425,0.0,-7.791085414967142
-[26Dec2023 00:02:49.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 9.317755647455215,0.0,-7.55218140471186
-[26Dec2023 00:02:49.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 8.996074023213168,0.0,-7.315075898385544
-[26Dec2023 00:02:49.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 8.672962734656494,0.0,-7.079974138123816
-[26Dec2023 00:02:49.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 8.348339748167405,0.0,-6.8470280350748
-[26Dec2023 00:02:53.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -9.014926067912484,0.0,5.185479026354756
-[26Dec2023 00:03:44.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/160385, l='ServerLevel[world]', x=381.64, y=82.00, z=-665.01] died, message: 'Nitwit was slain by Zombie'
-[26Dec2023 00:03:51.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! 9.687783536496,0.0,-2.6512031268752025
-[26Dec2023 00:06:22.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -10.340062170679857,7.602807272633072E-13,0.4390391343978308
-[26Dec2023 00:06:22.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -10.739481049134554,7.673861546209082E-13,0.4332634834086093
-[26Dec2023 00:06:22.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -11.138955723372135,7.744915819785092E-13,0.42763589130061064
-[26Dec2023 00:06:22.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -11.538481153980058,7.744915819785092E-13,0.4221952387666761
-[26Dec2023 00:06:22.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -11.93805270490435,7.744915819785092E-13,0.41697268432005785
-[26Dec2023 00:06:22.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.337666084487239,7.744915819785092E-13,0.41198860138422333
-[26Dec2023 00:06:22.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.737317385533345,7.744915819785092E-13,0.40726132637450974
-[26Dec2023 00:06:22.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.13700300961051,7.744915819785092E-13,0.4027996924918398
-[26Dec2023 00:06:22.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.53671967342649,7.744915819785092E-13,0.3986078148961951
-[26Dec2023 00:06:22.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.936464395941186,7.744915819785092E-13,0.39468939730420516
-[26Dec2023 00:06:22.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.336234445789898,7.744915819785092E-13,0.3910401032991331
-[26Dec2023 00:06:22.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.736027357293835,7.744915819785092E-13,0.3876560301353038
-[26Dec2023 00:06:22.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.135840892715692,7.744915819785092E-13,0.3845336653779441
-[26Dec2023 00:06:22.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.535673023190782,7.744915819785092E-13,0.3816660129114098
-[26Dec2023 00:06:22.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.935521907839814,7.744915819785092E-13,0.379042941296575
-[26Dec2023 00:06:22.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -16.335385882420837,7.744915819785092E-13,0.37665533224560477
-[26Dec2023 00:06:22.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -16.7352634453909,7.744915819785092E-13,0.37449497930060716
-[26Dec2023 00:06:22.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -17.13515324163609,7.744915819785092E-13,0.3725506617015526
-[26Dec2023 00:06:22.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -17.535054044103276,7.744915819785092E-13,0.3708122807648806
-[26Dec2023 00:06:22.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -17.934964748444713,7.744915819785092E-13,0.3692707476717487
-[26Dec2023 00:06:22.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -18.33488436074748,7.744915819785092E-13,0.3679140475347822
-[26Dec2023 00:06:22.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -18.734811982764597,7.744915819785092E-13,0.36673136695731046
-[26Dec2023 00:06:22.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -19.134746806073906,7.744915819785092E-13,0.3657129738791127
-[26Dec2023 00:06:22.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -19.5346880993701,7.744915819785092E-13,0.3648501094423864
-[26Dec2023 00:06:22.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -19.93463521192905,7.744915819785092E-13,0.3641310557292172
-[26Dec2023 00:06:22.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -20.334587554373798,7.744915819785092E-13,0.3635452666101173
-[26Dec2023 00:06:22.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -20.73454459253975,7.744915819785092E-13,0.3630870855149624
-[26Dec2023 00:06:22.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -21.134505849404093,7.744915819785092E-13,0.36274758658453266
-[26Dec2023 00:06:22.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -21.53447089564628,7.744915819785092E-13,0.36251873654589417
-[26Dec2023 00:06:22.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -21.934439344877887,7.744915819785092E-13,0.36239330545345183
-[26Dec2023 00:06:23.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.393706294448634,2.1316282072803006E-14,-0.0825505972453584
-[26Dec2023 00:06:23.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -12.793680548635848,2.1316282072803006E-14,-0.0824918955489693
-[26Dec2023 00:06:23.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.193657270116546,2.1316282072803006E-14,-0.08235086020886229
-[26Dec2023 00:06:23.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.593636204710833,2.1316282072803006E-14,-0.08213188964498386
-[26Dec2023 00:06:23.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -13.993617131107214,2.1316282072803006E-14,-0.08184277738166656
-[26Dec2023 00:06:23.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.393599838949626,2.1316282072803006E-14,-0.08148670264426983
-[26Dec2023 00:06:23.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -14.793584150093409,2.1316282072803006E-14,-0.08107036168178183
-[26Dec2023 00:06:23.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.193562140703364,2.1316282072803006E-14,-0.07990187194775444
-[26Dec2023 00:06:23.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.593485913476343,2.1316282072803006E-14,-0.07672666673317963
-[26Dec2023 00:06:23.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -15.993279827880428,2.1316282072803006E-14,-0.07055554990097335
-[26Dec2023 00:06:23.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -16.392853150223118,2.1316282072803006E-14,-0.06061552686878713
-[26Dec2023 00:06:23.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -16.792110380729866,2.1316282072803006E-14,-0.046324281042643634
-[26Dec2023 00:06:23.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -17.190957418670706,2.1316282072803006E-14,-0.027255542449211134
-[26Dec2023 00:06:23.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -17.58930567301192,2.1316282072803006E-14,-0.0031116659836243343
-[26Dec2023 00:06:23.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -17.987075732200253,2.1316282072803006E-14,0.026293510973573575
-[26Dec2023 00:06:23.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -18.384199087445467,2.1316282072803006E-14,0.061053879732526184
-[26Dec2023 00:06:23.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -18.780617914161724,2.1316282072803006E-14,0.10119203932140408
-[26Dec2023 00:06:23.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -19.176284804484226,2.1316282072803006E-14,0.14667433171325683
-[26Dec2023 00:06:23.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -19.571164720730366,2.1316282072803006E-14,0.19741313805491245
-[26Dec2023 00:06:23.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -19.965231780251997,2.1316282072803006E-14,0.2532875214328669
-[26Dec2023 00:06:23.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -20.358469640058075,2.1316282072803006E-14,0.3141468445958253
-[26Dec2023 00:06:23.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -20.750870650882206,2.1316282072803006E-14,0.379817708354949
-[26Dec2023 00:06:23.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -21.142434857424746,2.1316282072803006E-14,0.4501101449206999
-[26Dec2023 00:06:23.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -21.533168886229276,2.1316282072803006E-14,0.5248231481341463
-[26Dec2023 00:06:23.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -21.92308478085863,2.1316282072803006E-14,0.6037496115588965
-[26Dec2023 00:06:23.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -22.312198785915285,2.1316282072803006E-14,0.6866807317860548
-[26Dec2023 00:06:23.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -22.70053130691693,2.1316282072803006E-14,0.7734062870962362
-[26Dec2023 00:06:23.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -23.088105637388026,2.1316282072803006E-14,0.86371852693253
-[26Dec2023 00:06:23.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -23.474947923378892,2.1316282072803006E-14,0.9574120002215523
-[26Dec2023 00:06:23.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -23.861085894736306,2.1316282072803006E-14,1.0542870339512547
-[26Dec2023 00:06:23.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -24.24654886691141,2.1316282072803006E-14,1.1541492093817851
-[26Dec2023 00:06:23.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -24.631366505790226,2.1316282072803006E-14,1.2568125134790762
-[26Dec2023 00:06:23.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -25.015570115128327,2.1316282072803006E-14,1.3620948997142932
-[26Dec2023 00:06:23.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -25.39919010720442,2.1316282072803006E-14,1.4698251864623444
-[26Dec2023 00:06:35.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -7.023668078681567,0.0,7.188480751082125
-[26Dec2023 00:06:35.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -7.179255369547633,0.0,7.545394234358014
-[26Dec2023 00:06:35.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -7.332567977545779,0.0,7.904346108390314
-[26Dec2023 00:06:35.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -7.483912921797412,0.0,8.265104434189993
-[26Dec2023 00:06:35.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -7.633559235630571,0.0,8.627462869484702
-[26Dec2023 00:06:36.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -3.7215119761166875,0.0,9.584870745265107
-[26Dec2023 00:06:36.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -3.8386633817663665,0.0,9.965142974230616
-[26Dec2023 00:06:40.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 1.8709853606541458,0.0,-13.0023432677051
-[26Dec2023 00:06:40.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 1.8709853606541458,0.0,-13.0023432677051
-[26Dec2023 00:06:40.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.18615135132790783,0.0,-21.514998628892158
-[26Dec2023 00:06:40.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.2664012204616597,0.0,-21.131861508993325
-[26Dec2023 00:06:40.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.332965602253978,0.0,-20.74744065108166
-[26Dec2023 00:06:40.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.3880189871756272,0.0,-20.361757565311564
-[26Dec2023 00:06:40.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.4334364956021943,0.0,-19.974856637321636
-[26Dec2023 00:06:40.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.47083451223457473,0.0,-19.586797282552766
-[26Dec2023 00:06:40.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.5016036903439556,0.0,-19.197648341722697
-[26Dec2023 00:06:40.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.5269388209012504,0.0,-18.807483815339424
-[26Dec2023 00:06:40.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.5478620025409384,0.0,-18.4163798815797
-[26Dec2023 00:06:40.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.5652435710130987,0.0,-18.024412614711196
-[26Dec2023 00:06:40.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.5798248253582585,0.0,-17.63165618871801
-[26Dec2023 00:06:40.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.5922346906903897,0.0,-17.23818177465273
-[26Dec2023 00:06:41.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.6030047408073358,0.0,-16.844056801574197
-[26Dec2023 00:06:41.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.6125827372608796,0.0,-16.4493445000071
-[26Dec2023 00:06:41.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.6213371569087371,0.0,-16.054103677319972
-[26Dec2023 00:06:41.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.6295804497590041,0.0,-15.658388642225987
-[26Dec2023 00:06:41.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.6375708015297334,0.0,-15.26224925604231
-[26Dec2023 00:06:41.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.6455175584930544,0.0,-14.865731027252536
-[26Dec2023 00:06:41.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.6535937807168182,0.0,-14.468875397778447
-[26Dec2023 00:06:41.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.6619360380606736,0.0,-14.071719855338642
-[26Dec2023 00:06:47.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 2.3964322883703346,0.0,10.063415126075142
-[26Dec2023 00:06:47.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 2.4783430793418972,0.0,10.454153713002711
-[26Dec2023 00:06:47.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 2.5589352686016014,0.0,10.845222961999752
-[26Dec2023 00:06:47.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 2.63785663629821,0.0,11.236671223070857
-[26Dec2023 00:06:47.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 2.7148347348550033,0.0,11.628529240923967
-[26Dec2023 00:06:47.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 2.789672999780919,0.0,12.020812895251652
-[26Dec2023 00:06:47.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 2.8622282052508865,0.0,12.413528133126647
-[26Dec2023 00:06:47.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 2.932409090687287,0.0,12.80667242792515
-[26Dec2023 00:06:47.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.0001636829196343,0.0,13.200237411110834
-[26Dec2023 00:06:47.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.0654754629035494,0.0,13.594210130704028
-[26Dec2023 00:06:47.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.128356083375479,0.0,13.988574493102533
-[26Dec2023 00:06:47.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.1888387928559894,0.0,14.383312419159552
-[26Dec2023 00:06:47.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.246277001828929,0.0,14.778463312106851
-[26Dec2023 00:06:47.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.3001791983614908,0.0,15.174037917551118
-[26Dec2023 00:06:47.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.350178792151496,0.0,15.570027239108185
-[26Dec2023 00:06:47.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.3960182181444907,0.0,15.9664087221812
-[26Dec2023 00:06:47.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.4375306404401442,0.0,16.363151197236107
-[26Dec2023 00:06:47.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 3.4746272097600865,0.0,16.760218538989193
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1905895159608235,0.0,-15.455452902985144
-[26Dec2023 00:06:49.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1537617612040947,0.0,-15.05851005985528
-[26Dec2023 00:06:49.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.2382707091509815,0.0,-20.24822322926957
-[26Dec2023 00:06:49.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1908448036035395,0.0,-19.85276639293329
-[26Dec2023 00:06:49.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.1386172214911028,0.0,-19.458011513606607
-[26Dec2023 00:06:49.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.0819006322196003,0.0,-19.06392995118506
-[26Dec2023 00:06:49.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -1.0209914837631118,0.0,-18.670492863661366
-[26Dec2023 00:06:49.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.9561752960810281,0.0,-18.277670091102323
-[26Dec2023 00:06:49.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.8877202865753588,0.0,-17.885432042053026
-[26Dec2023 00:06:49.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.8158790752012237,0.0,-17.493749521205018
-[26Dec2023 00:06:49.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.7408939229359817,0.0,-17.10259260944747
-[26Dec2023 00:06:49.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.6629903329292688,0.0,-16.711932621244387
-[26Dec2023 00:06:49.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.5830537712399178,0.0,-16.321564564326422
-[26Dec2023 00:06:49.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.5025077883808251,0.0,-15.931170263613808
-[26Dec2023 00:06:49.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.4225176873955263,0.0,-15.540525294493477
-[26Dec2023 00:06:49.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.34402465368020785,0.0,-15.149477437247015
-[26Dec2023 00:06:49.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.2677811750019714,0.0,-14.757928817129937
-[26Dec2023 00:06:49.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.19437982240100382,0.0,-14.36582242697159
-[26Dec2023 00:06:49.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.12426818202200707,0.0,-13.973132675998727
-[26Dec2023 00:06:50.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.06116770735249588,0.0,-13.619711909485659
-[26Dec2023 00:06:50.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! -0.00437728165437079,0.0,-13.301633228050036
-[26Dec2023 00:06:50.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.04673410011994861,0.0,-13.015362422341582
-[26Dec2023 00:06:50.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.09273434249823254,0.0,-12.75771870402923
-[26Dec2023 00:06:50.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.13413455954196252,0.0,-12.525839363690807
-[26Dec2023 00:06:50.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Turnail) moved too quickly! 0.17139475389427616,0.0,-12.317147962914646
-[26Dec2023 00:15:44.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [We Need to Go Deeper]
-[26Dec2023 00:15:57.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! -4.3571409263038525,-0.0013359791121487774,9.05486461316962
-[26Dec2023 00:16:01.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[26Dec2023 00:16:31.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! 5.593875151695164,2.5764407054569602,-8.085956636245669
-[26Dec2023 00:16:51.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! -7.523939039372934,-0.41999998688697815,-6.812448010498031
-[26Dec2023 00:23:54.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [Fetch Me Their Souls!]
-[26Dec2023 00:26:22.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has completed the challenge [Return to Sender]
-[26Dec2023 00:30:43.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [Nightmare Fuel]
-[26Dec2023 00:39:04.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=100, z=-358} BlockPos{x=138, y=100, z=-359}
-[26Dec2023 00:41:59.122] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Turnail with unique ID 7cbf327b-72ec-4b88-ac53-79f3fda149f0
-[26Dec2023 00:41:59.122] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 200 Y: 91 Z: -164
-[26Dec2023 00:41:59.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail was shot by Skeleton
-[26Dec2023 00:41:59.127] [Server thread/INFO] [tombstone/]: The player Turnail has successfully been saved
-[26Dec2023 00:45:25.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CrawKatt[/186.79.14.188:36458] logged in with entity id 202226 at (-139.40835368794697, 49.0, -110.92032853947126)
-[26Dec2023 00:45:25.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt joined the game
-[26Dec2023 00:45:25.453] [Server thread/INFO] [Jade/]: Syncing config to CrawKatt (5cf373c6-9b7d-3c4b-b767-5718e6090af7)
-[26Dec2023 00:45:27.498] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CrawKatt (17)
-[26Dec2023 00:45:27.500] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CrawKatt
-[26Dec2023 00:46:08.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[26Dec2023 00:48:12.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[26Dec2023 00:54:54.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has completed the challenge [Eye of the Tiger]
-[26Dec2023 00:56:03.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=140, y=103, z=-360} BlockPos{x=139, y=102, z=-361}
-[26Dec2023 00:57:11.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=152, y=98, z=-359} BlockPos{x=152, y=96, z=-359}
-[26Dec2023 01:03:15.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[26Dec2023 01:04:20.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [A Bone to Pick]
-[26Dec2023 01:05:01.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1563, y=-47, z=-2526} BlockPos{x=-1564, y=-46, z=-2527}
-[26Dec2023 01:05:19.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[26Dec2023 01:05:37.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
-[26Dec2023 01:05:38.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[26Dec2023 01:06:00.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[26Dec2023 01:08:18.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[26Dec2023 01:08:37.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
-[26Dec2023 01:08:55.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[26Dec2023 01:09:14.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3915ms or 78 ticks behind
-[26Dec2023 01:09:32.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2686ms or 53 ticks behind
-[26Dec2023 01:09:53.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[26Dec2023 01:10:11.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3588ms or 71 ticks behind
-[26Dec2023 01:10:30.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3731ms or 74 ticks behind
-[26Dec2023 01:10:55.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[26Dec2023 01:11:14.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3648ms or 72 ticks behind
-[26Dec2023 01:11:38.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8977ms or 179 ticks behind
-[26Dec2023 01:12:01.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[26Dec2023 01:12:45.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[26Dec2023 01:13:03.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
-[26Dec2023 01:14:32.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[26Dec2023 01:14:52.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[26Dec2023 01:14:56.556] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:14:56.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:14:56.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:14:56.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:06.305] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:06.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:06.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:06.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:06.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:06.828] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:06.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.867] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:07.998] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:08.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:08.329] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:08.436] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:08.571] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:08.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:08.791] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:08.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:09.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:09.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:09.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:09.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:09.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:09.566] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:09.672] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:09.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:09.894] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:10.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:10.110] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:10.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:10.340] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:10.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:10.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:10.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:10.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:11.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:11.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:11.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:11.371] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:11.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:11.592] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:11.704] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:11.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:13.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:13.931] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:14.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:14.158] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:14.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:14.394] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:14.503] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:14.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:14.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:14.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:14.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:15.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:15.167] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:15.369] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:15.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[26Dec2023 01:15:15.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:15.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:15.757] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:15.870] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:15.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:16.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:16.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:16.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:16.436] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:16.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:16.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:16.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:16.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:17.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:17.203] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:17.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:17.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:17.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:17.632] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:17.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:17.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:17.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:18.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:18.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:18.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:18.606] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:18.723] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:18.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:18.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:19.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:19.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:19.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:19.364] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:19.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:19.567] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:19.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:19.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:19.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.328] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.532] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:20.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:21.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:21.269] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:21.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:21.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:21.603] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:21.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:21.830] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:21.933] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:22.039] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:22.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:22.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:22.364] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:22.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:22.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 01:15:35.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[26Dec2023 01:16:02.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has completed the challenge [Find: Ruin pillager]
-[26Dec2023 01:17:34.744] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/232604, l='ServerLevel[world]', x=-1271.50, y=54.00, z=-2064.50]
-[26Dec2023 01:18:00.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[26Dec2023 01:19:11.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[26Dec2023 01:19:28.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
-[26Dec2023 01:19:45.411] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CrawKatt with unique ID 3c4103d8-7527-43e3-987a-1d909dfe6957
-[26Dec2023 01:19:45.412] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -135 Y: 54 Z: -95
-[26Dec2023 01:19:45.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt was slain by XDASSASSINDX
-[26Dec2023 01:19:45.415] [Server thread/INFO] [tombstone/]: The player CrawKatt has successfully been saved
-[26Dec2023 01:20:08.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[26Dec2023 01:20:26.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
-[26Dec2023 01:21:38.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[26Dec2023 01:22:01.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7828ms or 156 ticks behind
-[26Dec2023 01:22:20.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
-[26Dec2023 01:24:02.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[26Dec2023 01:24:19.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
-[26Dec2023 01:24:37.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
-[26Dec2023 01:24:56.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3597ms or 71 ticks behind
-[26Dec2023 01:25:13.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2673ms or 53 ticks behind
-[26Dec2023 01:25:31.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
-[26Dec2023 01:25:31.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
-[26Dec2023 01:25:31.005] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nygel1657
-[26Dec2023 01:29:08.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nygel1657[/179.6.164.35:2115] logged in with entity id 245717 at (49.081194859798615, 118.0, -167.22825314627997)
-[26Dec2023 01:29:08.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 joined the game
-[26Dec2023 01:29:08.382] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
-[26Dec2023 01:29:10.799] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nygel1657 (17)
-[26Dec2023 01:29:10.799] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nygel1657
-[26Dec2023 01:29:22.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
-[26Dec2023 01:29:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
-[26Dec2023 01:29:22.555] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nygel1657
-[26Dec2023 01:49:18.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=188, y=100, z=-332} BlockPos{x=188, y=100, z=-333}
-[26Dec2023 01:51:29.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nygel1657[/179.6.164.35:24930] logged in with entity id 261566 at (49.081194859798615, 118.0, -167.22825314627997)
-[26Dec2023 01:51:29.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 joined the game
-[26Dec2023 01:51:29.929] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
-[26Dec2023 01:51:32.443] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nygel1657 (17)
-[26Dec2023 01:51:32.443] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nygel1657
-[26Dec2023 01:51:49.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Disconnected
-[26Dec2023 01:51:49.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
-[26Dec2023 01:51:49.344] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Turnail
-[26Dec2023 01:54:30.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=98, z=-351} BlockPos{x=162, y=96, z=-351}
-[26Dec2023 01:57:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> donde estan los libros?
-[26Dec2023 01:57:24.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> a
-[26Dec2023 01:58:19.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=99, z=-347} BlockPos{x=171, y=99, z=-346}
-[26Dec2023 01:58:19.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=99, z=-347} BlockPos{x=171, y=99, z=-346}
-[26Dec2023 01:58:19.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=99, z=-347} BlockPos{x=171, y=99, z=-346}
-[26Dec2023 01:58:19.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=100, z=-345} BlockPos{x=171, y=99, z=-346}
-[26Dec2023 01:58:35.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has made the advancement [Enchanter]
-[26Dec2023 02:01:15.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> donde el warden hay un goblin que te da cura el yunque muy dañado por yunque dañado
-[26Dec2023 02:01:31.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> si
-[26Dec2023 02:02:46.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=92, z=-330} BlockPos{x=174, y=90, z=-330}
-[26Dec2023 02:02:47.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> alguien con etiqueta?
-[26Dec2023 02:06:25.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=100, z=-348} BlockPos{x=170, y=98, z=-349}
-[26Dec2023 02:06:26.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=97, z=-344} BlockPos{x=170, y=96, z=-346}
-[26Dec2023 02:06:28.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=97, z=-342} BlockPos{x=170, y=96, z=-342}
-[26Dec2023 02:07:03.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX has made the advancement [A Throwaway Joke]
-[26Dec2023 02:08:13.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1467, y=-53, z=-2486} BlockPos{x=-1469, y=-52, z=-2487}
-[26Dec2023 02:08:30.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1480, y=-48, z=-2492} BlockPos{x=-1480, y=-49, z=-2491}
-[26Dec2023 02:08:31.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! -2.5904411186665754,-15.5,-0.24236558156738397
-[26Dec2023 02:08:45.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1460, y=-53, z=-2501} BlockPos{x=-1461, y=-52, z=-2500}
-[26Dec2023 02:08:52.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1465, y=-52, z=-2493} BlockPos{x=-1465, y=-53, z=-2493}
-[26Dec2023 02:09:42.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> mi huerta
-[26Dec2023 02:09:52.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> de ahi saca
-[26Dec2023 02:10:51.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX has made the advancement [The Parrots and the Bats]
-[26Dec2023 02:11:29.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> esperenme, tristemente no hay goblin
-[26Dec2023 02:12:40.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ya voy
-[26Dec2023 02:15:01.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [Into Fire]
-[26Dec2023 02:16:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> no veo el portal
-[26Dec2023 02:17:37.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has made the advancement [We Need to Go Deeper]
-[26Dec2023 02:17:52.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has made the advancement [Into Fire]
-[26Dec2023 02:18:50.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=36, z=-88} BlockPos{x=52, y=31, z=-90}
-[26Dec2023 02:18:50.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=36, z=-88} BlockPos{x=52, y=31, z=-90}
-[26Dec2023 02:18:50.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=36, z=-88} BlockPos{x=52, y=31, z=-90}
-[26Dec2023 02:18:50.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=36, z=-88} BlockPos{x=52, y=31, z=-90}
-[26Dec2023 02:18:50.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=36, z=-88} BlockPos{x=52, y=31, z=-90}
-[26Dec2023 02:18:50.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=36, z=-88} BlockPos{x=52, y=31, z=-90}
-[26Dec2023 02:18:50.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=36, z=-88} BlockPos{x=52, y=31, z=-90}
-[26Dec2023 02:18:50.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=36, z=-88} BlockPos{x=52, y=31, z=-90}
-[26Dec2023 02:24:14.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejoYP2603[/179.6.170.252:4978] logged in with entity id 282138 at (-130.1094593945746, 63.0, -112.90387033263453)
-[26Dec2023 02:24:14.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 joined the game
-[26Dec2023 02:24:14.614] [Server thread/INFO] [Jade/]: Syncing config to AlejoYP2603 (d346f2d1-37ac-302e-83ed-4ba5f978d523)
-[26Dec2023 02:24:14.952] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejoYP2603 (17)
-[26Dec2023 02:24:14.952] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejoYP2603
-[26Dec2023 02:24:53.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ahh... han reiniciado el server?
-[26Dec2023 02:25:08.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> si, reestablecí el Backup anterior
-[26Dec2023 02:25:16.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> ayer habíamos destrozado el server xD
-[26Dec2023 02:25:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XDD
-[26Dec2023 02:25:31.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ya me imagino
-[26Dec2023 02:26:22.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX has made the advancement [Hidden in the Depths]
-[26Dec2023 02:27:37.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> lo siento me llamaron
-[26Dec2023 02:28:26.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> me hubiera gustado participar jajaj
-[26Dec2023 02:28:30.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> salió god
-[26Dec2023 02:28:30.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> xD
-[26Dec2023 02:32:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> me dan ganas de meterlo al Craw entre bloques de lava
-[26Dec2023 02:32:37.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> .l.
-[26Dec2023 02:33:10.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> igual tengo defensa contra explosiones
-[26Dec2023 02:33:26.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> no, gracias
-[26Dec2023 02:33:43.407] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CrawKatt with unique ID 626ab364-3ffb-4248-9bdf-69ac8197910f
-[26Dec2023 02:33:43.407] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 124 Y: 16 Z: -292
-[26Dec2023 02:33:43.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt was killed by [Intentional Game Design]
-[26Dec2023 02:33:43.422] [Server thread/INFO] [tombstone/]: The player CrawKatt has successfully been saved
-[26Dec2023 02:34:07.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[26Dec2023 02:34:28.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XD
-[26Dec2023 02:34:31.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> descuida aqui esta ya no hay lava
-[26Dec2023 02:34:43.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=18, z=-288} BlockPos{x=123, y=17, z=-288}
-[26Dec2023 02:34:47.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ya lo encontre aqui esta
-[26Dec2023 02:35:28.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ni idea solo encontre esto entre la lava
-[26Dec2023 02:36:57.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ok
-[26Dec2023 02:37:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> por eso lean terminos y condiciones
-[26Dec2023 02:41:36.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> doxealo
-[26Dec2023 02:44:53.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> XD
-[26Dec2023 02:46:07.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-274} BlockPos{x=38, y=16, z=-276}
-[26Dec2023 02:46:07.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-274} BlockPos{x=38, y=16, z=-276}
-[26Dec2023 02:46:07.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-274} BlockPos{x=38, y=16, z=-276}
-[26Dec2023 02:46:07.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-274} BlockPos{x=38, y=16, z=-276}
-[26Dec2023 02:46:07.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-274} BlockPos{x=38, y=16, z=-276}
-[26Dec2023 02:46:07.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-274} BlockPos{x=38, y=16, z=-276}
-[26Dec2023 02:47:44.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=16, z=-250} BlockPos{x=34, y=15, z=-246}
-[26Dec2023 02:47:44.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=16, z=-250} BlockPos{x=34, y=15, z=-246}
-[26Dec2023 02:47:44.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=16, z=-250} BlockPos{x=34, y=15, z=-246}
-[26Dec2023 02:49:26.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=14, z=-186} BlockPos{x=41, y=13, z=-186}
-[26Dec2023 02:49:26.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=14, z=-186} BlockPos{x=41, y=13, z=-186}
-[26Dec2023 02:49:26.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=14, z=-186} BlockPos{x=41, y=13, z=-186}
-[26Dec2023 02:49:26.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=14, z=-186} BlockPos{x=41, y=13, z=-186}
-[26Dec2023 02:49:26.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=14, z=-186} BlockPos{x=41, y=13, z=-186}
-[26Dec2023 02:49:26.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=14, z=-186} BlockPos{x=41, y=13, z=-186}
-[26Dec2023 02:49:26.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=14, z=-186} BlockPos{x=41, y=13, z=-186}
-[26Dec2023 02:49:27.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=14, z=-186} BlockPos{x=41, y=13, z=-186}
-[26Dec2023 02:53:23.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> encontre una mina
-[26Dec2023 02:54:04.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 has made the advancement [Hidden in the Depths]
-[26Dec2023 02:54:08.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> a saber mi laptop no me deja ver
-[26Dec2023 02:54:38.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> a x-91 z-199 y8
-[26Dec2023 02:54:47.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> nono debe de borrar el win32
-[26Dec2023 02:56:11.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! -4.797777398835919,-0.07840000152587834,8.846661277813894
-[26Dec2023 02:57:04.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=13, z=-225} BlockPos{x=-113, y=11, z=-225}
-[26Dec2023 02:57:04.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=13, z=-225} BlockPos{x=-113, y=11, z=-225}
-[26Dec2023 02:57:04.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=13, z=-225} BlockPos{x=-113, y=11, z=-225}
-[26Dec2023 02:57:04.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=13, z=-225} BlockPos{x=-113, y=11, z=-225}
-[26Dec2023 02:58:06.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=14, z=-225} BlockPos{x=-163, y=14, z=-225}
-[26Dec2023 02:58:17.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> demasiadas bifurcaciones
-[26Dec2023 02:58:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> es bi por 2
-[26Dec2023 02:59:53.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has completed the challenge [Eye of the Tiger]
-[26Dec2023 03:00:15.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> me deja ver a travez de las paredes
-[26Dec2023 03:00:40.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> creo que hay plugins que lo detectan de 1
-[26Dec2023 03:00:46.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=13, z=-165} BlockPos{x=-85, y=12, z=-166}
-[26Dec2023 03:01:49.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Abc_____[/152.172.151.71:49791] logged in with entity id 316863 at (-115.89538081926449, 82.68351518422472, -183.46607051722034)
-[26Dec2023 03:01:49.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Abc_____ joined the game
-[26Dec2023 03:01:49.394] [Server thread/INFO] [Jade/]: Syncing config to Abc_____ (aa4e14bd-7e94-31f7-8347-a3bd8981c332)
-[26Dec2023 03:01:50.709] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Abc_____ (17)
-[26Dec2023 03:01:50.709] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Abc_____
-[26Dec2023 03:03:55.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> [name:"REPARACION", x:-55, y:98, z:-39, dim:minecraft:overworld]
-[26Dec2023 03:05:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX has made the advancement [Ghost! Ghost! Toast?]
-[26Dec2023 03:08:02.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> no se requieren ocelotes?
-[26Dec2023 03:08:06.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> los gatos
-[26Dec2023 03:09:08.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> 0
-[26Dec2023 03:10:17.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=16, z=-218} BlockPos{x=-25, y=15, z=-218}
-[26Dec2023 03:10:20.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=9, z=-22} BlockPos{x=9, y=9, z=-23}
-[26Dec2023 03:10:20.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=9, z=-22} BlockPos{x=9, y=9, z=-23}
-[26Dec2023 03:10:45.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 burned to death
-[26Dec2023 03:10:45.113] [Server thread/INFO] [tombstone/]: The player Nygel1657 has successfully been saved
-[26Dec2023 03:10:57.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> uuff
-[26Dec2023 03:11:02.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> menos mal está lo de las tumbas
-[26Dec2023 03:11:40.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Abc_____ lost connection: Disconnected
-[26Dec2023 03:11:40.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Abc_____ left the game
-[26Dec2023 03:11:40.911] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Abc_____
-[26Dec2023 03:12:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> que hora
-[26Dec2023 03:12:36.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> ya son las 12
-[26Dec2023 03:13:08.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> por aquí las 10 pm aún
-[26Dec2023 03:14:05.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 burned to death
-[26Dec2023 03:14:05.716] [Server thread/INFO] [tombstone/]: The player Nygel1657 has successfully been saved
-[26Dec2023 03:14:30.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> se viene respaldo del server
-[26Dec2023 03:14:46.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> por favor vuelvan o busquen un sitio seguro y preparense para poder respaldar
-[26Dec2023 03:14:52.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt lost connection: Disconnected
-[26Dec2023 03:14:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt left the game
-[26Dec2023 03:14:52.863] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CrawKatt
-[26Dec2023 03:15:33.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> a saber
-[26Dec2023 03:15:54.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> a ese battousai lo veo explotando y quemandose no le pasa nada
-[26Dec2023 03:17:27.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Abc_____[/152.172.151.71:50565] logged in with entity id 332720 at (-152.51019187259016, 75.0, -152.0272405686595)
-[26Dec2023 03:17:27.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Abc_____ joined the game
-[26Dec2023 03:17:27.220] [Server thread/INFO] [Jade/]: Syncing config to Abc_____ (aa4e14bd-7e94-31f7-8347-a3bd8981c332)
-[26Dec2023 03:17:27.340] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Abc_____ (17)
-[26Dec2023 03:17:27.340] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Abc_____
-[26Dec2023 03:17:53.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DENNISP45[/167.250.180.69:60106] logged in with entity id 332978 at (2036.699999988079, 64.0, -576.4972588561141)
-[26Dec2023 03:17:53.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 joined the game
-[26Dec2023 03:17:53.072] [Server thread/INFO] [Jade/]: Syncing config to DENNISP45 (7e3364f4-c32f-3f3c-8972-b2e30dfe3548)
-[26Dec2023 03:17:53.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 has made the advancement [Mysterious Gift]
-[26Dec2023 03:17:54.456] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DENNISP45 (17)
-[26Dec2023 03:17:54.456] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DENNISP45
-[26Dec2023 03:18:38.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Abc_____ lost connection: Disconnected
-[26Dec2023 03:18:38.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Abc_____ left the game
-[26Dec2023 03:18:38.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Abc_____
-[26Dec2023 03:18:45.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 has made the advancement [Magic Writing]
-[26Dec2023 03:19:10.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[26Dec2023 03:20:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ok
-[26Dec2023 03:20:21.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
-[26Dec2023 03:20:21.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
-[26Dec2023 03:20:21.288] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nygel1657
-[26Dec2023 03:20:39.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[26Dec2023 03:21:40.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
-[26Dec2023 03:21:45.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XDASSASSINDX lost connection: Disconnected
-[26Dec2023 03:21:45.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX left the game
-[26Dec2023 03:21:45.114] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XDASSASSINDX
-[26Dec2023 03:21:48.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai lost connection: Disconnected
-[26Dec2023 03:21:48.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai left the game
-[26Dec2023 03:21:48.499] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mBattousai
-[26Dec2023 03:21:58.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 lost connection: Disconnected
-[26Dec2023 03:21:58.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 left the game
-[26Dec2023 03:21:58.595] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DENNISP45
-[26Dec2023 03:22:06.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 lost connection: Disconnected
-[26Dec2023 03:22:06.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 left the game
-[26Dec2023 03:22:06.026] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejoYP2603
-[26Dec2023 03:23:23.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
-[26Dec2023 03:23:23.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
-[26Dec2023 03:23:23.169] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shuryn
-[26Dec2023 03:23:33.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[26Dec2023 03:23:33.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[26Dec2023 03:23:33.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[26Dec2023 03:23:33.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[26Dec2023 03:23:33.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[26Dec2023 03:23:33.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[26Dec2023 03:23:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[26Dec2023 03:23:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[26Dec2023 03:23:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[26Dec2023 03:23:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[26Dec2023 03:23:33.895] [Server thread/INFO] [Framework/]: Unloading server configs...
-[26Dec2023 03:23:33.897] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[27Dec2023 00:27:27.217] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[27Dec2023 00:27:27.221] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 18.0.2-ea by Private Build; OS Linux arch amd64 version 5.15.0-1045-oracle
+[27Dec2023 00:27:27.823] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[27Dec2023 00:27:27.882] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/ubuntu/server_mods/brotecitos_server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[27Dec2023 00:27:28.316] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[27Dec2023 00:27:28.319] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[27Dec2023 00:27:28.321] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[27Dec2023 00:27:28.322] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[27Dec2023 00:27:29.152] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[27Dec2023 00:27:29.154] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 32 dependencies adding them to mods collection
+[27Dec2023 00:27:29.608] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[27Dec2023 00:27:29.627] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[27Dec2023 00:27:29.644] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[27Dec2023 00:27:29.658] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /home/ubuntu/server_mods/brotecitos_server/mods/scripts as it did not exist.
+[27Dec2023 00:27:29.674] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[27Dec2023 00:27:34.071] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 4157ms
+[27Dec2023 00:27:34.073] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[27Dec2023 00:27:34.607] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[27Dec2023 00:27:34.667] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[27Dec2023 00:27:34.668] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[27Dec2023 00:27:34.794] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[27Dec2023 00:27:34.813] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Dec2023 00:27:35.058] [main/INFO] [Puzzles Lib/]: Loading 64 mods:
+	- alexsmobs 1.22.7
+	- architectury 9.1.12
+	- artifacts 9.2.0
+	- attributefix 21.0.4
+	- awesomedungeon 3.2.0
+	- awesomedungeonend 3.1.1
+	- awesomedungeonocean 3.3.0
+	- azurelib 2.0.17
+	- balm 7.2.1
+	- betteranimationscollection 8.0.0
+	- bookshelf 20.1.7
+	- caelus 3.1.0+1.20
+	- carryon 2.1.2.7
+	- charmofundying 6.4.5+1.20.1
+	- citadel 2.4.9
+	- cloth_config 11.1.106
+	- commongroovylibrary 0.3.3
+	- create 0.5.1.f
+	- createaddition 1.20.1-1.2.1
+	- creativecore 2.11.16
+	- cristellib 1.1.5
+	- curios 5.4.6+1.20.1
+	- customskinloader 14.17
+	- eatinganimation 5.0.0
+	- elytraslot 6.3.0+1.20.1
+	- enchdesc 17.0.9
+	- epicsamurai 0.0.32-1.20.1-neo
+	- expandability 9.0.0
+	- explorify 1.3.0-mc1.20
+	- fallingtree 4.3.3
+	- farmersdelight 1.20.1-1.2.3
+	- flywheel 0.6.10-7
+	- forge 47.2.0
+	- framework 0.6.16
+	- gml 4.0.9
+	- goblintraders 1.9.3
+	- itemproductionlib 1.0.0a
+	- jade 11.6.3
+	- jei 15.2.0.27
+	- journeymap 5.9.18
+	- konkrete 1.6.1
+	- libraryferret 4.0.0
+	- maxhealthfix 12.0.2
+	- mcwbridges 2.1.1
+	- minecraft 1.20.1
+	- mixinextras 0.3.2
+	- mixinsquared 0.1.1
+	- moonlight 1.20-2.8.67
+	- mousetweaks 2.25
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.11
+	- repurposed_structures 7.1.11+1.20.1-forge
+	- securitycraft 1.9.8
+	- skilltree 0.6.3
+	- skyvillages 1.0.3
+	- spectrelib 0.13.14+1.20.1
+	- supplementaries 1.20-2.7.12
+	- t_and_t 0.0NONE
+	- tombstone 8.5.5
+	- torchmaster 20.1.5
+	- trashslot 15.1.0
+	- travelersbackpack 9.1.11
+	- voicechat 1.20.1-2.4.32
+	- waystones 14.1.3
+[27Dec2023 00:27:35.079] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Dec2023 00:27:36.239] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER
+[27Dec2023 00:27:36.249] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.RuntimeException: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER)
+[27Dec2023 00:27:36.802] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[27Dec2023 00:27:36.802] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[27Dec2023 00:27:36.921] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[27Dec2023 00:27:36.921] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
+[27Dec2023 00:27:36.923] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[27Dec2023 00:27:36.933] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
+[27Dec2023 00:27:36.935] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe)
+[27Dec2023 00:27:36.935] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
+[27Dec2023 00:27:36.937] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus)
+[27Dec2023 00:27:36.937] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
+[27Dec2023 00:27:36.939] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus)
+[27Dec2023 00:27:36.940] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
+[27Dec2023 00:27:37.666] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER
+[27Dec2023 00:27:37.666] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.RuntimeException: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER)
+[27Dec2023 00:27:37.668] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/blockentity/SignRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.blockentity.SignRenderer)
+[27Dec2023 00:27:37.668] [main/ERROR] [mixin/]: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.isMixin()" because "superClass" is null
+java.lang.NullPointerException: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.isMixin()" because "superClass" is null
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:581) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:801) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:567) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-10.0.9.jar%2355!/:10.0.9+10.0.9+main.dcd20f30]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:633) ~[?:?]
+	at java.lang.Class.forName(Class.java:577) ~[?:?]
+	at java.lang.Class.forName(Class.java:552) ~[?:?]
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler$DummyProvider.lambda$updateModuleReads$1(ImmediateWindowHandler.java:145) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler$DummyProvider.updateModuleReads(ImmediateWindowHandler.java:145) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0]
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler.acceptGameLayer(ImmediateWindowHandler.java:71) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0]
+	at net.minecraftforge.fml.loading.FMLLoader.beforeStart(FMLLoader.java:207) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.launchService(CommonLaunchHandler.java:92) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[27Dec2023 00:27:37.727] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[27Dec2023 00:27:41.535] [main/WARN] [mixin/]: Method overwrite conflict for setUser in skilltree.mixins.json:minecraft/BlockEntityMixin, previously written by daripher.itemproduction.mixin.minecraft/BlockEntityMixin. Skipping method.
+[27Dec2023 00:27:47.441] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[27Dec2023 00:27:47.707] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for betteranimationscollection:main
+[27Dec2023 00:27:47.838] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[27Dec2023 00:27:47.855] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[27Dec2023 00:27:48.357] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[27Dec2023 00:27:48.360] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[27Dec2023 00:27:48.370] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[27Dec2023 00:27:48.371] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[27Dec2023 00:27:48.372] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[27Dec2023 00:27:48.374] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[27Dec2023 00:27:48.500] [modloading-worker-0/INFO] [MaxHealthFix/]: Loaded maxhealthfix for Forge.
+[27Dec2023 00:27:48.567] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[27Dec2023 00:27:48.567] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[27Dec2023 00:27:48.567] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[27Dec2023 00:27:48.568] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[27Dec2023 00:27:48.568] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[27Dec2023 00:27:48.568] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[27Dec2023 00:27:48.568] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[27Dec2023 00:27:48.734] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[27Dec2023 00:27:48.734] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[27Dec2023 00:27:48.747] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[27Dec2023 00:27:48.990] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[27Dec2023 00:27:48.990] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[27Dec2023 00:27:50.003] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[27Dec2023 00:27:51.620] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[27Dec2023 00:27:52.210] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[27Dec2023 00:27:58.045] [main/INFO] [Moonlight/]: Initialized block sets in 14ms
+[27Dec2023 00:27:59.972] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 17
+[27Dec2023 00:28:00.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betteranimationscollection] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/betteranimationscollection.json
+[27Dec2023 00:28:00.095] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[27Dec2023 00:28:00.126] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[27Dec2023 00:28:00.127] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[27Dec2023 00:28:00.127] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[27Dec2023 00:28:00.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betteranimationscollection] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[27Dec2023 00:28:00.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[27Dec2023 00:28:00.376] [main/INFO] [journeymap/]: Initializing Packet Registries
+[27Dec2023 00:28:00.415] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[27Dec2023 00:28:00.415] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[27Dec2023 00:28:00.416] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[27Dec2023 00:28:00.416] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[27Dec2023 00:28:00.487] [main/INFO] [Supplementaries/]: Finished mod setup in: [49, 2, 0, 1, 0, 0, 13, 1] ms
+[27Dec2023 00:28:00.534] [main/INFO] [Moonlight/]: Initialized color sets in 41ms
+[27Dec2023 00:28:00.689] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 27 compatible attributes.
+[27Dec2023 00:28:00.691] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 27 values from config.
+[27Dec2023 00:28:00.709] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 27 entries.
+[27Dec2023 00:28:00.710] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 27 attributes.
+[27Dec2023 00:28:00.726] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[27Dec2023 00:28:00.726] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[27Dec2023 00:28:00.766] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[27Dec2023 00:28:00.788] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[27Dec2023 00:28:00.794] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[27Dec2023 00:28:00.832] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[27Dec2023 00:28:00.846] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[27Dec2023 00:28:00.854] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[27Dec2023 00:28:00.856] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[27Dec2023 00:28:00.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[27Dec2023 00:28:00.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[27Dec2023 00:28:01.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[27Dec2023 00:28:01.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[27Dec2023 00:28:02.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.18 Target: null
+[27Dec2023 00:28:02.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[27Dec2023 00:28:02.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.11 Target: null
+[27Dec2023 00:28:02.196] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Starting version check at https://updates.blamejared.com/get?n=maxhealthfix&gv=1.20.1
+[27Dec2023 00:28:02.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[27Dec2023 00:28:02.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[27Dec2023 00:28:02.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA_OUTDATED Current: 20.1.7 Target: 20.1.8
+[27Dec2023 00:28:02.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[27Dec2023 00:28:02.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[27Dec2023 00:28:02.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Dec2023 00:28:03.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.2.0 Target: null
+[27Dec2023 00:28:03.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[27Dec2023 00:28:03.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.7.12 Target: null
+[27Dec2023 00:28:03.246] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[27Dec2023 00:28:03.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 2.1.1 Target: null
+[27Dec2023 00:28:03.252] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[27Dec2023 00:28:05.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: UP_TO_DATE Current: 1.20.1-2.4.32 Target: null
+[27Dec2023 00:28:05.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[27Dec2023 00:28:06.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 17.0.9 Target: 17.0.11
+[27Dec2023 00:28:06.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[27Dec2023 00:28:06.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.8.67 Target: null
+[27Dec2023 00:28:06.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[27Dec2023 00:28:06.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[27Dec2023 00:28:06.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[27Dec2023 00:28:06.715] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Dec2023 00:28:06.826] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+mixinextras (version 0.2.1 -> 0.3.2)
+Things may not work well.
+[27Dec2023 00:28:06.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[27Dec2023 00:28:06.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[27Dec2023 00:28:07.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.8 Target: null
+[27Dec2023 00:28:07.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[27Dec2023 00:28:07.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.5.5 Target: null
+[27Dec2023 00:28:07.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[27Dec2023 00:28:07.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.11 Target: null
+[27Dec2023 00:28:07.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[27Dec2023 00:28:07.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.6.16 Target: 0.6.16
+[27Dec2023 00:28:10.578] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/assets/.mcassetsroot' uses unexpected schema
+[27Dec2023 00:28:10.579] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/data/.mcassetsroot' uses unexpected schema
+[27Dec2023 00:28:10.636] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[27Dec2023 00:28:10.638] [main/WARN] [Cristel Lib/]: T&T Waystone Patch Pack accepted!
+[27Dec2023 00:28:10.756] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 54 ms
+[27Dec2023 00:28:11.304] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.311] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonend:aws_all_end_structures/start_pool`: { spacing: 20, separation: 15, salt: 49082056, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.312] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.313] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.315] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.316] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.316] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.317] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.320] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.321] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.322] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.322] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.322] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.323] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.323] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.324] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.327] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.328] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.329] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[27Dec2023 00:28:11.331] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[27Dec2023 00:28:12.845] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[27Dec2023 00:28:12.970] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:amethyst_shard (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: minecraft:amethyst_shard (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[27Dec2023 00:28:13.039] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-8.5.5-1.20.1.jar
+[27Dec2023 00:28:13.064] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [epicsamurai:etyrite_samurai_helmet (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_chestplate (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_leggings (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:etyrite_samurai_helmet (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_chestplate (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_leggings (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[27Dec2023 00:28:13.069] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[27Dec2023 00:28:13.070] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[27Dec2023 00:28:15.120] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:sculk_samruai_boots_smithing as it's serializer returned null
+[27Dec2023 00:28:15.122] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.139] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:dye_ars_nouveau_helmet as it's serializer returned null
+[27Dec2023 00:28:15.146] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:dye_ars_nouveau_leggings as it's serializer returned null
+[27Dec2023 00:28:15.148] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[27Dec2023 00:28:15.162] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:living_samruai_leggings_array as it's serializer returned null
+[27Dec2023 00:28:15.186] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe epicsamurai:samurai_guide
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.0-universal.jar%23216!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.0-universal.jar%23216!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.2.0-universal.jar%23216!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[27Dec2023 00:28:15.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:source_gem_samruai_helmet_ritual as it's serializer returned null
+[27Dec2023 00:28:15.210] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:sculk_samruai_helmet_smithing as it's serializer returned null
+[27Dec2023 00:28:15.215] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[27Dec2023 00:28:15.215] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:neptunium_samurai_boots as it's serializer returned null
+[27Dec2023 00:28:15.222] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:etyrite_samruai_chestplate_smithing as it's serializer returned null
+[27Dec2023 00:28:15.223] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:neptunium_samurai_chestplate as it's serializer returned null
+[27Dec2023 00:28:15.225] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.226] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.228] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:neptunium_samurai_leggings as it's serializer returned null
+[27Dec2023 00:28:15.228] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:neptunium_samurai_helmet as it's serializer returned null
+[27Dec2023 00:28:15.248] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:living_samruai_chestplate_array as it's serializer returned null
+[27Dec2023 00:28:15.258] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.259] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:etyrite_samruai_helmet_smithing as it's serializer returned null
+[27Dec2023 00:28:15.266] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:living_samruai_boots_array as it's serializer returned null
+[27Dec2023 00:28:15.266] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:living_samruai_boots_helmet as it's serializer returned null
+[27Dec2023 00:28:15.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:etyrite_samruai_leggings_smithing as it's serializer returned null
+[27Dec2023 00:28:15.270] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.276] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.278] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:source_gem_samruai_leggings_ritual as it's serializer returned null
+[27Dec2023 00:28:15.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[27Dec2023 00:28:15.282] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:dye_ars_nouveau_boots as it's serializer returned null
+[27Dec2023 00:28:15.286] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.292] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:steel_ingot_from_blasting_iron_ingot as it's serializer returned null
+[27Dec2023 00:28:15.295] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:source_gem_samruai_chestplate_ritual as it's serializer returned null
+[27Dec2023 00:28:15.303] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:dye_ars_nouveau_chestplate as it's serializer returned null
+[27Dec2023 00:28:15.304] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:sculk_samruai_leggings_smithing as it's serializer returned null
+[27Dec2023 00:28:15.308] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:sculk_samruai_chestplate_smithing as it's serializer returned null
+[27Dec2023 00:28:15.313] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.314] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.319] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[27Dec2023 00:28:15.326] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:source_gem_samruai_boots_ritual as it's serializer returned null
+[27Dec2023 00:28:15.327] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe epicsamurai:etyrite_samruai_boots_smithing as it's serializer returned null
+[27Dec2023 00:28:15.333] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[27Dec2023 00:28:15.540] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4015 advancements
+[27Dec2023 00:28:15.582] [main/INFO] [Supplementaries/]: Loaded 24 flute songs
+[27Dec2023 00:28:15.605] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[27Dec2023 00:28:15.612] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[27Dec2023 00:28:18.905] [main/INFO] [Supplementaries/]: Finished additional setup in 52 ms
+[27Dec2023 00:28:19.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[27Dec2023 00:28:19.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Dec2023 00:28:19.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Dec2023 00:28:19.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Dec2023 00:28:19.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Dec2023 00:28:19.124] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27Dec2023 00:28:19.253] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27Dec2023 00:28:19.254] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27Dec2023 00:28:19.254] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27Dec2023 00:28:19.254] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27Dec2023 00:28:19.284] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[27Dec2023 00:28:19.284] [Thread-4/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[27Dec2023 00:28:19.285] [Thread-4/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[27Dec2023 00:28:19.583] [Server thread/INFO] [Framework/]: Loading server configs...
+[27Dec2023 00:28:19.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27Dec2023 00:28:34.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Dec2023 00:28:40.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.931] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.931] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.932] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.932] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.933] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.934] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.934] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.935] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.935] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.936] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.936] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:40.937] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:41.028] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:41.528] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:42.028] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2023 00:28:42.680] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8153 ms
+[27Dec2023 00:28:42.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.412s)! For help, type "help"
+[27Dec2023 00:28:42.750] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Dec2023 00:28:42.793] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[27Dec2023 00:28:42.818] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[27Dec2023 00:29:12.163] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[27Dec2023 00:29:12.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mBattousai[/38.10.112.5:50744] logged in with entity id 417 at (-130.2390123554873, 64.0, -112.0740807895827)
+[27Dec2023 00:29:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai joined the game
+[27Dec2023 00:29:12.732] [Server thread/INFO] [Jade/]: Syncing config to mBattousai (dcdff24d-ed82-3e06-bfdf-2dd452bcb2e9)
+[27Dec2023 00:29:13.304] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mBattousai (17)
+[27Dec2023 00:29:13.307] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mBattousai
+[27Dec2023 00:29:47.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejoYP2603[/179.6.170.252:20083] logged in with entity id 638 at (99.37815844561418, 92.0, -31.067744159947164)
+[27Dec2023 00:29:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 joined the game
+[27Dec2023 00:29:47.647] [Server thread/INFO] [Jade/]: Syncing config to AlejoYP2603 (d346f2d1-37ac-302e-83ed-4ba5f978d523)
+[27Dec2023 00:29:49.299] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejoYP2603 (17)
+[27Dec2023 00:29:49.300] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejoYP2603
+[27Dec2023 00:30:10.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XDASSASSINDX[/177.228.144.92:34071] logged in with entity id 936 at (-132.37596791609488, 63.0, -108.27187562407049)
+[27Dec2023 00:30:10.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX joined the game
+[27Dec2023 00:30:10.486] [Server thread/INFO] [Jade/]: Syncing config to XDASSASSINDX (768865e0-2678-3b49-9d66-545ea0d8833f)
+[27Dec2023 00:30:11.307] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XDASSASSINDX (17)
+[27Dec2023 00:30:11.308] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XDASSASSINDX
+[27Dec2023 00:30:17.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> wenas
+[27Dec2023 00:31:03.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Turnail[/186.12.228.223:48843] logged in with entity id 1277 at (196.00292180927195, 104.0, -330.5391627639885)
+[27Dec2023 00:31:03.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail joined the game
+[27Dec2023 00:31:03.955] [Server thread/INFO] [Jade/]: Syncing config to Turnail (372821ce-463a-3272-940e-1420d8ca5573)
+[27Dec2023 00:31:06.279] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Turnail (17)
+[27Dec2023 00:31:06.282] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Turnail
+[27Dec2023 00:31:06.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2329ms or 46 ticks behind
+[27Dec2023 00:31:44.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> uuff ahora que me doy cuenta estuve por tomar esas habilidades xd
+[27Dec2023 00:34:10.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> confirmo
+[27Dec2023 00:34:22.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nygel1657[/179.6.164.35:32407] logged in with entity id 2950 at (49.155360146100946, 117.0, -174.3641181892381)
+[27Dec2023 00:34:22.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 joined the game
+[27Dec2023 00:34:22.569] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
+[27Dec2023 00:34:24.385] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nygel1657 (17)
+[27Dec2023 00:34:24.386] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nygel1657
+[27Dec2023 00:36:14.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XDD
+[27Dec2023 00:36:39.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CrawKatt[/186.79.17.35:41890] logged in with entity id 4010 at (80.44747513071528, 121.0, -180.89690224552106)
+[27Dec2023 00:36:39.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt joined the game
+[27Dec2023 00:36:39.898] [Server thread/INFO] [Jade/]: Syncing config to CrawKatt (5cf373c6-9b7d-3c4b-b767-5718e6090af7)
+[27Dec2023 00:36:40.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CrawKatt (17)
+[27Dec2023 00:36:40.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CrawKatt
+[27Dec2023 00:38:25.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 was processed by Crushing Wheels
+[27Dec2023 00:38:25.230] [Server thread/INFO] [tombstone/]: The player Nygel1657 has successfully been saved
+[27Dec2023 00:38:32.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> noo nygel
+[27Dec2023 00:38:34.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has reached the goal [Discreet Search]
+[27Dec2023 00:38:39.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> eras tan joven
+[27Dec2023 00:38:42.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XD
+[27Dec2023 00:39:00.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has made the advancement [Take Aim]
+[27Dec2023 00:39:44.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 was slain by mBattousai
+[27Dec2023 00:39:44.497] [Server thread/INFO] [tombstone/]: The player Nygel1657 has successfully been saved
+[27Dec2023 00:42:30.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shuryn[/190.231.177.245:52366] logged in with entity id 6670 at (116.54058909235306, 95.0, -361.0266112639626)
+[27Dec2023 00:42:30.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn joined the game
+[27Dec2023 00:42:30.458] [Server thread/INFO] [Jade/]: Syncing config to Shuryn (b7602664-58da-37d0-9805-0f07d495f458)
+[27Dec2023 00:42:31.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shuryn (17)
+[27Dec2023 00:42:31.939] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shuryn
+[27Dec2023 00:42:38.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> llegó!!
+[27Dec2023 00:43:16.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
+[27Dec2023 00:43:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
+[27Dec2023 00:43:16.227] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shuryn
+[27Dec2023 00:43:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> niiice
+[27Dec2023 00:44:00.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai lost connection: Disconnected
+[27Dec2023 00:44:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai left the game
+[27Dec2023 00:44:00.332] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mBattousai
+[27Dec2023 00:47:47.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=-36, z=-111} BlockPos{x=25, y=-35, z=-110}
+[27Dec2023 00:48:24.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=-34, z=-110} BlockPos{x=31, y=-35, z=-109}
+[27Dec2023 00:49:40.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=-34, z=-123} BlockPos{x=34, y=-35, z=-123}
+[27Dec2023 00:50:16.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=-38, z=-120} BlockPos{x=32, y=-38, z=-121}
+[27Dec2023 00:50:38.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=-41, z=-117} BlockPos{x=43, y=-41, z=-118}
+[27Dec2023 00:50:50.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=-41, z=-120} BlockPos{x=46, y=-42, z=-120}
+[27Dec2023 00:51:52.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=-53, z=-107} BlockPos{x=71, y=-53, z=-108}
+[27Dec2023 00:52:25.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mBattousai[/38.10.112.5:55616] logged in with entity id 10956 at (59.4106734874092, 123.0, -170.0957003053943)
+[27Dec2023 00:52:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai joined the game
+[27Dec2023 00:52:25.977] [Server thread/INFO] [Jade/]: Syncing config to mBattousai (dcdff24d-ed82-3e06-bfdf-2dd452bcb2e9)
+[27Dec2023 00:52:26.139] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mBattousai (17)
+[27Dec2023 00:52:26.141] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mBattousai
+[27Dec2023 00:54:31.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> a nygel lo veo como morty xd
+[27Dec2023 00:55:32.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> nygel
+[27Dec2023 00:55:34.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> contesta
+[27Dec2023 00:56:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> contesta con la T
+[27Dec2023 00:57:05.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! -188.73750001192093,-70.6875,50.06732971066265
+[27Dec2023 00:58:54.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ahora también está la posibilidad de que se haya topado con algo más al invocar esa habilidad
+[27Dec2023 00:59:20.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> o algún item del mimic?
+[27Dec2023 00:59:45.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> sip habría que ser meticulosos
+[27Dec2023 00:59:48.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XD
+[27Dec2023 01:01:36.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 withered away
+[27Dec2023 01:01:36.049] [Server thread/INFO] [tombstone/]: The player Nygel1657 has successfully been saved
+[27Dec2023 01:02:32.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> gemas
+[27Dec2023 01:03:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> nygel te queremos
+[27Dec2023 01:08:27.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 suffocated in a wall
+[27Dec2023 01:08:27.494] [Server thread/INFO] [tombstone/]: The player Nygel1657 has successfully been saved
+[27Dec2023 01:12:02.669] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ef7551e[id=<null>,name=Shuryn,properties={},legacy=false] (/190.231.177.245:64291) lost connection: Disconnected
+[27Dec2023 01:12:15.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shuryn[/190.231.177.245:64295] logged in with entity id 34277 at (116.54058909235306, 95.0, -361.0266112639626)
+[27Dec2023 01:12:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn joined the game
+[27Dec2023 01:12:15.846] [Server thread/INFO] [Jade/]: Syncing config to Shuryn (b7602664-58da-37d0-9805-0f07d495f458)
+[27Dec2023 01:12:16.989] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shuryn (17)
+[27Dec2023 01:12:16.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shuryn
+[27Dec2023 01:14:16.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Timed out
+[27Dec2023 01:14:16.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
+[27Dec2023 01:14:16.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shuryn
+[27Dec2023 01:14:43.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shuryn[/190.231.177.245:64373] logged in with entity id 36174 at (123.04014285319155, 95.0, -376.69999998807907)
+[27Dec2023 01:14:43.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn joined the game
+[27Dec2023 01:14:43.609] [Server thread/INFO] [Jade/]: Syncing config to Shuryn (b7602664-58da-37d0-9805-0f07d495f458)
+[27Dec2023 01:14:44.385] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shuryn (17)
+[27Dec2023 01:14:44.385] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shuryn
+[27Dec2023 01:15:43.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
+[27Dec2023 01:15:43.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
+[27Dec2023 01:15:43.642] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shuryn
+[27Dec2023 01:18:24.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=80, z=-161} BlockPos{x=-118, y=80, z=-162}
+[27Dec2023 01:18:24.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=80, z=-161} BlockPos{x=-118, y=80, z=-162}
+[27Dec2023 01:18:24.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=80, z=-161} BlockPos{x=-118, y=80, z=-162}
+[27Dec2023 01:18:24.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=80, z=-161} BlockPos{x=-118, y=80, z=-162}
+[27Dec2023 01:18:24.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=80, z=-161} BlockPos{x=-118, y=80, z=-162}
+[27Dec2023 01:18:24.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=80, z=-161} BlockPos{x=-118, y=80, z=-162}
+[27Dec2023 01:18:25.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=80, z=-161} BlockPos{x=-118, y=80, z=-162}
+[27Dec2023 01:18:25.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=80, z=-161} BlockPos{x=-118, y=80, z=-162}
+[27Dec2023 01:18:25.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=80, z=-161} BlockPos{x=-118, y=80, z=-162}
+[27Dec2023 01:18:58.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has reached the goal [The long arm of the law]
+[27Dec2023 01:28:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ALM
+[27Dec2023 01:28:31.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> que rápido
+[27Dec2023 01:28:34.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has reached the goal [Death Will Not Be Enough]
+[27Dec2023 01:29:41.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> no detectaba donde estaba?
+[27Dec2023 01:29:45.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ahmmm
+[27Dec2023 01:29:56.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> con lo de las tumbas o spawn
+[27Dec2023 01:30:30.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> eso lo explica jajaj
+[27Dec2023 01:35:55.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> tengo
+[27Dec2023 01:38:20.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> oye eso es un insulto para m mi >:v
+[27Dec2023 01:38:36.445] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player XDASSASSINDX just tried to change non-editable sign
+[27Dec2023 01:38:41.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved too quickly! 3.2969529972448584,-10.061215950153155,-1.3350564965820126
+[27Dec2023 01:50:15.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [Ant Farm]
+[27Dec2023 01:53:27.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ok
+[27Dec2023 01:57:04.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! -186.72674579804195,-55.5,52.004255772149634
+[27Dec2023 01:57:29.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! 256.34841284828957,29.5,-246.05406116160586
+[27Dec2023 02:04:34.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> o///o
+[27Dec2023 02:06:15.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> :o
+[27Dec2023 02:06:27.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX has reached the goal [Fortuitous Militia]
+[27Dec2023 02:08:02.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=86, z=-28} BlockPos{x=86, y=86, z=-27}
+[27Dec2023 02:08:11.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 moved wrongly!
+[27Dec2023 02:10:13.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Timed out
+[27Dec2023 02:10:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[27Dec2023 02:10:13.579] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Turnail
+[27Dec2023 02:10:50.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ayy
+[27Dec2023 02:10:57.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> no me susurres craw
+[27Dec2023 02:11:55.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Turnail[/186.12.228.223:53163] logged in with entity id 76369 at (-134.4573781664295, 80.0, -173.82807378841568)
+[27Dec2023 02:11:55.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail joined the game
+[27Dec2023 02:11:55.843] [Server thread/INFO] [Jade/]: Syncing config to Turnail (372821ce-463a-3272-940e-1420d8ca5573)
+[27Dec2023 02:11:56.148] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Turnail (17)
+[27Dec2023 02:11:56.149] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Turnail
+[27Dec2023 02:12:26.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [Chest Slayer]
+[27Dec2023 02:13:55.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX has completed the challenge [Eye of the Tiger]
+[27Dec2023 02:17:38.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tontiito[/189.204.216.157:58639] logged in with entity id 78923 at (3461.2524318423207, 6.0, -1916.568835963905)
+[27Dec2023 02:17:38.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tontiito joined the game
+[27Dec2023 02:17:38.082] [Server thread/INFO] [Jade/]: Syncing config to Tontiito (76343b63-78be-3a8e-8698-36923c9e431b)
+[27Dec2023 02:17:38.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tontiito has made the advancement [Mysterious Gift]
+[27Dec2023 02:17:39.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved too quickly! 7.740119701445636,7.281495380166973,-1.0832799419822834
+[27Dec2023 02:17:40.444] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tontiito (17)
+[27Dec2023 02:17:40.444] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tontiito
+[27Dec2023 02:18:08.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> confirmo XD
+[27Dec2023 02:18:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ya vi los clips
+[27Dec2023 02:20:33.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> la tiene puesta?
+[27Dec2023 02:22:10.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has made the advancement [Chest Slayer]
+[27Dec2023 02:24:59.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xxxmikesoxxx[/190.131.7.2:54415] logged in with entity id 85412 at (-6.5, 68.0, 34.5)
+[27Dec2023 02:24:59.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx joined the game
+[27Dec2023 02:24:59.562] [Server thread/INFO] [Jade/]: Syncing config to xxxmikesoxxx (a2881013-0581-363d-bd6f-fc1c8b3309ad)
+[27Dec2023 02:24:59.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Christmas]
+[27Dec2023 02:25:00.621] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xxxmikesoxxx (17)
+[27Dec2023 02:25:00.622] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xxxmikesoxxx
+[27Dec2023 02:29:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Stone Age]
+[27Dec2023 02:30:03.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Getting an Upgrade]
+[27Dec2023 02:30:41.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> pos cada quien también
+[27Dec2023 02:35:03.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> [name:"Bioma Nieve", x:-480, y:142, z:784, dim:minecraft:overworld]
+[27Dec2023 02:35:25.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> Battousai tendrás de los mejoradores de netherite
+[27Dec2023 02:35:41.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> sisi porfa como lo duplico enseñame
+[27Dec2023 02:36:07.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> okok
+[27Dec2023 02:36:23.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx fell from a high place
+[27Dec2023 02:36:23.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Your First Grave]
+[27Dec2023 02:36:23.822] [Server thread/INFO] [tombstone/]: The player xxxmikesoxxx has successfully been saved
+[27Dec2023 02:36:52.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> estás por la casa de assasin?
+[27Dec2023 02:38:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ahhhh
+[27Dec2023 02:39:05.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> si entendí, gracias
+[27Dec2023 02:40:05.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Acquire Hardware]
+[27Dec2023 02:40:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Isn't It Iron Pick]
+[27Dec2023 02:40:20.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DENNISP45[/167.250.180.69:56636] logged in with entity id 101434 at (1010.05913623728, 73.0, -486.2688850954699)
+[27Dec2023 02:40:20.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 joined the game
+[27Dec2023 02:40:20.854] [Server thread/INFO] [Jade/]: Syncing config to DENNISP45 (7e3364f4-c32f-3f3c-8972-b2e30dfe3548)
+[27Dec2023 02:40:22.086] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DENNISP45 (17)
+[27Dec2023 02:40:22.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DENNISP45
+[27Dec2023 02:42:07.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> chicos alguno tiene zanahorias por montón?
+[27Dec2023 02:42:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DENNISP45> no de mi parte
+[27Dec2023 02:42:35.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> niice
+[27Dec2023 02:42:41.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> salud
+[27Dec2023 02:45:07.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Monster Hunter]
+[27Dec2023 02:45:29.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ahh jajaj
+[27Dec2023 02:45:33.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> gracias
+[27Dec2023 02:45:42.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> estaba sacando más con fortuna
+[27Dec2023 02:48:29.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 has made the advancement [Not Today, Thank You]
+[27Dec2023 02:49:25.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! 182.66330763778376,56.5,-51.59869973739184
+[27Dec2023 02:49:25.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! 182.66330763778376,56.5,-51.59869973739184
+[27Dec2023 02:49:26.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 has made the advancement [You've Got a Friend in Me]
+[27Dec2023 02:51:25.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XDD
+[27Dec2023 02:51:57.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Suit Up]
+[27Dec2023 02:52:15.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [A Strange Grave Dust]
+[27Dec2023 02:54:37.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Chest Slayer]
+[27Dec2023 02:54:41.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Amateur Archaeologist]
+[27Dec2023 02:56:36.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Knowledge of Death]
+[27Dec2023 02:56:36.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx has made the advancement [Ashes 'n Bones]
+[27Dec2023 02:57:05.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 lost connection: Disconnected
+[27Dec2023 02:57:05.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 left the game
+[27Dec2023 02:57:05.600] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejoYP2603
+[27Dec2023 02:57:09.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 lost connection: Disconnected
+[27Dec2023 02:57:09.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 left the game
+[27Dec2023 02:57:09.161] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DENNISP45
+[27Dec2023 02:57:47.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
+[27Dec2023 02:57:47.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
+[27Dec2023 02:57:47.894] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nygel1657
+[27Dec2023 02:57:58.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> 3 min para respaldo del server
+[27Dec2023 02:59:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> 1 min
+[27Dec2023 02:59:21.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xxxmikesoxxx lost connection: Disconnected
+[27Dec2023 02:59:21.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxxmikesoxxx left the game
+[27Dec2023 02:59:21.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xxxmikesoxxx
+[27Dec2023 02:59:28.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XDASSASSINDX lost connection: Disconnected
+[27Dec2023 02:59:28.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX left the game
+[27Dec2023 02:59:28.678] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XDASSASSINDX
+[27Dec2023 02:59:39.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai lost connection: Disconnected
+[27Dec2023 02:59:39.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai left the game
+[27Dec2023 02:59:39.729] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mBattousai
+[27Dec2023 02:59:41.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Disconnected
+[27Dec2023 02:59:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[27Dec2023 02:59:41.975] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Turnail
+[27Dec2023 02:59:43.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tontiito lost connection: Disconnected
+[27Dec2023 02:59:43.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tontiito left the game
+[27Dec2023 02:59:43.678] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tontiito
+[27Dec2023 02:59:44.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt lost connection: Disconnected
+[27Dec2023 02:59:44.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt left the game
+[27Dec2023 02:59:44.917] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CrawKatt
+[27Dec2023 02:59:56.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Dec2023 02:59:56.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Dec2023 02:59:56.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Dec2023 02:59:56.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Dec2023 02:59:56.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Dec2023 02:59:56.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Dec2023 02:59:56.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Dec2023 02:59:56.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Dec2023 02:59:56.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Dec2023 02:59:56.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Dec2023 02:59:56.718] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Dec2023 02:59:56.720] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
