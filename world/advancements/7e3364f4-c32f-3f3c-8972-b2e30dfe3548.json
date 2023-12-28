@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2023-12-21 02:17:13 +0000",
+      "minecraft:sunflower_plains": "2023-12-27 03:32:09 +0000",
       "minecraft:beach": "2023-12-21 01:50:53 +0000",
       "minecraft:dark_forest": "2023-12-21 01:29:42 +0000",
       "minecraft:river": "2023-12-21 01:39:45 +0000",
@@ -45,6 +46,7 @@
       "minecraft:forest": "2023-12-21 01:21:06 +0000",
       "minecraft:windswept_forest": "2023-12-27 02:43:03 +0000",
       "minecraft:ocean": "2023-12-21 01:52:02 +0000",
+      "minecraft:flower_forest": "2023-12-27 03:37:24 +0000",
       "minecraft:old_growth_birch_forest": "2023-12-21 01:27:42 +0000",
       "minecraft:meadow": "2023-12-21 02:09:26 +0000",
       "minecraft:plains": "2023-12-21 01:38:59 +0000"
@@ -863,7 +865,8 @@
       "minecraft:skeleton": "2023-12-21 01:51:46 +0000",
       "minecraft:vindicator": "2023-12-27 02:48:06 +0000",
       "minecraft:spider": "2023-12-22 03:36:22 +0000",
-      "minecraft:creeper": "2023-12-26 03:49:48 +0000"
+      "minecraft:creeper": "2023-12-26 03:49:48 +0000",
+      "minecraft:zombie": "2023-12-27 03:17:32 +0000"
     },
     "done": false
   },
@@ -2421,18 +2424,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/allay_deliver_item_to_player": {
-    "criteria": {
-      "allay_deliver_item_to_player": "2023-12-27 02:49:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2023-12-27 02:48:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2023-12-27 02:43:18 +0000"
@@ -2463,12 +2454,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2023-12-27 02:48:39 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2023-12-27 02:43:18 +0000"
@@ -2496,6 +2481,84 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2023-12-27 02:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2023-12-27 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-12-27 02:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2023-12-27 02:49:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2023-12-27 03:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-12-27 03:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2023-12-27 03:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2023-12-27 03:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-12-27 03:25:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2023-12-27 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-27 03:26:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2023-12-27 03:26:17 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2023-12-27 03:27:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-12-27 03:32:37 +0000"
     },
     "done": true
   },
