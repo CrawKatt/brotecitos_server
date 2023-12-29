@@ -39,12 +39,16 @@
     "criteria": {
       "minecraft:snowy_slopes": "2023-12-26 22:54:23 +0000",
       "minecraft:deep_ocean": "2023-12-23 02:23:56 +0000",
+      "minecraft:eroded_badlands": "2023-12-29 01:38:17 +0000",
       "minecraft:cherry_grove": "2023-12-20 23:29:51 +0000",
       "minecraft:sunflower_plains": "2023-12-20 23:34:33 +0000",
       "minecraft:birch_forest": "2023-12-19 23:29:54 +0000",
       "minecraft:bamboo_jungle": "2023-12-26 22:17:39 +0000",
+      "minecraft:badlands": "2023-12-29 01:38:13 +0000",
+      "minecraft:savanna_plateau": "2023-12-29 03:00:13 +0000",
       "minecraft:beach": "2023-12-20 01:03:50 +0000",
       "minecraft:dark_forest": "2023-12-19 23:29:44 +0000",
+      "minecraft:stony_peaks": "2023-12-29 02:58:48 +0000",
       "minecraft:sparse_jungle": "2023-12-20 22:33:46 +0000",
       "minecraft:river": "2023-12-20 00:38:25 +0000",
       "minecraft:lukewarm_ocean": "2023-12-20 22:38:47 +0000",
@@ -980,12 +984,14 @@
       "minecraft:pillager": "2023-12-20 00:45:08 +0000",
       "minecraft:blaze": "2023-12-26 02:17:49 +0000",
       "minecraft:skeleton": "2023-12-20 00:05:55 +0000",
+      "minecraft:ghast": "2023-12-28 23:49:37 +0000",
       "minecraft:vindicator": "2023-12-28 01:45:05 +0000",
       "minecraft:spider": "2023-12-19 23:34:30 +0000",
       "minecraft:creeper": "2023-12-20 01:11:24 +0000",
       "minecraft:evoker": "2023-12-28 02:08:39 +0000",
       "minecraft:phantom": "2023-12-21 00:24:00 +0000",
       "minecraft:cave_spider": "2023-12-21 23:10:06 +0000",
+      "minecraft:piglin": "2023-12-28 23:55:49 +0000",
       "minecraft:enderman": "2023-12-20 23:40:59 +0000",
       "minecraft:silverfish": "2023-12-21 23:24:54 +0000",
       "minecraft:zombie": "2023-12-20 00:31:41 +0000",
@@ -1065,8 +1071,10 @@
       "cooked_porkchop": "2023-12-20 00:23:28 +0000",
       "cooked_mutton": "2023-12-19 23:34:45 +0000",
       "cooked_beef": "2023-12-20 00:51:49 +0000",
+      "baked_potato": "2023-12-29 00:26:03 +0000",
       "porkchop": "2023-12-28 01:51:55 +0000",
       "potato": "2023-12-21 23:32:11 +0000",
+      "cooked_cod": "2023-12-29 01:30:08 +0000",
       "pumpkin_pie": "2023-12-20 22:17:12 +0000",
       "bread": "2023-12-21 23:27:31 +0000",
       "golden_apple": "2023-12-23 02:54:19 +0000",
@@ -1074,6 +1082,7 @@
       "melon_slice": "2023-12-21 03:07:43 +0000",
       "golden_carrot": "2023-12-22 03:33:16 +0000",
       "cooked_chicken": "2023-12-20 00:07:58 +0000",
+      "enchanted_golden_apple": "2023-12-28 23:12:38 +0000",
       "rabbit_stew": "2023-12-28 01:06:01 +0000",
       "carrot": "2023-12-20 22:33:13 +0000"
     },
@@ -6247,6 +6256,24 @@
     },
     "done": true
   },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "in_mansion_oak": "2023-12-28 02:08:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2023-12-28 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2023-12-28 02:32:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_jungle_bridge": {
     "criteria": {
       "has_planks": "2023-12-28 02:38:44 +0000"
@@ -6313,12 +6340,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2023-12-28 02:32:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2023-12-28 02:38:44 +0000"
@@ -6337,23 +6358,305 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
-    "criteria": {
-      "has_item": "2023-12-28 02:13:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2023-12-28 02:38:44 +0000"
     },
     "done": true
   },
-  "repurposed_structures:mansions": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "in_mansion_oak": "2023-12-28 02:08:20 +0000"
+      "coded_trigger": "2023-12-28 03:26:19 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2023-12-28 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2023-12-28 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2023-12-28 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2023-12-28 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2023-12-28 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2023-12-28 23:49:41 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2023-12-28 23:49:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2023-12-29 00:04:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2023-12-29 00:19:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2023-12-29 00:19:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2023-12-29 00:55:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2023-12-29 00:55:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2023-12-29 01:37:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2023-12-29 01:37:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2023-12-29 01:37:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2023-12-29 01:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2023-12-29 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2023-12-29 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thin_pot": {
+    "criteria": {
+      "has_terracotta_thin_pot": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_cup": {
+    "criteria": {
+      "has_terracotta_cup": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_medium_pot": {
+    "criteria": {
+      "has_terracotta_medium_pot": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_plate": {
+    "criteria": {
+      "has_terracotta_plate": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_wide_pot": {
+    "criteria": {
+      "has_terracotta_wide_pot": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_bowl": {
+    "criteria": {
+      "has_terracotta_bowl": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thick_pot": {
+    "criteria": {
+      "has_terracotta_thick_pot": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-12-29 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2023-12-29 01:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2023-12-29 01:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-12-29 01:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2023-12-29 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2023-12-29 01:57:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2023-12-29 02:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-12-29 03:34:53 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
