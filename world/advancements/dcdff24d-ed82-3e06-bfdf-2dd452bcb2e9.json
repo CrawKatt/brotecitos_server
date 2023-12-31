@@ -1975,11 +1975,13 @@
       "minecraft:witch": "2023-12-20 02:24:25 +0000",
       "minecraft:wither_skeleton": "2023-12-20 21:41:47 +0000",
       "minecraft:husk": "2023-12-26 21:52:01 +0000",
+      "minecraft:shulker": "2023-12-30 22:34:48 +0000",
       "minecraft:cave_spider": "2023-12-20 15:53:55 +0000",
       "minecraft:piglin": "2023-12-20 22:42:13 +0000",
       "minecraft:enderman": "2023-12-20 02:34:10 +0000",
       "minecraft:silverfish": "2023-12-22 00:59:48 +0000",
       "minecraft:stray": "2023-12-24 00:37:44 +0000",
+      "minecraft:endermite": "2023-12-31 00:23:27 +0000",
       "minecraft:vex": "2023-12-26 20:45:26 +0000",
       "minecraft:zombie": "2023-12-20 00:09:43 +0000",
       "minecraft:drowned": "2023-12-20 19:52:56 +0000",
@@ -4293,6 +4295,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_birch": "2023-12-20 15:53:46 +0000",
+      "in_mineshaft_end": "2023-12-30 22:57:01 +0000",
       "in_mineshaft_crimson": "2023-12-21 01:47:05 +0000",
       "in_mineshaft_nether": "2023-12-20 21:50:23 +0000"
     },
@@ -5769,6 +5772,7 @@
   },
   "repurposed_structures:shipwrecks": {
     "criteria": {
+      "in_shipwreck_end": "2023-12-30 22:50:40 +0000",
       "in_shipwreck_nether_bricks": "2023-12-20 21:41:15 +0000"
     },
     "done": false
@@ -9041,6 +9045,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_end": "2023-12-30 23:05:47 +0000",
       "in_pyramid_ocean": "2023-12-26 22:21:31 +0000",
       "in_pyramid_snowy": "2023-12-24 00:37:39 +0000"
     },
@@ -11362,87 +11367,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/oak_nightstand": {
-    "criteria": {
-      "has_oak_nightstand": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_magenta_pane1": {
-    "criteria": {
-      "recipe_condition": "2023-12-30 02:19:06 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_orange2": {
-    "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_pillar_trim": {
     "criteria": {
       "has_jungle_pillar_trim": "2023-12-29 22:22:25 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_fancy_bed": {
-    "criteria": {
-      "has_oak_fancy_bed": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
-    "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_table": {
-    "criteria": {
-      "has_oak_table": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_corner_trim": {
-    "criteria": {
-      "has_oak_corner_trim": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_side_table": {
     "criteria": {
       "has_jungle_side_table": "2023-12-29 22:22:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_drawer": {
-    "criteria": {
-      "has_oak_drawer": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_shelf": {
-    "criteria": {
-      "has_oak_shelf": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dark_oak_pressure_plate": {
-    "criteria": {
-      "has_block": "2023-12-30 01:32:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_dark_oak_stairs": {
-    "criteria": {
-      "has_block": "2023-12-30 01:32:15 +0000"
     },
     "done": true
   },
@@ -11458,51 +11391,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_dark_oak_slab": {
-    "criteria": {
-      "has_block": "2023-12-30 01:32:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_dining_bench": {
-    "criteria": {
-      "has_oak_dining_bench": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_red2": {
-    "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_desk": {
-    "criteria": {
-      "has_oak_desk": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_blue2": {
-    "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_drawer": {
     "criteria": {
       "has_jungle_drawer": "2023-12-29 22:22:25 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
-    "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_magenta_pane1": {
-    "criteria": {
-      "recipe_condition": "2023-12-30 02:19:32 +0000"
     },
     "done": true
   },
@@ -11524,45 +11415,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/oak_counter": {
-    "criteria": {
-      "has_oak_counter": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_magenta_pane1": {
-    "criteria": {
-      "recipe_condition": "2023-12-30 02:19:35 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_gray2": {
-    "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2023-12-29 22:22:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2023-12-30 01:56:34 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_yellow2": {
-    "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_bench": {
-    "criteria": {
-      "has_oak_bench": "2023-12-30 01:31:44 +0000"
     },
     "done": true
   },
@@ -11578,21 +11433,87 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_purple2": {
+  "handcrafted:recipes/misc/jungle_bench": {
     "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+      "has_jungle_bench": "2023-12-29 22:22:25 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dark_oak_button": {
+  "handcrafted:recipes/misc/jungle_couch": {
     "criteria": {
-      "has_block": "2023-12-30 01:32:15 +0000"
+      "has_jungle_couch": "2023-12-29 22:22:25 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_green2": {
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
     "criteria": {
-      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+      "has_jungle_fancy_bed": "2023-12-29 22:22:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2023-12-29 22:22:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2023-12-30 01:31:44 +0000"
     },
     "done": true
   },
@@ -11614,15 +11535,105 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_pink2": {
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2023-12-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2023-12-30 01:32:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_dark_oak_stairs": {
+    "criteria": {
+      "has_block": "2023-12-30 01:32:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_dark_oak_slab": {
+    "criteria": {
+      "has_block": "2023-12-30 01:32:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_button": {
+    "criteria": {
+      "has_block": "2023-12-30 01:32:15 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_orange2": {
     "criteria": {
       "recipe_condition1": "2023-12-30 01:52:18 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/jungle_bench": {
+  "connectedglass:recipes/misc/borderless_glass_black2": {
     "criteria": {
-      "has_jungle_bench": "2023-12-29 22:22:25 +0000"
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2023-12-30 01:52:18 +0000"
     },
     "done": true
   },
@@ -11644,33 +11655,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/jungle_couch": {
-    "criteria": {
-      "has_jungle_couch": "2023-12-29 22:22:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_fancy_bed": {
-    "criteria": {
-      "has_jungle_fancy_bed": "2023-12-29 22:22:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_cupboard": {
-    "criteria": {
-      "has_oak_cupboard": "2023-12-30 01:31:44 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_brown2": {
     "criteria": {
       "recipe_condition1": "2023-12-30 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_side_table": {
-    "criteria": {
-      "has_oak_side_table": "2023-12-30 01:31:44 +0000"
     },
     "done": true
   },
@@ -11680,15 +11667,411 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/jungle_counter": {
-    "criteria": {
-      "has_jungle_counter": "2023-12-29 22:22:25 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/clear_glass1": {
     "criteria": {
       "recipe_condition": "2023-12-30 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2023-12-30 01:56:34 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-12-30 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_magenta_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-12-30 02:19:32 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_magenta_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-12-30 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_cupboard": {
+    "criteria": {
+      "has_cherry_cupboard": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_fancy_bed": {
+    "criteria": {
+      "has_cherry_fancy_bed": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_couch": {
+    "criteria": {
+      "has_cherry_couch": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_counter": {
+    "criteria": {
+      "has_cherry_counter": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_bench": {
+    "criteria": {
+      "has_cherry_bench": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_side_table": {
+    "criteria": {
+      "has_cherry_side_table": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_corner_trim": {
+    "criteria": {
+      "has_cherry_corner_trim": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_nightstand": {
+    "criteria": {
+      "has_cherry_nightstand": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_cherry_bridge": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_rail_bridge": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_dining_bench": {
+    "criteria": {
+      "has_cherry_dining_bench": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_chair": {
+    "criteria": {
+      "has_cherry_chair": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_desk": {
+    "criteria": {
+      "has_cherry_desk": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_shelf": {
+    "criteria": {
+      "has_cherry_shelf": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_the_recipe": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_pillar_trim": {
+    "criteria": {
+      "has_cherry_pillar_trim": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_drawer": {
+    "criteria": {
+      "has_cherry_drawer": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_table": {
+    "criteria": {
+      "has_cherry_table": "2023-12-30 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-12-30 06:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-12-30 06:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2023-12-30 06:32:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2023-12-30 20:49:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2023-12-30 20:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-12-30 21:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-12-30 21:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-12-30 22:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-12-30 22:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2023-12-30 22:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2023-12-30 22:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-12-30 22:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-12-30 22:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2023-12-30 22:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-12-30 22:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2023-12-30 22:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-12-30 22:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-12-30 22:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-12-30 22:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-12-30 22:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-12-30 22:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-12-30 22:38:08 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:end_pill/find_normal": {
+    "criteria": {
+      "requirement": "2023-12-30 22:39:12 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:root": {
+    "criteria": {
+      "awesomedungeonend:end_pill": "2023-12-30 22:39:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2023-12-30 22:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-12-31 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-12-31 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2023-12-31 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-12-31 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-12-31 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-12-31 00:20:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_disenchanter": {
+    "criteria": {
+      "coded_trigger": "2023-12-31 00:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2023-12-31 00:55:20 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:end_hardcastle/find_normal": {
+    "criteria": {
+      "requirement": "2023-12-31 01:18:26 +0000"
     },
     "done": true
   },
