@@ -1862,9 +1862,11 @@
       "minecraft:hoglin": "2023-12-23 20:33:31 +0000",
       "minecraft:magma_cube": "2023-12-27 07:26:07 +0000",
       "minecraft:spider": "2023-12-21 00:00:32 +0000",
+      "minecraft:piglin_brute": "2023-12-31 03:36:49 +0000",
       "minecraft:creeper": "2023-12-21 02:18:22 +0000",
       "minecraft:wither": "2023-12-28 06:49:24 +0000",
       "minecraft:slime": "2023-12-24 02:31:56 +0000",
+      "minecraft:evoker": "2023-12-31 21:24:12 +0000",
       "minecraft:phantom": "2023-12-21 05:13:59 +0000",
       "minecraft:zombified_piglin": "2023-12-22 21:11:38 +0000",
       "minecraft:witch": "2023-12-22 00:18:58 +0000",
@@ -1877,6 +1879,7 @@
       "minecraft:silverfish": "2023-12-23 01:03:25 +0000",
       "minecraft:stray": "2023-12-26 07:01:07 +0000",
       "minecraft:endermite": "2023-12-30 21:34:20 +0000",
+      "minecraft:vex": "2023-12-31 21:24:23 +0000",
       "minecraft:zombie": "2023-12-20 23:51:42 +0000",
       "minecraft:drowned": "2023-12-21 07:50:44 +0000",
       "minecraft:zombie_villager": "2023-12-22 05:16:46 +0000"
@@ -3926,6 +3929,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2023-12-27 06:27:26 +0000",
+      "sugar_cane": "2023-12-31 06:17:32 +0000",
       "nether_wart": "2023-12-26 07:26:06 +0000",
       "wheat": "2023-12-29 01:38:48 +0000",
       "carrot": "2023-12-21 06:19:42 +0000"
@@ -5228,6 +5232,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_end": "2023-12-31 06:49:21 +0000",
       "in_outpost_jungle": "2023-12-21 07:02:51 +0000",
       "in_outpost_snowy": "2023-12-24 02:43:34 +0000",
       "in_outpost_oak": "2023-12-31 01:13:33 +0000"
@@ -5806,6 +5811,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_end": "2023-12-31 06:28:04 +0000",
       "in_pyramid_ocean": "2023-12-21 20:19:57 +0000",
       "in_pyramid_jungle": "2023-12-23 01:03:11 +0000"
     },
@@ -10461,7 +10467,8 @@
   },
   "repurposed_structures:shipwrecks": {
     "criteria": {
-      "in_shipwreck_end": "2023-12-30 21:48:01 +0000"
+      "in_shipwreck_end": "2023-12-30 21:48:01 +0000",
+      "in_shipwreck_nether_bricks": "2023-12-31 03:39:21 +0000"
     },
     "done": false
   },
@@ -10699,15 +10706,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2023-12-31 02:02:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2023-12-31 02:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2023-12-31 02:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2023-12-31 02:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2023-12-31 02:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2023-12-31 02:02:42 +0000"
     },
     "done": true
   },
@@ -10729,33 +10754,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
-    "criteria": {
-      "has_prismarine_bricks": "2023-12-31 02:02:09 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/quartz_corner_trim": {
     "criteria": {
       "has_quartz_corner_trim": "2023-12-31 02:02:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
-    "criteria": {
-      "has_prismarine_bricks": "2023-12-31 02:02:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-12-31 02:02:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2023-12-31 02:02:09 +0000"
     },
     "done": true
   },
@@ -10774,6 +10781,84 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-12-31 02:02:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ancient_knowledge": {
+    "criteria": {
+      "coded_trigger": "2023-12-31 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-12-31 03:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2023-12-31 04:01:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2023-12-31 04:16:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2023-12-31 04:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2023-12-31 05:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2023-12-31 05:40:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2023-12-31 05:40:34 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:end_palace/find_normal": {
+    "criteria": {
+      "requirement": "2023-12-31 06:29:53 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2023-12-31 06:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-12-31 06:34:24 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:end_pill/find_normal": {
+    "criteria": {
+      "requirement": "2023-12-31 07:19:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2023-12-31 07:41:24 +0000"
     },
     "done": true
   },
