@@ -1,137 +1,137 @@
-[01Jan2024 00:02:08.163] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c5bfbcd[id=<null>,name=AlejoYP2603,properties={},legacy=false] (/179.6.170.252:19768) lost connection: Disconnected
-[01Jan2024 00:02:59.617] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c97e686[id=<null>,name=AlejoYP2603,properties={},legacy=false] (/179.6.170.252:25678) lost connection: Disconnected
-[01Jan2024 00:03:32.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejoYP2603[/179.6.170.252:30972] logged in with entity id 415685 at (3849.0978074238233, 88.0, -1997.9849155018485)
-[01Jan2024 00:03:32.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 joined the game
-[01Jan2024 00:03:32.650] [Server thread/INFO] [Jade/]: Syncing config to AlejoYP2603 (d346f2d1-37ac-302e-83ed-4ba5f978d523)
-[01Jan2024 00:04:48.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3886, y=91, z=-2020} BlockPos{x=3887, y=90, z=-2020}
-[01Jan2024 00:04:48.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3886, y=91, z=-2020} BlockPos{x=3887, y=90, z=-2020}
-[01Jan2024 00:04:48.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3886, y=91, z=-2020} BlockPos{x=3887, y=90, z=-2020}
-[01Jan2024 00:04:48.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3886, y=91, z=-2020} BlockPos{x=3887, y=90, z=-2020}
-[01Jan2024 00:04:48.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3886, y=91, z=-2020} BlockPos{x=3887, y=90, z=-2020}
-[01Jan2024 00:04:48.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3886, y=91, z=-2020} BlockPos{x=3887, y=90, z=-2020}
-[01Jan2024 00:04:48.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3886, y=91, z=-2020} BlockPos{x=3887, y=90, z=-2020}
-[01Jan2024 00:04:51.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3887, y=91, z=-2021} BlockPos{x=3888, y=90, z=-2021}
-[01Jan2024 00:05:10.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3888, y=88, z=-2016} BlockPos{x=3888, y=87, z=-2017}
-[01Jan2024 00:05:10.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3888, y=88, z=-2015} BlockPos{x=3888, y=87, z=-2017}
-[01Jan2024 00:05:10.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3888, y=88, z=-2015} BlockPos{x=3888, y=87, z=-2017}
-[01Jan2024 00:05:53.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3875, y=87, z=-2002} BlockPos{x=3874, y=86, z=-2002}
-[01Jan2024 00:05:53.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3875, y=87, z=-2002} BlockPos{x=3874, y=86, z=-2002}
-[01Jan2024 00:06:17.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3852, y=87, z=-1997} BlockPos{x=3853, y=86, z=-1998}
-[01Jan2024 00:06:17.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3852, y=87, z=-1997} BlockPos{x=3853, y=86, z=-1998}
-[01Jan2024 00:06:36.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai lost connection: Disconnected
-[01Jan2024 00:06:36.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai left the game
-[01Jan2024 00:16:20.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> *inserte meme de la rana
-[01Jan2024 00:16:48.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 moved wrongly!
-[01Jan2024 00:17:03.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> per aprovecha para recolectar materiales por la noche
-[01Jan2024 00:20:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> te consigo andamios?
-[01Jan2024 00:20:58.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> okok
-[01Jan2024 00:21:11.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> oye y si viste el dm?
-[01Jan2024 00:21:17.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mBattousai[/38.10.112.5:65189] logged in with entity id 435149 at (78.8776933106718, 88.0, -375.10987983594714)
-[01Jan2024 00:21:17.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai joined the game
-[01Jan2024 00:21:17.676] [Server thread/INFO] [Jade/]: Syncing config to mBattousai (dcdff24d-ed82-3e06-bfdf-2dd452bcb2e9)
-[01Jan2024 00:21:41.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> necesito hilo
-[01Jan2024 00:21:54.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> f
-[01Jan2024 00:23:15.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> nope
-[01Jan2024 00:23:18.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> normal xd
-[01Jan2024 00:25:55.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
-[01Jan2024 00:25:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
-[01Jan2024 00:26:00.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> nygel
-[01Jan2024 00:26:08.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> toma
-[01Jan2024 00:27:32.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> quieres que haya una explanada hacia allá?
-[01Jan2024 00:27:40.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> para que puedan hacer más pixel art?
-[01Jan2024 00:28:58.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> respetaras la heterocromia
-[01Jan2024 00:48:19.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ohh los ojos no los cambiarás de color
-[01Jan2024 00:48:49.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> nono estaba contemplando
-[01Jan2024 00:49:21.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> altoque mi rey
-[01Jan2024 00:49:28.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> si normal
-[01Jan2024 00:50:54.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> con mi pala obtengo puro pedernal xd
-[01Jan2024 00:52:56.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> la grava la necesitas?
-[01Jan2024 00:57:00.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> si me atacan
-[01Jan2024 00:57:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> mis espinas
-[01Jan2024 00:57:08.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> xd
-[01Jan2024 01:01:20.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> esa voz me recuerda al
-[01Jan2024 01:01:25.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> como tan muchacho
-[01Jan2024 01:01:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> gou
-[01Jan2024 01:02:08.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> vamos nygel te cucbro
-[01Jan2024 01:02:10.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> terminalo
-[01Jan2024 01:06:45.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> espera ya sé
-[01Jan2024 01:10:42.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> nygel toma
-[01Jan2024 01:11:11.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XD
-[01Jan2024 01:11:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> Ok
-[01Jan2024 01:11:26.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ten
-[01Jan2024 01:11:41.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> para los phantoms
-[01Jan2024 01:14:01.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
-[01Jan2024 01:14:01.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
-[01Jan2024 01:14:01.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> no bro
-[01Jan2024 01:14:25.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 lost connection: Disconnected
-[01Jan2024 01:14:25.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 left the game
-[01Jan2024 01:23:13.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pixeladosubzero lost connection: Disconnected
-[01Jan2024 01:23:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pixeladosubzero left the game
-[01Jan2024 03:34:38.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DENNISP45[/167.250.180.69:63840] logged in with entity id 489857 at (107.95621760997332, 117.0, -545.4148866809633)
-[01Jan2024 03:34:38.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 joined the game
-[01Jan2024 03:34:38.477] [Server thread/INFO] [Jade/]: Syncing config to DENNISP45 (7e3364f4-c32f-3f3c-8972-b2e30dfe3548)
-[01Jan2024 04:17:30.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 experienced kinetic energy
-[01Jan2024 04:17:30.605] [Server thread/INFO] [tombstone/]: The player DENNISP45 has successfully been saved
-[01Jan2024 04:22:31.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 has made the advancement [The Useless Portal]
-[01Jan2024 04:37:47.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nygel1657[/179.6.164.35:52008] logged in with entity id 513533 at (89.72094024530588, 119.0, -199.77400438637653)
-[01Jan2024 04:37:47.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 joined the game
-[01Jan2024 04:37:47.761] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
-[01Jan2024 05:01:42.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
-[01Jan2024 05:03:36.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CrawKatt[/200.120.142.58:57560] logged in with entity id 533050 at (-131.45571912681785, 81.0, -175.40235768632584)
-[01Jan2024 05:03:36.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt joined the game
-[01Jan2024 05:03:36.362] [Server thread/INFO] [Jade/]: Syncing config to CrawKatt (5cf373c6-9b7d-3c4b-b767-5718e6090af7)
-[01Jan2024 05:07:51.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has reached the goal [Sky's the Limit]
-[01Jan2024 05:11:33.191] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CrawKatt with unique ID 3a84debf-07d2-4f26-9890-10fde18c9ea0
-[01Jan2024 05:11:33.192] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 74 Y: 4 Z: -191
-[01Jan2024 05:11:33.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt was slain by Vex
-[01Jan2024 05:11:33.203] [Server thread/INFO] [tombstone/]: The player CrawKatt has successfully been saved
-[01Jan2024 05:11:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported CrawKatt to mBattousai]
-[01Jan2024 05:12:44.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has reached the goal [Postmortal]
-[01Jan2024 05:12:44.944] [Server thread/INFO] [tombstone/]: The player CrawKatt has successfully been saved
-[01Jan2024 05:12:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt was slain by Vex
-[01Jan2024 05:12:59.996] [Server thread/INFO] [tombstone/]: The player CrawKatt has successfully been saved
-[01Jan2024 05:13:07.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported CrawKatt to mBattousai]
-[01Jan2024 05:13:07.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! 69.19673515324625,-70.0,-232.5798587691487
-[01Jan2024 05:13:40.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! 0.03045184899795572,108.58000001311302,0.024393167738736565
-[01Jan2024 05:15:46.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from mBattousai: Location (68.80310767889023, 122.0, -170.47684746980667) too far away from hit block BlockPos{x=68, y=120, z=-171}.
-[01Jan2024 05:15:49.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from mBattousai: Location (68.88071656227112, 122.0, -170.36523294448853) too far away from hit block BlockPos{x=68, y=120, z=-171}.
-[01Jan2024 05:15:50.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from mBattousai: Location (68.88071656227112, 122.0, -170.36523294448853) too far away from hit block BlockPos{x=68, y=120, z=-171}.
-[01Jan2024 05:16:35.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported CrawKatt to mBattousai]
-[01Jan2024 05:18:42.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported CrawKatt to mBattousai]
-[01Jan2024 05:18:56.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
-[01Jan2024 05:20:24.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 lost connection: Disconnected
-[01Jan2024 05:20:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 left the game
-[01Jan2024 05:21:59.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has made the advancement [Bring Home the Beacon]
-[01Jan2024 05:23:59.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [Bring Home the Beacon]
-[01Jan2024 05:30:51.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt lost connection: Disconnected
-[01Jan2024 05:30:51.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt left the game
-[01Jan2024 06:20:48.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai lost connection: Disconnected
-[01Jan2024 06:20:48.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai left the game
-[01Jan2024 06:22:48.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 7.100848595381677,6.780305382078495,-2.727947097920122
-[01Jan2024 06:23:13.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Timed out
-[01Jan2024 06:23:13.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
-[01Jan2024 12:31:15.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shuryn[/190.231.178.118:50985] logged in with entity id 566764 at (124.40513088874273, 95.0, -374.42198233539943)
-[01Jan2024 12:31:15.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn joined the game
-[01Jan2024 12:31:15.181] [Server thread/INFO] [Jade/]: Syncing config to Shuryn (b7602664-58da-37d0-9805-0f07d495f458)
-[01Jan2024 12:55:50.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nygel1657[/179.6.164.35:14062] logged in with entity id 572762 at (75.72756301110945, 122.51853613808805, -167.31810296394332)
-[01Jan2024 12:55:50.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 joined the game
-[01Jan2024 12:55:50.989] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
-[01Jan2024 12:56:49.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> que opinas como quedo la Meica?
-[01Jan2024 12:57:12.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shuryn> no se, la mayoria del directo solo escuche y no vi
-[01Jan2024 12:57:31.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> hablaba del pixelart
-[01Jan2024 13:01:10.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
-[01Jan2024 13:01:10.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
-[01Jan2024 13:23:41.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
-[01Jan2024 13:23:41.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
-[01Jan2024 16:18:01.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[01Jan2024 16:18:01.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[01Jan2024 16:18:01.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[01Jan2024 16:18:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01Jan2024 16:18:02.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01Jan2024 16:18:02.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01Jan2024 16:18:02.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Jan2024 16:18:02.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Jan2024 16:18:02.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Jan2024 16:18:02.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01Jan2024 16:18:02.737] [Server thread/INFO] [Framework/]: Unloading server configs...
-[01Jan2024 16:18:02.738] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Jan2024 00:02:26.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Globo05 was shot by Skeleton
+[02Jan2024 00:02:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Globo05 has made the advancement [Your First Grave]
+[02Jan2024 00:02:26.865] [Server thread/INFO] [tombstone/]: The player Globo05 has successfully been saved
+[02Jan2024 00:03:49.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Globo05 has reached the goal [Here They Come]
+[02Jan2024 00:10:20.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Globo05 lost connection: Disconnected
+[02Jan2024 00:10:20.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Globo05 left the game
+[02Jan2024 01:25:02.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 lost connection: Disconnected
+[02Jan2024 01:25:02.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 left the game
+[02Jan2024 02:32:47.753] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12eceda[id=<null>,name=AlejoYP2603,properties={},legacy=false] (/179.6.170.252:42802) lost connection: Timed out
+[02Jan2024 02:40:52.547] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59d848c7[id=<null>,name=AlejoYP2603,properties={},legacy=false] (/179.6.170.252:45951) lost connection: Disconnected
+[02Jan2024 03:13:58.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejoYP2603[/179.6.170.252:51644] logged in with entity id 169893 at (281.2934031043705, 50.0, -3.4948622112337113)
+[02Jan2024 03:13:58.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 joined the game
+[02Jan2024 03:13:58.998] [Server thread/INFO] [Jade/]: Syncing config to AlejoYP2603 (d346f2d1-37ac-302e-83ed-4ba5f978d523)
+[02Jan2024 03:16:05.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> donde estás?
+[02Jan2024 03:16:07.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> voy
+[02Jan2024 03:17:46.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> quieres flecha?
+[02Jan2024 03:17:53.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> encontre grax
+[02Jan2024 03:18:09.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tontiito[/189.204.216.157:56990] logged in with entity id 173075 at (243.0305697214385, 98.0, -613.6999999880791)
+[02Jan2024 03:18:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tontiito joined the game
+[02Jan2024 03:18:09.830] [Server thread/INFO] [Jade/]: Syncing config to Tontiito (76343b63-78be-3a8e-8698-36923c9e431b)
+[02Jan2024 03:18:48.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nygel1657[/179.6.164.35:62785] logged in with entity id 173606 at (80.94012860534859, 121.0, -183.45013916923656)
+[02Jan2024 03:18:48.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 joined the game
+[02Jan2024 03:18:48.957] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
+[02Jan2024 03:18:55.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> más dulce la fruta estimado
+[02Jan2024 03:19:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ahmmm
+[02Jan2024 03:19:21.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=67, z=26}
+[02Jan2024 03:19:23.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Disconnected
+[02Jan2024 03:19:23.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[02Jan2024 03:19:32.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XD
+[02Jan2024 03:19:35.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Turnail[/186.12.228.223:60469] logged in with entity id 175031 at (-12.136255765377195, 68.0, 28.40793463059978)
+[02Jan2024 03:19:35.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail joined the game
+[02Jan2024 03:19:35.108] [Server thread/INFO] [Jade/]: Syncing config to Turnail (372821ce-463a-3272-940e-1420d8ca5573)
+[02Jan2024 03:19:51.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> no solo te cubrí no sabía como hacerlo
+[02Jan2024 03:19:54.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Disconnected
+[02Jan2024 03:19:54.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[02Jan2024 03:20:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> pronto llenemos el server
+[02Jan2024 03:20:06.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Turnail[/186.12.228.223:61210] logged in with entity id 175257 at (-12.622878057576992, 68.0, 26.959831050602585)
+[02Jan2024 03:20:06.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail joined the game
+[02Jan2024 03:20:06.206] [Server thread/INFO] [Jade/]: Syncing config to Turnail (372821ce-463a-3272-940e-1420d8ca5573)
+[02Jan2024 03:20:14.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> [name:"Granja del End", x:277, y:50, z:-10, dim:minecraft:the_end]
+[02Jan2024 03:22:05.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has reached the goal [A Soul for a Soul]
+[02Jan2024 03:22:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [Should've Gone for the Head]
+[02Jan2024 03:23:05.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 has completed the challenge [Wormy]
+[02Jan2024 03:25:06.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has completed the challenge [Wormy]
+[02Jan2024 03:25:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has made the advancement [Should've Gone for the Head]
+[02Jan2024 03:26:37.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XD
+[02Jan2024 03:26:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> srry
+[02Jan2024 03:26:53.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has made the advancement [Break On Through...]
+[02Jan2024 03:27:20.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ?????
+[02Jan2024 03:29:09.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 moved wrongly!
+[02Jan2024 03:29:55.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tontiito moved wrongly!
+[02Jan2024 03:30:08.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lewis_T7[/45.161.24.207:50551] logged in with entity id 180765 at (-117.5, 78.0, -29.5)
+[02Jan2024 03:30:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lewis_T7 joined the game
+[02Jan2024 03:30:08.433] [Server thread/INFO] [Jade/]: Syncing config to Lewis_T7 (12a320f4-305f-3777-ab97-cddca3fd899b)
+[02Jan2024 03:30:15.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[02Jan2024 03:30:22.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[02Jan2024 03:30:59.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lewis_T7 lost connection: Disconnected
+[02Jan2024 03:30:59.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lewis_T7 left the game
+[02Jan2024 03:31:39.315] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Nygel1657 with unique ID e4e720ca-980d-4d26-9175-91073395ac29
+[02Jan2024 03:31:39.318] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 87 Y: 120 Z: -169
+[02Jan2024 03:31:39.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 was slain by mBattousai
+[02Jan2024 03:31:39.321] [Server thread/INFO] [tombstone/]: The player Nygel1657 has successfully been saved
+[02Jan2024 03:32:14.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> si xd
+[02Jan2024 03:32:35.574] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Turnail with unique ID 40844358-cceb-402b-9c51-bc662dbe8e17
+[02Jan2024 03:32:35.575] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 88 Y: 95 Z: -182
+[02Jan2024 03:32:35.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has completed the challenge [Almost Unkillable]
+[02Jan2024 03:32:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail was slain by mBattousai
+[02Jan2024 03:32:36.311] [Server thread/INFO] [tombstone/]: The player Turnail has successfully been saved
+[02Jan2024 03:32:39.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XDD
+[02Jan2024 03:32:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> lo siento jajaj
+[02Jan2024 03:33:12.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 4.383253226587925,-16.0,4.640729635608125
+[02Jan2024 03:34:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> tengo quieres?
+[02Jan2024 03:35:50.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> mmm si se podría
+[02Jan2024 03:35:59.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> pero no he visto una automática
+[02Jan2024 03:36:13.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> alo mejor el creative
+[02Jan2024 03:37:26.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tontiito has reached the goal [Bone Crusher]
+[02Jan2024 03:38:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XD
+[02Jan2024 03:39:53.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 moved wrongly!
+[02Jan2024 03:40:03.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved wrongly!
+[02Jan2024 03:41:49.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> avr
+[02Jan2024 03:42:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> yo tengo el plus de daño cuando quemo
+[02Jan2024 03:43:34.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has reached the goal [Powder Snow Walk]
+[02Jan2024 03:43:37.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XDASSASSINDX[/177.228.144.92:64432] logged in with entity id 190250 at (-129.30000001192093, 54.0, -104.30000001192093)
+[02Jan2024 03:43:37.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX joined the game
+[02Jan2024 03:43:37.360] [Server thread/INFO] [Jade/]: Syncing config to XDASSASSINDX (768865e0-2678-3b49-9d66-545ea0d8833f)
+[02Jan2024 03:43:44.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> buenas
+[02Jan2024 03:44:17.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has reached the goal [A self-respecting Soul]
+[02Jan2024 03:44:22.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
+[02Jan2024 03:44:22.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
+[02Jan2024 03:44:23.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has reached the goal [Like a bird]
+[02Jan2024 03:44:43.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has reached the goal [I see clearly now]
+[02Jan2024 03:45:19.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tontiito has reached the goal [Fortuitous Militia]
+[02Jan2024 03:49:20.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> no pero estoy seguro que con un scroll strenght V nos baja de una
+[02Jan2024 03:49:33.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tontiito lost connection: Disconnected
+[02Jan2024 03:49:33.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tontiito left the game
+[02Jan2024 03:50:54.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> XD
+[02Jan2024 03:51:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> quieres usarlo?
+[02Jan2024 03:51:27.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has made the advancement [An Impostor Amoung Us]
+[02Jan2024 03:52:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> si buena decisión iguakl se vuelve a llenar con botin
+[02Jan2024 03:54:26.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XDASSASSINDX lost connection: Disconnected
+[02Jan2024 03:54:26.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDASSASSINDX left the game
+[02Jan2024 03:54:34.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai lost connection: Disconnected
+[02Jan2024 03:54:34.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai left the game
+[02Jan2024 03:55:20.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Disconnected
+[02Jan2024 03:55:20.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[02Jan2024 04:04:11.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 has made the advancement [Weird Fishes/Arpeggi]
+[02Jan2024 04:05:45.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 lost connection: Disconnected
+[02Jan2024 04:05:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 left the game
+[02Jan2024 06:21:33.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shuryn[/190.231.178.118:50942] logged in with entity id 206803 at (167.26922240008855, 116.82232079436807, -423.2082869261193)
+[02Jan2024 06:21:33.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn joined the game
+[02Jan2024 06:21:33.524] [Server thread/INFO] [Jade/]: Syncing config to Shuryn (b7602664-58da-37d0-9805-0f07d495f458)
+[02Jan2024 06:29:10.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=108, z=-388} BlockPos{x=117, y=107, z=-388}
+[02Jan2024 06:29:10.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=108, z=-388} BlockPos{x=117, y=107, z=-388}
+[02Jan2024 07:42:35.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=71, z=-419} BlockPos{x=103, y=71, z=-422}
+[02Jan2024 07:43:12.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=70, z=-419} BlockPos{x=105, y=70, z=-418}
+[02Jan2024 07:43:12.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=70, z=-419} BlockPos{x=105, y=70, z=-418}
+[02Jan2024 07:48:05.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=29, z=-156} BlockPos{x=566, y=29, z=-157}
+[02Jan2024 07:50:26.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [Fetch Me Their Souls!]
+[02Jan2024 07:57:44.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
+[02Jan2024 07:57:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
+[02Jan2024 15:15:37.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CrawKatt[/186.79.11.221:58916] logged in with entity id 233417 at (80.52309251882646, 138.0, -185.8073521981147)
+[02Jan2024 15:15:37.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt joined the game
+[02Jan2024 15:15:37.833] [Server thread/INFO] [Jade/]: Syncing config to CrawKatt (5cf373c6-9b7d-3c4b-b767-5718e6090af7)
+[02Jan2024 15:18:15.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt lost connection: Disconnected
+[02Jan2024 15:18:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt left the game
+[02Jan2024 15:18:26.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jan2024 15:18:26.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jan2024 15:18:26.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jan2024 15:18:26.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jan2024 15:18:26.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jan2024 15:18:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jan2024 15:18:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jan2024 15:18:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jan2024 15:18:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jan2024 15:18:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jan2024 15:18:26.501] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Jan2024 15:18:26.503] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

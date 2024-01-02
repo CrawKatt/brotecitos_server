@@ -4298,6 +4298,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2023-12-30 06:02:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2023-12-30 06:02:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2023-12-30 06:04:29 +0000"
@@ -4313,12 +4325,6 @@
   "handcrafted:recipes/misc/dark_oak_table": {
     "criteria": {
       "has_dark_oak_table": "2023-12-30 06:04:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blackstone_pillar_trim": {
-    "criteria": {
-      "has_blackstone_pillar_trim": "2023-12-30 06:02:45 +0000"
     },
     "done": true
   },
@@ -4385,12 +4391,6 @@
   "handcrafted:recipes/misc/dark_oak_corner_trim": {
     "criteria": {
       "has_dark_oak_corner_trim": "2023-12-30 06:04:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blackstone_corner_trim": {
-    "criteria": {
-      "has_blackstone_corner_trim": "2023-12-30 06:02:45 +0000"
     },
     "done": true
   },

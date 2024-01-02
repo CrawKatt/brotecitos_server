@@ -4470,15 +4470,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_book": "2023-12-31 00:28:00 +0000"
+      "has_reeds": "2023-12-31 00:19:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "has_book": "2023-12-31 00:28:00 +0000"
+      "has_sugar_cane": "2023-12-31 00:19:08 +0000"
     },
     "done": true
   },
@@ -4488,33 +4488,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/stackable_book": {
-    "criteria": {
-      "has_stackable_book": "2023-12-31 00:28:00 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2023-12-31 00:20:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2023-12-31 00:28:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2023-12-31 00:20:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2023-12-31 00:28:00 +0000"
     },
     "done": true
   },
@@ -4527,6 +4509,54 @@
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2023-12-31 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2023-12-31 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2023-12-31 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-12-31 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-12-31 00:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2023-12-31 00:28:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2023-12-31 00:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-12-31 00:28:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2023-12-31 00:28:00 +0000"
     },
     "done": true
   },
@@ -4548,39 +4578,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2023-12-31 00:19:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2023-12-31 00:20:07 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
       "coded_trigger": "2023-12-31 00:29:05 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "has_item": "2023-12-31 00:20:07 +0000"
+      "coded_trigger": "2024-01-02 03:45:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "has_sugar_cane": "2023-12-31 00:19:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2023-12-31 00:20:07 +0000"
+      "coded_trigger": "2024-01-02 03:37:26 +0000"
     },
     "done": true
   },

@@ -6481,12 +6481,6 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2024-01-01 05:23:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-01-01 05:11:25 +0000"
@@ -6496,6 +6490,12 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2024-01-01 05:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-01-01 05:23:59 +0000"
     },
     "done": true
   },

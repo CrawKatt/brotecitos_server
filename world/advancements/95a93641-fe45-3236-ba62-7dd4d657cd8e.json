@@ -8003,5 +8003,17 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2024-01-01 20:01:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2024-01-01 20:01:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

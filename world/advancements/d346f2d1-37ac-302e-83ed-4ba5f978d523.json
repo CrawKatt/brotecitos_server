@@ -8168,6 +8168,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-01-01 00:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-01-01 00:24:44 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
     "criteria": {
       "recipe_condition2": "2024-01-01 00:53:18 +0000"
@@ -8198,12 +8210,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2024-01-01 00:24:44 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/tinted_borderless_glass_pink2": {
     "criteria": {
       "recipe_condition2": "2024-01-01 00:53:18 +0000"
@@ -8213,12 +8219,6 @@
   "connectedglass:recipes/misc/clear_glass_pink_pane2": {
     "criteria": {
       "recipe_condition2": "2024-01-01 00:53:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-01-01 00:24:44 +0000"
     },
     "done": true
   },
@@ -8267,6 +8267,24 @@
   "connectedglass:recipes/misc/scratched_glass_pink2": {
     "criteria": {
       "recipe_condition2": "2024-01-01 00:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2024-01-02 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2024-01-02 04:04:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_kill": {
+    "criteria": {
+      "ex": "2024-01-02 03:23:05 +0000"
     },
     "done": true
   },

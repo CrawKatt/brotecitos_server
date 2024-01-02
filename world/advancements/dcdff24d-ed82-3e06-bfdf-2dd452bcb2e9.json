@@ -12465,12 +12465,6 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2024-01-01 05:21:59 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2024-01-01 04:56:05 +0000"
@@ -12510,6 +12504,30 @@
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2024-01-01 04:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-01-01 05:21:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_split": {
+    "criteria": {
+      "ex": "2024-01-02 03:25:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_helmet": {
+    "criteria": {
+      "froststalker_helmet": "2024-01-02 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/dimensional_carver": {
+    "criteria": {
+      "dimensional_carver": "2024-01-02 03:26:53 +0000"
     },
     "done": true
   },
