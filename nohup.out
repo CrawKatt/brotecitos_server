@@ -23029,3 +23029,892 @@ java.io.IOException: Bad file descriptor
 [00:02:30] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
 [00:02:31] [Server thread/INFO] [Framework/]: Unloading server configs...
 [00:02:31] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+2024-01-04 00:14:24,667 main WARN Advanced terminal features are not available in this environment
+[00:14:24] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[00:14:24] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 18.0.2-ea by Private Build; OS Linux arch amd64 version 5.15.0-1045-oracle
+[00:14:25] [main/INFO] [ne.mi.fm.lo.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[00:14:25] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/ubuntu/server_mods/brotecitos_server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[00:14:26] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[00:14:26] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[00:14:26] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[00:14:26] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[00:14:26] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[00:14:26] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 34 dependencies adding them to mods collection
+[00:14:27] [main/INFO] [or.gr.gm.ma.MappingsProvider/]: Starting runtime mappings setup...
+[00:14:27] [main/INFO] [or.gr.gm.in.lo.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[00:14:27] [main/INFO] [or.gr.gm.sc.ScriptModLocator/]: Injected Jimfs file system
+[00:14:27] [main/INFO] [or.gr.gm.sc.ScriptModLocator/]: Skipped loading script mods from directory /home/ubuntu/server_mods/brotecitos_server/mods/scripts as it did not exist.
+[00:14:27] [main/INFO] [or.gr.gm.in.lo.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[00:14:32] [GML Mappings Thread/INFO] [or.gr.gm.ma.MappingsProvider/]: Loaded runtime mappings in 4384ms
+[00:14:32] [GML Mappings Thread/INFO] [or.gr.gm.ma.MappingsProvider/]: Finished runtime mappings setup.
+[00:14:32] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[00:14:32] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[00:14:32] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[00:14:32] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[00:14:32] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:14:32] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:14:32] [main/INFO] [Puzzles Lib/]: Loading 70 mods:
+	- alexsmobs 1.22.7
+	- architectury 9.1.12
+	- artifacts 9.2.0
+	- attributefix 21.0.4
+	- awesomedungeon 3.2.0
+	- awesomedungeonend 3.1.1
+	- awesomedungeonocean 3.3.0
+	- azurelib 2.0.17
+	- balm 7.2.1
+	- betteranimationscollection 8.0.0
+	- bookshelf 20.1.7
+	- caelus 3.1.0+1.20
+	- carryon 2.1.2.7
+	- charmofundying 6.4.5+1.20.1
+	- citadel 2.4.9
+	- cloth_config 11.1.106
+	- commongroovylibrary 0.3.3
+	- connectedglass 1.1.10
+	- create 0.5.1.f
+	- createaddition 1.20.1-1.2.1
+	- creativecore 2.11.16
+	- cristellib 1.1.5
+	- curios 5.4.6+1.20.1
+	- customskinloader 14.17
+	- days_in_the_middle_ages 0.0.5
+	- eatinganimation 5.0.0
+	- elevatorid 1.20.1-lex-1.9
+	- elytraslot 6.3.0+1.20.1
+	- enchdesc 17.0.9
+	- epicsamurai 0.0.32-1.20.1-neo
+	- expandability 9.0.0
+	- explorify 1.3.0-mc1.20
+	- fallingtree 4.3.3
+	- farmersdelight 1.20.1-1.2.3
+	- flywheel 0.6.10-7
+	- forge 47.2.0
+	- framework 0.6.16
+	- fusion 1.1.0b
+	- gml 4.0.9
+	- goblintraders 1.9.3
+	- handcrafted 3.0.5
+	- itemproductionlib 1.0.0a
+	- jade 11.6.3
+	- jei 15.2.0.27
+	- journeymap 5.9.18
+	- konkrete 1.6.1
+	- libraryferret 4.0.0
+	- maxhealthfix 12.0.2
+	- mcwbridges 2.1.1
+	- minecraft 1.20.1
+	- mixinextras 0.3.2
+	- mixinsquared 0.1.1
+	- moonlight 1.20-2.8.67
+	- mousetweaks 2.25
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.11
+	- repurposed_structures 7.1.11+1.20.1-forge
+	- resourcefullib 2.1.20
+	- securitycraft 1.9.8
+	- skilltree 0.6.3a
+	- skyvillages 1.0.3
+	- spectrelib 0.13.14+1.20.1
+	- supermartijn642corelib 1.1.16
+	- supplementaries 1.20-2.7.12
+	- t_and_t 0.0NONE
+	- tombstone 8.5.5
+	- torchmaster 20.1.5
+	- trashslot 15.1.0
+	- travelersbackpack 9.1.11
+	- waystones 14.1.3
+[00:14:32] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:14:34] [main/ERROR] [ne.mi.fm.lo.RuntimeDistCleaner/DISTXFORM]: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER
+[00:14:34] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.RuntimeException: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER)
+[00:14:34] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[00:14:34] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[00:14:34] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[00:14:34] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
+[00:14:34] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[00:14:34] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
+[00:14:34] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe)
+[00:14:34] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
+[00:14:34] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus)
+[00:14:34] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
+[00:14:34] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus)
+[00:14:34] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
+[00:14:35] [main/ERROR] [ne.mi.fm.lo.RuntimeDistCleaner/DISTXFORM]: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER
+[00:14:35] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.RuntimeException: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER)
+[00:14:35] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/blockentity/SignRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.blockentity.SignRenderer)
+[00:14:35] [main/ERROR] [mixin/]: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.isMixin()" because "superClass" is null
+java.lang.NullPointerException: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.isMixin()" because "superClass" is null
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:581) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:801) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:567) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-10.0.9.jar%2355!/:10.0.9+10.0.9+main.dcd20f30] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:633) ~[?:?] {}
+	at java.lang.Class.forName(Class.java:577) ~[?:?] {}
+	at java.lang.Class.forName(Class.java:552) ~[?:?] {}
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler$DummyProvider.lambda$updateModuleReads$1(ImmediateWindowHandler.java:145) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at java.util.Optional.map(Optional.java:260) ~[?:?] {}
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler$DummyProvider.updateModuleReads(ImmediateWindowHandler.java:145) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler.acceptGameLayer(ImmediateWindowHandler.java:71) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at net.minecraftforge.fml.loading.FMLLoader.beforeStart(FMLLoader.java:207) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.launchService(CommonLaunchHandler.java:92) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[00:14:35] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[00:14:39] [main/WARN] [mixin/]: Method overwrite conflict for setUser in skilltree.mixins.json:minecraft/BlockEntityMixin, previously written by daripher.itemproduction.mixin.minecraft/BlockEntityMixin. Skipping method.
+[00:14:46] [main/INFO] [or.gr.gm.in.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[00:14:46] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for betteranimationscollection:main
+[00:14:46] [modloading-worker-0/INFO] [co.jt.li.LibraryFerret/]: Initialize mod Library Ferret
+[00:14:46] [modloading-worker-0/INFO] [co.jt.li.LibraryFerret/]: Initialized mod Library Ferret
+[00:14:47] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[00:14:47] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[00:14:47] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[00:14:47] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[00:14:47] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[00:14:47] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[00:14:47] [modloading-worker-0/INFO] [MaxHealthFix/]: Loaded maxhealthfix for Forge.
+[00:14:47] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[00:14:47] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[00:14:47] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[00:14:47] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[00:14:47] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[00:14:47] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[00:14:47] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[00:14:47] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[00:14:47] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[00:14:47] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[00:14:47] [modloading-worker-0/INFO] [de.ke.ko.Konkrete/]: [KONKRETE] Successfully initialized!
+[00:14:47] [modloading-worker-0/INFO] [de.ke.ko.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[Mouse Tweaks] Disabled because not running on the client.
+[00:14:48] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[00:14:50] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[00:14:51] [modloading-worker-0/INFO] [be.fl.ex.ExpandAbility/]: ExpandAbility here, who dis?
+[00:15:00] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
+[00:15:02] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [betteranimationscollection] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/betteranimationscollection.json
+[00:15:02] [main/INFO] [journeymap/]: Initializing Packet Registries
+[00:15:02] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [betteranimationscollection] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[00:15:02] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[00:15:02] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[00:15:02] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[00:15:02] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[00:15:02] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[00:15:02] [main/INFO] [Supplementaries/]: Finished mod setup in: [67, 2, 0, 2, 0, 0, 14, 2] ms
+[00:15:02] [main/INFO] [Moonlight/]: Initialized color sets in 56ms
+[00:15:02] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 27 compatible attributes.
+[00:15:02] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 27 values from config.
+[00:15:02] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 27 entries.
+[00:15:02] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 27 attributes.
+[00:15:02] [modloading-worker-0/INFO] [ne.xa.to.Torchmaster/]: Applying mega torch entity block list overrides...
+[00:15:02] [modloading-worker-0/INFO] [ne.xa.to.Torchmaster/]: Applying dread lamp entity block list overrides...
+Create Crafts & Additions Initialized!
+[00:15:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[00:15:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[00:15:02] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[00:15:03] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[00:15:03] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[00:15:03] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[00:15:03] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[00:15:03] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[00:15:03] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[00:15:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[00:15:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[00:15:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.18 Target: null
+[00:15:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[00:15:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.11 Target: 9.1.12
+[00:15:04] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [maxhealthfix] Starting version check at https://updates.blamejared.com/get?n=maxhealthfix&gv=1.20.1
+[00:15:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [maxhealthfix] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[00:15:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[00:15:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [bookshelf] Found status: BETA_OUTDATED Current: 20.1.7 Target: 20.1.8
+[00:15:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[00:15:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[00:15:05] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.2.0 Target: null
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.7.12 Target: null
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 2.1.1 Target: null
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 17.0.9 Target: 17.0.11
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.8.67 Target: null
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[00:15:06] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [days_in_the_middle_ages] Starting version check at https://raw.githubusercontent.com/PlayTics/playtics.github.io/main/update.json
+[00:15:07] [Forge Version Check/WARN] [ne.mi.fm.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?] {}
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.2.0.jar%23224!/:?] {}
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {re:mixin}
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.0.jar%23224!/:?] {}
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?] {}
+	... 6 more
+[00:15:07] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[00:15:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[00:15:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[00:15:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.8 Target: null
+[00:15:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[00:15:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.5.5 Target: 8.5.6
+[00:15:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[00:15:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.11 Target: null
+[00:15:08] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[00:15:09] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [framework] Found status: BETA Current: 0.6.16 Target: 0.6.16
+[00:15:10] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:15:16] [main/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/assets/.mcassetsroot' uses unexpected schema
+[00:15:16] [main/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/data/.mcassetsroot' uses unexpected schema
+[00:15:16] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[00:15:16] [main/WARN] [Cristel Lib/]: T&T Waystone Patch Pack accepted!
+[00:15:16] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 58 ms
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonend:aws_all_end_structures/start_pool`: { spacing: 20, separation: 15, salt: 49082056, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[00:15:17] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[00:15:18] [main/INFO] [co.gi.al.al.AlexsMobs/]: Adding datapack listener capsid_recipes
+[00:15:18] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [mma:arrow_slit_top (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), mma:arrowslittopmossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)] as it is missing following references: mma:arrow_slit_top (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), 
+	mma:arrowslittopmossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)
+[00:15:18] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [mma:arrowslitbottommossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), mma:arrow_slit_bottom (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)] as it is missing following references: mma:arrowslitbottommossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), 
+	mma:arrow_slit_bottom (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)
+[00:15:18] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [mma:arrow_slit_mossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), mma:arrow_slit (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)] as it is missing following references: mma:arrow_slit_mossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), 
+	mma:arrow_slit (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)
+[00:15:18] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [minecraft:amethyst_shard (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: minecraft:amethyst_shard (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[00:15:18] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [mma:arrow_slit_middle (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), mma:arrowslitmiddlemossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)] as it is missing following references: mma:arrow_slit_middle (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), 
+	mma:arrowslitmiddlemossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)
+[00:15:18] [Worker-Main-1/WARN] [ar.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-8.5.5-1.20.1.jar
+[00:15:18] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [epicsamurai:etyrite_samurai_helmet (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_chestplate (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_leggings (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:etyrite_samurai_helmet (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_chestplate (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_leggings (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[00:15:18] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[00:15:18] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[00:15:20] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_boots_smithing as it's serializer returned null
+[00:15:20] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:15:20] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_helmet as it's serializer returned null
+[00:15:20] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_leggings as it's serializer returned null
+[00:15:20] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[00:15:20] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_leggings_array as it's serializer returned null
+[00:15:21] [main/ERROR] [minecraft/RecipeManager]: Parsing error loading recipe epicsamurai:samurai_guide
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.0-universal.jar%23228!/:?] {re:mixin,re:classloading,pl:mixin:APP:supermartijn642corelib.mixins.json:CraftingHelperMixin,pl:mixin:A}
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.0-universal.jar%23228!/:?] {re:mixin,re:classloading,pl:mixin:APP:supermartijn642corelib.mixins.json:CraftingHelperMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.item.crafting.AccessorShapedRecipe,pl:mixin:APP:skilltree.mixins.json:ShapedRecipeAccessor,pl:mixin:APP:tombstone.mixins.json:accessor.ShapedRecipeAccessor,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading}
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.2.0-universal.jar%23228!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.world.AccessorRecipeManager,pl:mixin:APP:farmersdelight.mixins.json:accessor.RecipeManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.world.AccessorRecipeManager,pl:mixin:APP:farmersdelight.mixins.json:accessor.RecipeManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.world.AccessorRecipeManager,pl:mixin:APP:farmersdelight.mixins.json:accessor.RecipeManagerAccessor,pl:mixin:A}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,re:computing_frames,re:classloading,pl:mixin:APP:moonlight.mixins.json:ConditionHackMixin,pl:mixin:A}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading}
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading,re:mixin}
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading,re:mixin}
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,re:classloading,pl:mixin:A}
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_helmet_ritual as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_helmet_smithing as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_boots as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_chestplate_smithing as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_chestplate as it's serializer returned null
+[00:15:21] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:15:21] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_leggings as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_helmet as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_chestplate_array as it's serializer returned null
+[00:15:21] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_helmet_smithing as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_boots_array as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_boots_helmet as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_leggings_smithing as it's serializer returned null
+[00:15:21] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:15:21] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_leggings_ritual as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_boots as it's serializer returned null
+[00:15:21] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:steel_ingot_from_blasting_iron_ingot as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_chestplate_ritual as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_chestplate as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_leggings_smithing as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_chestplate_smithing as it's serializer returned null
+[00:15:21] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:15:21] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[00:15:21] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_boots_ritual as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_boots_smithing as it's serializer returned null
+[00:15:21] [main/INFO] [minecraft/RecipeManager]: Loaded 28 recipes
+[00:15:21] [main/INFO] [minecraft/AdvancementList]: Loaded 4633 advancements
+[00:15:21] [main/INFO] [Supplementaries/]: Loaded 24 flute songs
+[00:15:21] [main/INFO] [to.th.cu.Curios/]: Loaded 14 curio slots
+[00:15:21] [main/INFO] [to.th.cu.Curios/]: Loaded 1 curio entities
+[00:15:27] [main/INFO] [Supplementaries/]: Finished additional setup in 56 ms
+[00:15:27] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.20.1
+[00:15:27] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+[00:15:27] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+[00:15:27] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair
+[00:15:27] [Server console handler/ERROR] [minecraft/DedicatedServer]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?] {}
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?] {}
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?] {}
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?] {}
+	at java.io.InputStreamReader.read(InputStreamReader.java:176) ~[?:?] {}
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?] {re:computing_frames,re:mixin}
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?] {re:computing_frames,re:mixin}
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?] {re:computing_frames,re:mixin}
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading}
+[00:15:27] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565
+[00:15:27] [Server thread/INFO] [minecraft/ServerConnectionListener]: Using epoll channel type
+[00:15:27] [Server thread/WARN] [minecraft/DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:15:27] [Server thread/WARN] [minecraft/DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[00:15:27] [Server thread/WARN] [minecraft/DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:15:27] [Server thread/WARN] [minecraft/DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:15:27] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[00:15:27] [Thread-4/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[00:15:27] [Server thread/INFO] [Framework/]: Loading server configs...
+[00:15:27] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+[00:15:43] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:49] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:50] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:50] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:15:51] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 10%
+[00:15:51] [Server thread/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 8364 ms
+[00:15:51] [Server thread/INFO] [minecraft/DedicatedServer]: Done (23.832s)! For help, type "help"
+[00:15:51] [Server thread/INFO] [ne.mi.se.pe.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[00:33:22] [Server thread/WARN] [minecraft/SynchedEntityData]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[00:33:22] [Server thread/INFO] [minecraft/PlayerList]: mBattousai[/38.10.112.5:57162] logged in with entity id 492 at (80.96108112035984, 128.0, -183.28815245452313)
+[00:33:22] [Server thread/INFO] [minecraft/MinecraftServer]: mBattousai joined the game
+[00:33:23] [Server thread/INFO] [Jade/]: Syncing config to mBattousai (dcdff24d-ed82-3e06-bfdf-2dd452bcb2e9)
+[00:34:51] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: mBattousai moved too quickly! -14.645997891320366,-2.388650401688551,9.189179897286238
+[00:46:13] [Server thread/INFO] [minecraft/MinecraftServer]: [mBattousai: Set own game mode to Creative Mode]
+[00:47:36] [Server thread/INFO] [minecraft/MinecraftServer]: [mBattousai: Set own game mode to Survival Mode]
+[00:48:05] [Server thread/INFO] [minecraft/MinecraftServer]: [mBattousai: Set own game mode to Creative Mode]
+[00:48:52] [Server thread/INFO] [minecraft/MinecraftServer]: [mBattousai: Set own game mode to Survival Mode]
+[00:59:10] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: mBattousai lost connection: Disconnected
+[00:59:10] [Server thread/INFO] [minecraft/MinecraftServer]: mBattousai left the game
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:04:47] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:04:47] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02:04:47] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+2024-01-04 04:18:41,836 main WARN Advanced terminal features are not available in this environment
+[04:18:42] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[04:18:42] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 18.0.2-ea by Private Build; OS Linux arch amd64 version 5.15.0-1045-oracle
+[04:18:42] [main/INFO] [ne.mi.fm.lo.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04:18:42] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/ubuntu/server_mods/brotecitos_server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04:18:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[04:18:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[04:18:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[04:18:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[04:18:43] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[04:18:43] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 34 dependencies adding them to mods collection
+[04:18:44] [main/INFO] [or.gr.gm.ma.MappingsProvider/]: Starting runtime mappings setup...
+[04:18:44] [main/INFO] [or.gr.gm.in.lo.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[04:18:44] [main/INFO] [or.gr.gm.sc.ScriptModLocator/]: Injected Jimfs file system
+[04:18:44] [main/INFO] [or.gr.gm.sc.ScriptModLocator/]: Skipped loading script mods from directory /home/ubuntu/server_mods/brotecitos_server/mods/scripts as it did not exist.
+[04:18:44] [main/INFO] [or.gr.gm.in.lo.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[04:18:48] [GML Mappings Thread/INFO] [or.gr.gm.ma.MappingsProvider/]: Loaded runtime mappings in 3839ms
+[04:18:48] [GML Mappings Thread/INFO] [or.gr.gm.ma.MappingsProvider/]: Finished runtime mappings setup.
+[04:18:49] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04:18:49] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[04:18:49] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[04:18:49] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[04:18:49] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:18:49] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:18:50] [main/INFO] [Puzzles Lib/]: Loading 70 mods:
+	- alexsmobs 1.22.7
+	- architectury 9.1.12
+	- artifacts 9.2.0
+	- attributefix 21.0.4
+	- awesomedungeon 3.2.0
+	- awesomedungeonend 3.1.1
+	- awesomedungeonocean 3.3.0
+	- azurelib 2.0.17
+	- balm 7.2.1
+	- betteranimationscollection 8.0.0
+	- bookshelf 20.1.7
+	- caelus 3.1.0+1.20
+	- carryon 2.1.2.7
+	- charmofundying 6.4.5+1.20.1
+	- citadel 2.4.9
+	- cloth_config 11.1.106
+	- commongroovylibrary 0.3.3
+	- connectedglass 1.1.10
+	- create 0.5.1.f
+	- createaddition 1.20.1-1.2.1
+	- creativecore 2.11.16
+	- cristellib 1.1.5
+	- curios 5.4.6+1.20.1
+	- customskinloader 14.17
+	- days_in_the_middle_ages 0.0.5
+	- eatinganimation 5.0.0
+	- elevatorid 1.20.1-lex-1.9
+	- elytraslot 6.3.0+1.20.1
+	- enchdesc 17.0.9
+	- epicsamurai 0.0.32-1.20.1-neo
+	- expandability 9.0.0
+	- explorify 1.3.0-mc1.20
+	- fallingtree 4.3.3
+	- farmersdelight 1.20.1-1.2.3
+	- flywheel 0.6.10-7
+	- forge 47.2.0
+	- framework 0.6.16
+	- fusion 1.1.0b
+	- gml 4.0.9
+	- goblintraders 1.9.3
+	- handcrafted 3.0.5
+	- itemproductionlib 1.0.0a
+	- jade 11.6.3
+	- jei 15.2.0.27
+	- journeymap 5.9.18
+	- konkrete 1.6.1
+	- libraryferret 4.0.0
+	- maxhealthfix 12.0.2
+	- mcwbridges 2.1.1
+	- minecraft 1.20.1
+	- mixinextras 0.3.2
+	- mixinsquared 0.1.1
+	- moonlight 1.20-2.8.67
+	- mousetweaks 2.25
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.11
+	- repurposed_structures 7.1.11+1.20.1-forge
+	- resourcefullib 2.1.20
+	- securitycraft 1.9.8
+	- skilltree 0.6.3a
+	- skyvillages 1.0.3
+	- spectrelib 0.13.14+1.20.1
+	- supermartijn642corelib 1.1.16
+	- supplementaries 1.20-2.7.12
+	- t_and_t 0.0NONE
+	- tombstone 8.5.5
+	- torchmaster 20.1.5
+	- trashslot 15.1.0
+	- travelersbackpack 9.1.11
+	- waystones 14.1.3
+[04:18:50] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:18:51] [main/ERROR] [ne.mi.fm.lo.RuntimeDistCleaner/DISTXFORM]: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER
+[04:18:51] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.RuntimeException: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER)
+[04:18:51] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[04:18:51] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[04:18:51] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[04:18:51] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
+[04:18:51] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[04:18:51] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
+[04:18:51] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe)
+[04:18:51] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
+[04:18:51] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus)
+[04:18:51] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
+[04:18:51] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/affix/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus)
+[04:18:51] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
+[04:18:52] [main/ERROR] [ne.mi.fm.lo.RuntimeDistCleaner/DISTXFORM]: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER
+[04:18:52] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.RuntimeException: Attempted to load class vectorwing/farmersdelight/client/renderer/CanvasSignRenderer for invalid dist DEDICATED_SERVER)
+[04:18:52] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/blockentity/SignRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.blockentity.SignRenderer)
+[04:18:52] [main/ERROR] [mixin/]: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.isMixin()" because "superClass" is null
+java.lang.NullPointerException: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.isMixin()" because "superClass" is null
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:581) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:801) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:567) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-10.0.9.jar%2355!/:10.0.9+10.0.9+main.dcd20f30] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:633) ~[?:?] {}
+	at java.lang.Class.forName(Class.java:577) ~[?:?] {}
+	at java.lang.Class.forName(Class.java:552) ~[?:?] {}
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler$DummyProvider.lambda$updateModuleReads$1(ImmediateWindowHandler.java:145) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at java.util.Optional.map(Optional.java:260) ~[?:?] {}
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler$DummyProvider.updateModuleReads(ImmediateWindowHandler.java:145) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at net.minecraftforge.fml.loading.ImmediateWindowHandler.acceptGameLayer(ImmediateWindowHandler.java:71) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at net.minecraftforge.fml.loading.FMLLoader.beforeStart(FMLLoader.java:207) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:1.0] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.launchService(CommonLaunchHandler.java:92) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[04:18:52] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[04:18:56] [main/WARN] [mixin/]: Method overwrite conflict for setUser in skilltree.mixins.json:minecraft/BlockEntityMixin, previously written by daripher.itemproduction.mixin.minecraft/BlockEntityMixin. Skipping method.
+[04:19:02] [main/INFO] [or.gr.gm.in.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[04:19:02] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for betteranimationscollection:main
+[04:19:03] [modloading-worker-0/INFO] [co.jt.li.LibraryFerret/]: Initialize mod Library Ferret
+[04:19:03] [modloading-worker-0/INFO] [co.jt.li.LibraryFerret/]: Initialized mod Library Ferret
+[04:19:03] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04:19:03] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[04:19:03] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[04:19:03] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[04:19:03] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[04:19:03] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[04:19:04] [modloading-worker-0/INFO] [MaxHealthFix/]: Loaded maxhealthfix for Forge.
+[04:19:04] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[04:19:04] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[04:19:04] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[04:19:04] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[04:19:04] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[04:19:04] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[04:19:04] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[04:19:04] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[04:19:04] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[04:19:04] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[04:19:04] [modloading-worker-0/INFO] [de.ke.ko.Konkrete/]: [KONKRETE] Successfully initialized!
+[04:19:04] [modloading-worker-0/INFO] [de.ke.ko.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[Mouse Tweaks] Disabled because not running on the client.
+[04:19:05] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[04:19:07] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[04:19:08] [modloading-worker-0/INFO] [be.fl.ex.ExpandAbility/]: ExpandAbility here, who dis?
+[04:19:17] [main/INFO] [Moonlight/]: Initialized block sets in 16ms
+[04:19:18] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [betteranimationscollection] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/betteranimationscollection.json
+[04:19:19] [main/INFO] [journeymap/]: Initializing Packet Registries
+[04:19:19] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [betteranimationscollection] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[04:19:19] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[04:19:19] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[04:19:19] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[04:19:19] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[04:19:19] [main/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[04:19:19] [main/INFO] [Supplementaries/]: Finished mod setup in: [53, 2, 0, 1, 0, 0, 14, 1] ms
+[04:19:19] [main/INFO] [Moonlight/]: Initialized color sets in 75ms
+[04:19:19] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 27 compatible attributes.
+[04:19:19] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 27 values from config.
+[04:19:19] [modloading-worker-0/INFO] [ne.xa.to.Torchmaster/]: Applying mega torch entity block list overrides...
+[04:19:19] [modloading-worker-0/INFO] [ne.xa.to.Torchmaster/]: Applying dread lamp entity block list overrides...
+[04:19:19] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 27 entries.
+[04:19:19] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 27 attributes.
+Create Crafts & Additions Initialized!
+[04:19:19] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[04:19:19] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[04:19:19] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[04:19:19] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[04:19:19] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[04:19:19] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[04:19:19] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[04:19:19] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[04:19:19] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[04:19:21] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[04:19:21] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[04:19:21] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.18 Target: null
+[04:19:21] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[04:19:21] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.11 Target: 9.1.12
+[04:19:21] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [maxhealthfix] Starting version check at https://updates.blamejared.com/get?n=maxhealthfix&gv=1.20.1
+[04:19:21] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [maxhealthfix] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[04:19:21] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [bookshelf] Found status: BETA_OUTDATED Current: 20.1.7 Target: 20.1.8
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.2.0 Target: null
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.7.12 Target: null
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 2.1.1 Target: null
+[04:19:22] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[04:19:23] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 17.0.9 Target: 17.0.11
+[04:19:23] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[04:19:23] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.8.67 Target: null
+[04:19:23] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[04:19:23] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[04:19:23] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [days_in_the_middle_ages] Starting version check at https://raw.githubusercontent.com/PlayTics/playtics.github.io/main/update.json
+[04:19:24] [Forge Version Check/WARN] [ne.mi.fm.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?] {}
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.2.0.jar%23224!/:?] {}
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {re:mixin}
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.0.jar%23224!/:?] {}
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?] {}
+	... 6 more
+[04:19:24] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[04:19:24] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[04:19:24] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[04:19:24] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.8 Target: null
+[04:19:24] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[04:19:24] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.5.5 Target: 8.5.6
+[04:19:24] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[04:19:24] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.11 Target: null
+[04:19:24] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[04:19:25] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [framework] Found status: BETA Current: 0.6.16 Target: 0.6.16
+[04:19:27] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:19:33] [main/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/assets/.mcassetsroot' uses unexpected schema
+[04:19:33] [main/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/home/ubuntu/server_mods/brotecitos_server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/data/.mcassetsroot' uses unexpected schema
+[04:19:33] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[04:19:33] [main/WARN] [Cristel Lib/]: T&T Waystone Patch Pack accepted!
+[04:19:34] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 165 ms
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonend:aws_all_end_structures/start_pool`: { spacing: 20, separation: 15, salt: 49082056, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[04:19:34] [main/INFO] [co.jt.li.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[04:19:36] [main/INFO] [co.gi.al.al.AlexsMobs/]: Adding datapack listener capsid_recipes
+[04:19:36] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [mma:arrow_slit_top (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), mma:arrowslittopmossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)] as it is missing following references: mma:arrow_slit_top (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), 
+	mma:arrowslittopmossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)
+[04:19:36] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [mma:arrowslitbottommossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), mma:arrow_slit_bottom (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)] as it is missing following references: mma:arrowslitbottommossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), 
+	mma:arrow_slit_bottom (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)
+[04:19:36] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [mma:arrow_slit_mossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), mma:arrow_slit (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)] as it is missing following references: mma:arrow_slit_mossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), 
+	mma:arrow_slit (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)
+[04:19:36] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [minecraft:amethyst_shard (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: minecraft:amethyst_shard (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[04:19:36] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [mma:arrow_slit_middle (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), mma:arrowslitmiddlemossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)] as it is missing following references: mma:arrow_slit_middle (from Forge1.20.1MinecraftMiddleAges0.0.5.jar), 
+	mma:arrowslitmiddlemossy (from Forge1.20.1MinecraftMiddleAges0.0.5.jar)
+[04:19:36] [Worker-Main-1/WARN] [ar.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-8.5.5-1.20.1.jar
+[04:19:36] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [epicsamurai:etyrite_samurai_helmet (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_chestplate (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_leggings (from epicsamurai-0.0.32-1.20.1-neo.jar), epicsamurai:etyrite_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:etyrite_samurai_helmet (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_chestplate (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_leggings (from epicsamurai-0.0.32-1.20.1-neo.jar), 
+	epicsamurai:etyrite_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[04:19:36] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[04:19:36] [Worker-Main-1/ERROR] [minecraft/TagLoader]: Couldn't load tag [epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)] as it is missing following references: epicsamurai:sculk_samurai_boots (from epicsamurai-0.0.32-1.20.1-neo.jar)
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_boots_smithing as it's serializer returned null
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_helmet as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_leggings as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_leggings_array as it's serializer returned null
+[04:19:38] [main/ERROR] [minecraft/RecipeManager]: Parsing error loading recipe epicsamurai:samurai_guide
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.0-universal.jar%23228!/:?] {re:mixin,re:classloading,pl:mixin:A}
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.0-universal.jar%23228!/:?] {re:mixin,re:classloading,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.item.crafting.AccessorShapedRecipe,pl:mixin:APP:skilltree.mixins.json:ShapedRecipeAccessor,pl:mixin:APP:tombstone.mixins.json:accessor.ShapedRecipeAccessor,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading}
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.2.0-universal.jar%23228!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.world.AccessorRecipeManager,pl:mixin:APP:farmersdelight.mixins.json:accessor.RecipeManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.world.AccessorRecipeManager,pl:mixin:APP:farmersdelight.mixins.json:accessor.RecipeManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:bookshelf.common.mixins.json:accessors.world.AccessorRecipeManager,pl:mixin:APP:farmersdelight.mixins.json:accessor.RecipeManagerAccessor,pl:mixin:A}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,re:computing_frames,re:classloading,pl:mixin:APP:moonlight.mixins.json:ConditionHackMixin,pl:mixin:A}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading}
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading,re:mixin}
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading,re:mixin}
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,re:classloading,pl:mixin:A}
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_helmet_ritual as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_helmet_smithing as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_boots as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_chestplate_smithing as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_chestplate as it's serializer returned null
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_leggings as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:neptunium_samurai_helmet as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_chestplate_array as it's serializer returned null
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_helmet_smithing as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_boots_array as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:living_samruai_boots_helmet as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_leggings_smithing as it's serializer returned null
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_leggings_ritual as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_boots as it's serializer returned null
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:steel_ingot_from_blasting_iron_ingot as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_chestplate_ritual as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:dye_ars_nouveau_chestplate as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_leggings_smithing as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:sculk_samruai_chestplate_smithing as it's serializer returned null
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/WARN] [co.si.cr.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:source_gem_samruai_boots_ritual as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Skipping loading recipe epicsamurai:etyrite_samruai_boots_smithing as it's serializer returned null
+[04:19:38] [main/INFO] [minecraft/RecipeManager]: Loaded 28 recipes
+[04:19:38] [main/INFO] [minecraft/AdvancementList]: Loaded 4633 advancements
+[04:19:38] [main/INFO] [Supplementaries/]: Loaded 24 flute songs
+[04:19:38] [main/INFO] [to.th.cu.Curios/]: Loaded 14 curio slots
+[04:19:38] [main/INFO] [to.th.cu.Curios/]: Loaded 1 curio entities
+[04:19:44] [main/INFO] [Supplementaries/]: Finished additional setup in 51 ms
+[04:19:44] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.20.1
+[04:19:44] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+[04:19:44] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+[04:19:44] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair
+[04:19:44] [Server console handler/ERROR] [minecraft/DedicatedServer]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?] {}
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?] {}
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?] {}
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?] {}
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?] {}
+	at java.io.InputStreamReader.read(InputStreamReader.java:176) ~[?:?] {}
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?] {re:computing_frames,re:mixin}
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?] {re:computing_frames,re:mixin}
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?] {re:computing_frames,re:mixin}
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading}
+[04:19:44] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565
+[04:19:44] [Server thread/INFO] [minecraft/ServerConnectionListener]: Using epoll channel type
+[04:19:44] [Server thread/WARN] [minecraft/DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:19:44] [Server thread/WARN] [minecraft/DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[04:19:44] [Server thread/WARN] [minecraft/DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:19:44] [Server thread/WARN] [minecraft/DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:19:44] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04:19:44] [Thread-4/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04:19:45] [Server thread/INFO] [Framework/]: Loading server configs...
+[04:19:45] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+[04:19:59] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:04] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:05] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:05] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:06] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[04:20:06] [Server thread/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 6866 ms
+[04:20:06] [Server thread/INFO] [minecraft/DedicatedServer]: Done (21.773s)! For help, type "help"
+[04:20:06] [Server thread/INFO] [ne.mi.se.pe.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06:19:59] [Server thread/WARN] [minecraft/SynchedEntityData]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[06:19:59] [Server thread/INFO] [minecraft/PlayerList]: Shuryn[/190.231.178.118:57473] logged in with entity id 457 at (126.70899423970512, 117.0, -360.6861716785315)
+[06:19:59] [Server thread/INFO] [minecraft/MinecraftServer]: Shuryn joined the game
+[06:19:59] [Server thread/INFO] [Jade/]: Syncing config to Shuryn (b7602664-58da-37d0-9805-0f07d495f458)
+[06:20:01] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06:34:27] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=9162, y=62, z=-18020} BlockPos{x=9162, y=60, z=-18021}
+[06:34:28] [Server thread/WARN] [minecraft/ServerPlayerGameMode]: Mismatch in destroy block pos: BlockPos{x=9163, y=62, z=-18020} BlockPos{x=9162, y=60, z=-18022}
+[06:35:00] [Server thread/INFO] [minecraft/MinecraftServer]: Shuryn has made the advancement [No Step on Snake]
+[06:40:24] [Server thread/INFO] [minecraft/MinecraftServer]: Shuryn has made the advancement [Mariachi?]
+[07:00:10] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Shuryn lost connection: Disconnected
+[07:00:10] [Server thread/INFO] [minecraft/MinecraftServer]: Shuryn left the game
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:40:45] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:40:45] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16:40:45] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
