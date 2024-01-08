@@ -1,248 +1,927 @@
-[06Jan2024 00:00:10.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=256, y=49, z=-2522} BlockPos{x=256, y=50, z=-2522}
-[06Jan2024 00:00:12.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1545, y=27, z=-2424} BlockPos{x=-1545, y=26, z=-2423}
-[06Jan2024 00:00:14.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 moved too quickly! 6.401863976187663,4.690259212927373,-6.441780727748068
-[06Jan2024 00:00:14.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1544, y=27, z=-2422} BlockPos{x=-1543, y=27, z=-2423}
-[06Jan2024 00:00:14.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1544, y=27, z=-2421} BlockPos{x=-1543, y=27, z=-2422}
-[06Jan2024 00:00:15.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1545, y=27, z=-2422} BlockPos{x=-1544, y=26, z=-2420}
-[06Jan2024 00:00:15.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1545, y=27, z=-2422} BlockPos{x=-1544, y=26, z=-2420}
-[06Jan2024 00:00:15.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1546, y=27, z=-2421} BlockPos{x=-1544, y=26, z=-2420}
-[06Jan2024 00:00:20.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24636ms or 492 ticks behind
-[06Jan2024 00:00:45.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10620ms or 212 ticks behind
-[06Jan2024 00:00:49.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -10.070837510513627,-0.008778045326451434,2.740590062816864
-[06Jan2024 00:01:08.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! -1.9734292112832463,18.08197182352302,-0.35531459094454476
-[06Jan2024 00:01:08.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! 2.304503974816676,-1.6636480574400139,-10.122876268450455
-[06Jan2024 00:01:23.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22368ms or 447 ticks behind
-[06Jan2024 00:01:44.552] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
-[06Jan2024 00:01:48.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! 6.31714687485146,-9.29151332651034,-13.373465355755798
-[06Jan2024 00:01:48.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -9.2987465212764,2.189210115772454,-3.3867646620788037
-[06Jan2024 00:01:57.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -10.447639960328985,-0.20573685984111023,1.0716808415600099
-[06Jan2024 00:02:30.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52698ms or 1053 ticks behind
-[06Jan2024 00:02:50.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -17.952843182398396,3.8846678072234226,-3.855014996935097
-[06Jan2024 00:03:10.746] [pool-5-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]]
-[06Jan2024 00:03:14.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! 2.7601809900444323,-18.519155182977762,-2.000226800989367
-[06Jan2024 00:03:18.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [The Kings Residence]
-[06Jan2024 00:03:21.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35730ms or 714 ticks behind
-[06Jan2024 00:03:45.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1555, y=27, z=-2404} BlockPos{x=-1555, y=25, z=-2404}
-[06Jan2024 00:03:45.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1555, y=27, z=-2404} BlockPos{x=-1555, y=25, z=-2404}
-[06Jan2024 00:03:49.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Wither Skeleton Knight'/481790, l='ServerLevel[world]', x=-527.46, y=90.00, z=-5492.04] died: Wither Skeleton Knight was slain by Turnail
-[06Jan2024 00:03:56.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19668ms or 393 ticks behind
-[06Jan2024 00:04:06.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -10.562866724154105,5.205250093553374,-14.358970601539568
-[06Jan2024 00:04:11.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1541, y=31, z=-2390} BlockPos{x=-1540, y=31, z=-2389}
-[06Jan2024 00:04:21.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -3.4094534965181538,4.164341224482669,-8.798834056110536
-[06Jan2024 00:04:34.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1558, y=30, z=-2392} BlockPos{x=-1557, y=29, z=-2393}
-[06Jan2024 00:04:44.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -1.9149952192715318,-10.678561250707588,-2.095784011282376
-[06Jan2024 00:04:47.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36762ms or 735 ticks behind
-[06Jan2024 00:05:17.636] [pool-5-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach]]
-[06Jan2024 00:05:19.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1557, y=28, z=-2398} BlockPos{x=-1557, y=27, z=-2400}
-[06Jan2024 00:05:25.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1554, y=28, z=-2397} BlockPos{x=-1554, y=27, z=-2396}
-[06Jan2024 00:05:25.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1554, y=28, z=-2397} BlockPos{x=-1554, y=27, z=-2396}
-[06Jan2024 00:05:26.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1552, y=28, z=-2395} BlockPos{x=-1552, y=27, z=-2396}
-[06Jan2024 00:05:26.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23371ms or 467 ticks behind
-[06Jan2024 00:05:31.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1559, y=27, z=-2400} BlockPos{x=-1560, y=27, z=-2399}
-[06Jan2024 00:05:39.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1566, y=29, z=-2399} BlockPos{x=-1566, y=28, z=-2399}
-[06Jan2024 00:05:40.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1566, y=30, z=-2398} BlockPos{x=-1566, y=29, z=-2398}
-[06Jan2024 00:05:40.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1566, y=30, z=-2398} BlockPos{x=-1566, y=29, z=-2398}
-[06Jan2024 00:05:46.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1568, y=31, z=-2402} BlockPos{x=-1568, y=30, z=-2401}
-[06Jan2024 00:05:53.875] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1539, y=-24, z=-3397} but found not block entity block Block{minecraft:lava}[level=2] at location
-[06Jan2024 00:05:53.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=2] but failed at location BlockPos{x=-1539, y=-24, z=-3397}
-[06Jan2024 00:06:09.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27938ms or 558 ticks behind
-[06Jan2024 00:06:34.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10685ms or 213 ticks behind
-[06Jan2024 00:07:00.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10636ms or 212 ticks behind
-[06Jan2024 00:07:26.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11149ms or 222 ticks behind
-[06Jan2024 00:07:48.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [Awaken]
-[06Jan2024 00:07:50.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9156ms or 183 ticks behind
-[06Jan2024 00:08:02.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShioriIto lost connection: Disconnected
-[06Jan2024 00:08:02.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShioriIto left the game
-[06Jan2024 00:08:19.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13712ms or 274 ticks behind
-[06Jan2024 00:08:22.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has completed the challenge [Into Ashes]
-[06Jan2024 00:08:29.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Blaze King'/481792, l='ServerLevel[world]', x=-529.82, y=104.73, z=-5487.17] died: Blaze King was killed
-[06Jan2024 00:08:43.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9192ms or 183 ticks behind
-[06Jan2024 00:09:03.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[06Jan2024 00:09:25.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6875ms or 137 ticks behind
-[06Jan2024 00:09:47.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6872ms or 137 ticks behind
-[06Jan2024 00:09:55.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1567, y=15, z=-2411} BlockPos{x=-1566, y=16, z=-2411}
-[06Jan2024 00:10:12.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10579ms or 211 ticks behind
-[06Jan2024 00:10:22.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1573, y=19, z=-2413} BlockPos{x=-1574, y=19, z=-2413}
-[06Jan2024 00:10:33.896] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 231 ms
-[06Jan2024 00:10:52.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24463ms or 489 ticks behind
-[06Jan2024 00:11:20.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12835ms or 256 ticks behind
-[06Jan2024 00:11:41.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6638ms or 132 ticks behind
-[06Jan2024 00:12:02.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6108ms or 122 ticks behind
-[06Jan2024 00:12:26.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8631ms or 172 ticks behind
-[06Jan2024 00:12:49.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8025ms or 160 ticks behind
-[06Jan2024 00:13:02.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DENNISP45[/167.250.180.69:49532] logged in with entity id 493707 at (133.0522979019296, 95.125, -47.13749998807907)
-[06Jan2024 00:13:02.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 joined the game
-[06Jan2024 00:13:02.273] [Server thread/INFO] [Jade/]: Syncing config to DENNISP45 (7e3364f4-c32f-3f3c-8972-b2e30dfe3548)
-[06Jan2024 00:13:14.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10330ms or 206 ticks behind
-[06Jan2024 00:13:43.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14243ms or 284 ticks behind
-[06Jan2024 00:14:13.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15090ms or 301 ticks behind
-[06Jan2024 00:14:45.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16520ms or 330 ticks behind
-[06Jan2024 00:15:15.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15579ms or 311 ticks behind
-[06Jan2024 00:15:42.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12074ms or 241 ticks behind
-[06Jan2024 00:16:05.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7892ms or 157 ticks behind
-[06Jan2024 00:16:33.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12366ms or 247 ticks behind
-[06Jan2024 00:16:38.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -17.965592663077132,-2.8511559578299313,0.03551856794729247
-[06Jan2024 00:16:40.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! -0.4572062531159986,-19.502387933440176,-0.27544436510561354
-[06Jan2024 00:16:50.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -9.05551294376437,5.185249291700174,-1.3560207818045455
-[06Jan2024 00:16:50.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! 0.08739359227502064,18.299657168532605,0.22044075862504542
-[06Jan2024 00:17:06.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! 0.5930511454735097,10.223030712199318,-14.401398768346553
-[06Jan2024 00:17:18.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30018ms or 600 ticks behind
-[06Jan2024 00:17:39.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DENNISP45> donde estan gente
-[06Jan2024 00:17:53.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-319, y=217, z=-5604} BlockPos{x=-319, y=215, z=-5604}
-[06Jan2024 00:17:54.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-319, y=218, z=-5606} BlockPos{x=-319, y=220, z=-5605}
-[06Jan2024 00:17:54.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-319, y=218, z=-5606} BlockPos{x=-319, y=219, z=-5606}
-[06Jan2024 00:17:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> en el VC XD
-[06Jan2024 00:18:01.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> creo que en el nether
-[06Jan2024 00:18:07.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34602ms or 692 ticks behind
-[06Jan2024 00:18:11.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved wrongly!
-[06Jan2024 00:18:11.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ya hablando en serio en la dimension del warden
-[06Jan2024 00:18:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DENNISP45> como llego
-[06Jan2024 00:18:30.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved wrongly!
-[06Jan2024 00:18:54.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! 17.27902621985271,1.2494712945735245,5.568688015566693
-[06Jan2024 00:18:56.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! 6.679079322861867,-5.981112389221195,15.565352796352215
-[06Jan2024 00:19:00.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! -10.943799780125829,-0.3735895002820371,1.9701474955246567
-[06Jan2024 00:19:04.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved wrongly!
-[06Jan2024 00:19:04.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! -8.264928033012524,-2.328224332710718,-7.813665104953145
-[06Jan2024 00:19:07.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> esperame 5 min y voy
-[06Jan2024 00:19:18.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 55662ms or 1113 ticks behind
-[06Jan2024 00:19:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DENNISP45> que estan haciendo el mundo ba lag casi me mata el volar
-[06Jan2024 00:20:01.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28592ms or 571 ticks behind
-[06Jan2024 00:20:13.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved wrongly!
-[06Jan2024 00:20:36.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! 11.817263830716044,4.823265872045994,13.12623716807849
-[06Jan2024 00:20:38.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! -15.79905479543865,-2.226102794546591,-9.019327145872069
-[06Jan2024 00:20:39.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! 12.204699085560591,-10.206452865172224,8.934302914914383
-[06Jan2024 00:20:40.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! 14.390082381853432,-5.195201330517193,9.107838606804421
-[06Jan2024 00:20:48.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> es mi secreto no uso elitras
-[06Jan2024 00:20:50.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33922ms or 678 ticks behind
-[06Jan2024 00:20:58.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DENNISP45> XDDD
-[06Jan2024 00:21:29.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23291ms or 465 ticks behind
-[06Jan2024 00:21:46.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! -4.881620407104492E-5,-65.79999995231628,0.0
-[06Jan2024 00:21:57.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13706ms or 274 ticks behind
-[06Jan2024 00:22:22.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9232ms or 184 ticks behind
-[06Jan2024 00:22:33.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> estoy en la casa de Batousai
-[06Jan2024 00:22:45.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8427ms or 168 ticks behind
-[06Jan2024 00:23:09.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8763ms or 175 ticks behind
-[06Jan2024 00:23:32.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8428ms or 168 ticks behind
-[06Jan2024 00:23:45.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 lost connection: Disconnected
-[06Jan2024 00:23:45.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 left the game
-[06Jan2024 00:24:03.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ve hacia esa dirección hasta encontar nieve
-[06Jan2024 00:24:05.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18308ms or 366 ticks behind
-[06Jan2024 00:24:26.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5334ms or 106 ticks behind
-[06Jan2024 00:24:36.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DENNISP45> asia aqui
-[06Jan2024 00:24:43.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[06Jan2024 00:24:54.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
-[06Jan2024 00:24:54.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
-[06Jan2024 00:25:02.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
-[06Jan2024 00:25:41.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ven
-[06Jan2024 00:26:50.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[06Jan2024 00:26:54.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ven
-[06Jan2024 00:27:19.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> al fondo hasta encontar nieve
-[06Jan2024 00:27:29.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> 2000 bloques
-[06Jan2024 00:28:49.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! 0.0862910286028864,1.5516737181515339,-18.300914167431756
-[06Jan2024 00:29:17.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[06Jan2024 00:29:22.602] [Worker-Main-1256/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;44558657,-805812143,-2135634931,493044029],type:"minecraft:entity",y_offset:0.36f}}]
-[06Jan2024 00:29:44.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11612ms or 232 ticks behind
-[06Jan2024 00:29:50.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ahora esperame 5 min
-[06Jan2024 00:30:05.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6181ms or 123 ticks behind
-[06Jan2024 00:30:23.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3731ms or 74 ticks behind
-[06Jan2024 00:30:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DENNISP45> pasaron por una aldea?
-[06Jan2024 00:30:45.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[06Jan2024 00:30:53.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> quedate en la orilla
-[06Jan2024 00:31:01.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> quedate en la orilla
-[06Jan2024 00:31:04.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4238ms or 84 ticks behind
-[06Jan2024 00:31:20.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> XD se ando doble
-[06Jan2024 00:31:23.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3939ms or 78 ticks behind
-[06Jan2024 00:31:40.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[06Jan2024 00:32:13.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
-[06Jan2024 00:32:16.770] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
-[06Jan2024 00:32:21.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! -4.722408580869796,0.0,-9.031925381335896
-[06Jan2024 00:32:21.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! 6.249596138557898,-16.40724966429641,2.188934605233044
-[06Jan2024 00:32:45.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17523ms or 350 ticks behind
-[06Jan2024 00:33:04.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3985ms or 79 ticks behind
-[06Jan2024 00:33:22.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[06Jan2024 00:33:42.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[06Jan2024 00:34:02.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
-[06Jan2024 00:34:21.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
-[06Jan2024 00:34:38.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
-[06Jan2024 00:34:56.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[06Jan2024 00:35:13.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
-[06Jan2024 00:35:31.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
-[06Jan2024 00:35:48.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
-[06Jan2024 00:36:06.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
-[06Jan2024 00:36:25.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3830ms or 76 ticks behind
-[06Jan2024 00:36:45.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4676ms or 93 ticks behind
-[06Jan2024 00:36:49.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! 10.174272281011142,5.0598641231247115,-14.06988002934213
-[06Jan2024 00:36:49.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ven
-[06Jan2024 00:36:51.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [The Soul Forge]
-[06Jan2024 00:37:13.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13474ms or 269 ticks behind
-[06Jan2024 00:37:35.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6964ms or 139 ticks behind
-[06Jan2024 00:37:56.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5723ms or 114 ticks behind
-[06Jan2024 00:38:14.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3222ms or 64 ticks behind
-[06Jan2024 00:38:43.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[06Jan2024 00:40:55.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DENNISP45> espenme ya vengo
-[06Jan2024 00:44:53.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has completed the challenge [The broken Nether's warmachine]
-[06Jan2024 00:46:28.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ven
-[06Jan2024 00:47:17.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b4451b7[id=<null>,name=AlejoYP2603,properties={},legacy=false] (/179.6.170.252:21143) lost connection: Disconnected
-[06Jan2024 00:47:25.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> solo dejate caer
-[06Jan2024 00:47:42.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 has reached the goal [A Metropolis of Restless Souls]
-[06Jan2024 00:47:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ten cuidado aqui
-[06Jan2024 00:48:49.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> regresemos
-[06Jan2024 00:49:15.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nygel1657> ahora si si quieres tepearte .
-[06Jan2024 00:49:22.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DENNISP45> nigel esperame ya regreso esoy lag
-[06Jan2024 00:49:25.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 lost connection: Disconnected
-[06Jan2024 00:49:25.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 left the game
-[06Jan2024 00:50:34.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 6.000184525624945,68.33212585288712,0.0
-[06Jan2024 00:50:49.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejoYP2603[/179.6.170.252:48749] logged in with entity id 526996 at (-149.2028869099656, 81.0, -183.69999998807907)
-[06Jan2024 00:50:49.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 joined the game
-[06Jan2024 00:50:49.040] [Server thread/INFO] [Jade/]: Syncing config to AlejoYP2603 (d346f2d1-37ac-302e-83ed-4ba5f978d523)
-[06Jan2024 00:53:34.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
-[06Jan2024 00:53:34.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
-[06Jan2024 00:56:01.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> turnail estás?
-[06Jan2024 00:58:55.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> estoy
-[06Jan2024 00:58:58.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> que pasa
-[06Jan2024 00:59:14.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> que necesitas
-[06Jan2024 00:59:30.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> tendrás del item que multiplica xp
-[06Jan2024 00:59:44.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> esta?
-[06Jan2024 01:00:11.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ohh nice si
-[06Jan2024 01:00:22.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> si lo necesitas te lo presto
-[06Jan2024 01:00:31.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> ok
-[06Jan2024 01:00:43.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> en que estás
-[06Jan2024 01:00:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> tienes cebolla?
-[06Jan2024 01:00:57.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> estoy buscando los bosses del mod
-[06Jan2024 01:01:08.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> en las bolsas de semillas en la granja de xp ya bsucaste
-[06Jan2024 01:01:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> si pero no salen
-[06Jan2024 01:01:22.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> creo que salen de forma natural
-[06Jan2024 01:01:42.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> vi algo en los bastiones similares a cebollas
-[06Jan2024 01:01:51.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> no lo tome
-[06Jan2024 01:02:04.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> oka,si encuentras,pasamelas porfa
-[06Jan2024 01:02:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> el portal del end funciona?
-[06Jan2024 01:02:49.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> hay portal pero no vale la pena
-[06Jan2024 01:02:58.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> por?
-[06Jan2024 01:03:08.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> aún no hay granja allí
-[06Jan2024 01:03:16.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> fue reseteado
-[06Jan2024 01:03:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> y sin dragón
-[06Jan2024 01:03:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> no hay 2da dimensión
-[06Jan2024 01:03:36.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejoYP2603> hayq ue volverlo a invocar xd
-[06Jan2024 01:03:44.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Turnail> oka
-[06Jan2024 01:05:58.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [A Ruined Citadel]
-[06Jan2024 01:05:59.935] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 557 ms
-[06Jan2024 01:08:38.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Disconnected
-[06Jan2024 01:08:38.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
-[06Jan2024 01:10:36.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejoYP2603 lost connection: Disconnected
-[06Jan2024 01:10:36.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejoYP2603 left the game
-[06Jan2024 01:34:57.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[06Jan2024 01:34:57.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[06Jan2024 01:34:57.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[06Jan2024 01:34:58.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06Jan2024 01:34:58.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[06Jan2024 01:34:58.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06Jan2024 01:35:00.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06Jan2024 01:35:00.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[06Jan2024 01:35:00.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06Jan2024 01:35:00.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[06Jan2024 01:35:00.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06Jan2024 01:35:00.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06Jan2024 01:35:00.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[06Jan2024 01:35:00.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[06Jan2024 01:35:00.927] [Server thread/INFO] [Framework/]: Unloading server configs...
-[06Jan2024 01:35:00.928] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[08Jan2024 00:00:00.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported mBattousai to Shuryn]
+[08Jan2024 00:00:10.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported Nygel1657 to mBattousai]
+[08Jan2024 00:00:21.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Nygel1657 with unique ID 3e87c6bb-9cde-4613-8069-63efe3f0e8a4
+[08Jan2024 00:00:21.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 166 Y: 58 Z: 40
+[08Jan2024 00:00:21.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 was slain by mBattousai
+[08Jan2024 00:00:21.439] [Server thread/INFO] [tombstone/]: The player Nygel1657 has successfully been saved
+[08Jan2024 00:00:34.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported Nygel1657 to mBattousai]
+[08Jan2024 00:01:04.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has reached the goal [Dethroned]
+[08Jan2024 00:01:04.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has reached the goal [Dethroned]
+[08Jan2024 00:01:04.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has reached the goal [Dethroned]
+[08Jan2024 00:01:12.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai lost connection: Disconnected
+[08Jan2024 00:01:12.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai left the game
+[08Jan2024 00:01:31.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has reached the goal [Earning your Wings]
+[08Jan2024 00:01:31.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [Battle Hardened]
+[08Jan2024 00:01:32.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [Back to childhood]
+[08Jan2024 00:01:32.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [Not even afraid of death]
+[08Jan2024 00:01:40.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Turnail[/186.12.228.223:10484] logged in with entity id 471922 at (102.56273724132471, 71.59351100878024, 182.0790142727193)
+[08Jan2024 00:01:40.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail joined the game
+[08Jan2024 00:01:40.044] [Server thread/INFO] [Jade/]: Syncing config to Turnail (372821ce-463a-3272-940e-1420d8ca5573)
+[08Jan2024 00:05:36.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [The More You Know!]
+[08Jan2024 00:05:46.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[08Jan2024 00:06:03.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
+[08Jan2024 00:06:06.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 has made the advancement [Awaken]
+[08Jan2024 00:06:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [Cold as Ice]
+[08Jan2024 00:06:21.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[08Jan2024 00:06:38.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[08Jan2024 00:06:51.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [Don't Count Your Moas...]
+[08Jan2024 00:06:55.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[08Jan2024 00:07:13.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[08Jan2024 00:07:31.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[08Jan2024 00:07:48.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[08Jan2024 00:08:06.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3294ms or 65 ticks behind
+[08Jan2024 00:08:25.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3700ms or 74 ticks behind
+[08Jan2024 00:08:41.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 has completed the challenge [Into Ashes]
+[08Jan2024 00:08:43.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
+[08Jan2024 00:08:47.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Blaze King'/439372, l='ServerLevel[world]', x=687.93, y=104.55, z=64.27] died: Blaze King was killed
+[08Jan2024 00:09:01.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[08Jan2024 00:09:06.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [Don't Count Your Moas...]
+[08Jan2024 00:09:19.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3371ms or 67 ticks behind
+[08Jan2024 00:09:40.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5969ms or 119 ticks behind
+[08Jan2024 00:09:50.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 has completed the challenge [Hot Tourist Destinations]
+[08Jan2024 00:10:01.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6605ms or 132 ticks behind
+[08Jan2024 00:10:22.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5273ms or 105 ticks behind
+[08Jan2024 00:10:45.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8289ms or 165 ticks behind
+[08Jan2024 00:10:58.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 moved too quickly! 16.966118254857292,-7.483887122333442,0.15344489837485753
+[08Jan2024 00:11:09.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8992ms or 179 ticks behind
+[08Jan2024 00:11:25.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DENNISP45 lost connection: Disconnected
+[08Jan2024 00:11:25.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DENNISP45 left the game
+[08Jan2024 00:11:30.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6237ms or 124 ticks behind
+[08Jan2024 00:13:55.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has reached the goal [Dethroned]
+[08Jan2024 00:15:02.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [To Infinity and Beyond!]
+[08Jan2024 00:15:11.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[08Jan2024 00:15:29.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[08Jan2024 00:16:32.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[08Jan2024 00:18:00.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mBattousai[/38.10.112.5:54079] logged in with entity id 483237 at (172.58472231662878, 59.0, 37.3125579358746)
+[08Jan2024 00:18:00.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai joined the game
+[08Jan2024 00:18:00.213] [Server thread/INFO] [Jade/]: Syncing config to mBattousai (dcdff24d-ed82-3e06-bfdf-2dd452bcb2e9)
+[08Jan2024 00:18:50.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2024 00:19:15.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2024 00:19:33.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[08Jan2024 00:20:37.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[08Jan2024 00:20:52.064] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element aether:silver_dungeon took 23 ms
+[08Jan2024 00:20:57.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[08Jan2024 00:21:05.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has reached the goal [Earning your Wings]
+[08Jan2024 00:21:15.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
+[08Jan2024 00:21:41.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[08Jan2024 00:22:06.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[08Jan2024 00:22:27.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[08Jan2024 00:22:45.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[08Jan2024 00:23:02.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2024 00:23:19.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[08Jan2024 00:23:37.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[08Jan2024 00:23:54.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[08Jan2024 00:24:12.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
+[08Jan2024 00:24:29.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[08Jan2024 00:24:47.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
+[08Jan2024 00:25:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 00:25:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 00:25:26.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2024 00:25:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 00:25:44.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
+[08Jan2024 00:26:09.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2024 00:26:18.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [To Infinity and Beyond!]
+[08Jan2024 00:26:27.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2545ms or 50 ticks behind
+[08Jan2024 00:26:44.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[08Jan2024 00:27:02.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[08Jan2024 00:27:19.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[08Jan2024 00:27:37.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 00:27:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 00:27:58.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 00:28:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 00:28:17.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[08Jan2024 00:28:35.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 00:28:40.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 00:29:31.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 00:29:38.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
+[08Jan2024 00:29:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
+[08Jan2024 00:31:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has reached the goal [Earning your Wings]
+[08Jan2024 00:35:04.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has reached the goal [Extinguished]
+[08Jan2024 00:35:27.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[08Jan2024 00:35:32.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has reached the goal [Fireproof]
+[08Jan2024 00:35:48.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 00:35:53.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 00:36:53.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 00:37:08.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 00:38:18.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [Battle Hardened]
+[08Jan2024 00:40:31.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 00:40:53.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 00:42:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has reached the goal [Like a Bossaru!]
+[08Jan2024 00:42:50.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has reached the goal [The Power of the Gods]
+[08Jan2024 00:48:09.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has reached the goal [Like a Bossaru!]
+[08Jan2024 00:49:02.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[08Jan2024 00:49:36.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[08Jan2024 00:49:42.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Timed out
+[08Jan2024 00:49:42.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[08Jan2024 00:52:27.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nygel1657[/181.177.255.117:50706] logged in with entity id 504124 at (88.30000001192093, 57.14920001974106, -138.2804451485245)
+[08Jan2024 00:52:27.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 joined the game
+[08Jan2024 00:52:27.645] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
+[08Jan2024 00:52:28.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -12.397571352618343,-12.74646242001144,6.967625453475193
+[08Jan2024 00:52:40.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Turnail[/186.12.228.223:20814] logged in with entity id 504491 at (792.0882673106998, 54.1875, -294.9586801669369)
+[08Jan2024 00:52:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail joined the game
+[08Jan2024 00:52:40.199] [Server thread/INFO] [Jade/]: Syncing config to Turnail (372821ce-463a-3272-940e-1420d8ca5573)
+[08Jan2024 00:52:43.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 00:53:04.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 00:53:14.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! -11.302379837104581,-5.889452470773946,12.96901288062054
+[08Jan2024 00:53:23.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3574ms or 71 ticks behind
+[08Jan2024 00:53:26.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [Challenger to the Throne]
+[08Jan2024 00:53:40.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[08Jan2024 00:53:59.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3715ms or 74 ticks behind
+[08Jan2024 00:54:18.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4327ms or 86 ticks behind
+[08Jan2024 00:54:38.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4864ms or 97 ticks behind
+[08Jan2024 00:54:58.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4374ms or 87 ticks behind
+[08Jan2024 00:55:16.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3427ms or 68 ticks behind
+[08Jan2024 00:55:35.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3896ms or 77 ticks behind
+[08Jan2024 00:55:54.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4014ms or 80 ticks behind
+[08Jan2024 00:56:13.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4022ms or 80 ticks behind
+[08Jan2024 00:56:33.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[08Jan2024 00:56:53.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4948ms or 98 ticks behind
+[08Jan2024 00:57:13.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
+[08Jan2024 00:57:34.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5858ms or 117 ticks behind
+[08Jan2024 00:57:54.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4782ms or 95 ticks behind
+[08Jan2024 00:58:14.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4818ms or 96 ticks behind
+[08Jan2024 00:58:35.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6101ms or 122 ticks behind
+[08Jan2024 00:58:56.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5769ms or 115 ticks behind
+[08Jan2024 00:59:11.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Timed out
+[08Jan2024 00:59:11.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[08Jan2024 00:59:18.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6822ms or 136 ticks behind
+[08Jan2024 00:59:35.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
+[08Jan2024 00:59:54.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4363ms or 87 ticks behind
+[08Jan2024 01:00:11.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Turnail[/186.12.228.223:37905] logged in with entity id 510077 at (1206.2132098755485, 130.0, -452.5240317991813)
+[08Jan2024 01:00:11.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail joined the game
+[08Jan2024 01:00:11.514] [Server thread/INFO] [Jade/]: Syncing config to Turnail (372821ce-463a-3272-940e-1420d8ca5573)
+[08Jan2024 01:00:14.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4915ms or 98 ticks behind
+[08Jan2024 01:00:33.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[08Jan2024 01:00:51.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
+[08Jan2024 01:01:08.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
+[08Jan2024 01:01:25.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[08Jan2024 01:01:42.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
+[08Jan2024 01:02:00.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[08Jan2024 01:02:18.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2921ms or 58 ticks behind
+[08Jan2024 01:02:35.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[08Jan2024 01:02:53.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[08Jan2024 01:03:11.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2830ms or 56 ticks behind
+[08Jan2024 01:03:29.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2942ms or 58 ticks behind
+[08Jan2024 01:03:47.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3376ms or 67 ticks behind
+[08Jan2024 01:04:06.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4119ms or 82 ticks behind
+[08Jan2024 01:04:24.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2672ms or 53 ticks behind
+[08Jan2024 01:04:41.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[08Jan2024 01:04:58.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[08Jan2024 01:05:15.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[08Jan2024 01:05:32.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[08Jan2024 01:05:52.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4556ms or 91 ticks behind
+[08Jan2024 01:06:10.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
+[08Jan2024 01:06:28.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
+[08Jan2024 01:06:46.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[08Jan2024 01:06:55.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Timed out
+[08Jan2024 01:06:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[08Jan2024 01:07:03.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[08Jan2024 01:08:16.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 7.142621623468699,-6.0,-4.023473614454531
+[08Jan2024 01:08:26.388] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
+[08Jan2024 01:08:30.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[08Jan2024 01:09:00.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Turnail[/186.12.228.223:3004] logged in with entity id 514389 at (1211.4479756799822, 125.0, -451.46091419350404)
+[08Jan2024 01:09:00.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail joined the game
+[08Jan2024 01:09:00.882] [Server thread/INFO] [Jade/]: Syncing config to Turnail (372821ce-463a-3272-940e-1420d8ca5573)
+[08Jan2024 01:09:20.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2024 01:09:38.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[08Jan2024 01:09:39.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> [name:"PORTAL AETHER", x:-100, y:56, z:-140, dim:aether:the_aether]
+[08Jan2024 01:09:57.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4068ms or 81 ticks behind
+[08Jan2024 01:10:14.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! 0.0,-12.222727470279267,0.0
+[08Jan2024 01:10:16.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
+[08Jan2024 01:10:18.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved too quickly! 0.0,-18.08016809268466,0.0
+[08Jan2024 01:10:37.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5647ms or 112 ticks behind
+[08Jan2024 01:10:54.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
+[08Jan2024 01:11:15.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
+[08Jan2024 01:11:43.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12936ms or 258 ticks behind
+[08Jan2024 01:12:14.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16380ms or 327 ticks behind
+[08Jan2024 01:12:38.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8854ms or 177 ticks behind
+[08Jan2024 01:13:01.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7396ms or 147 ticks behind
+[08Jan2024 01:13:24.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8062ms or 161 ticks behind
+[08Jan2024 01:13:48.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9736ms or 194 ticks behind
+[08Jan2024 01:14:13.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9375ms or 187 ticks behind
+[08Jan2024 01:14:35.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7514ms or 150 ticks behind
+[08Jan2024 01:14:57.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7227ms or 144 ticks behind
+[08Jan2024 01:15:20.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7368ms or 147 ticks behind
+[08Jan2024 01:15:41.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6201ms or 124 ticks behind
+[08Jan2024 01:16:02.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5947ms or 118 ticks behind
+[08Jan2024 01:16:06.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
+[08Jan2024 01:16:06.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
+[08Jan2024 01:16:20.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3229ms or 64 ticks behind
+[08Jan2024 01:16:38.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[08Jan2024 01:16:45.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has completed the challenge [Hot Tourist Destinations]
+[08Jan2024 01:16:56.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[08Jan2024 01:17:15.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Jan2024 01:17:32.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
+[08Jan2024 01:17:46.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=429, y=15, z=-73} BlockPos{x=429, y=15, z=-74}
+[08Jan2024 01:17:46.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=429, y=15, z=-73} BlockPos{x=429, y=15, z=-74}
+[08Jan2024 01:17:46.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=429, y=15, z=-73} BlockPos{x=429, y=15, z=-74}
+[08Jan2024 01:17:46.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=429, y=15, z=-73} BlockPos{x=429, y=15, z=-74}
+[08Jan2024 01:17:49.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
+[08Jan2024 01:18:08.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2024 01:18:25.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[08Jan2024 01:18:43.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[08Jan2024 01:18:49.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Timed out
+[08Jan2024 01:18:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[08Jan2024 01:22:32.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Successfully filled 190 block(s)]
+[08Jan2024 01:23:11.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 01:28:41.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Turnail[/186.12.228.223:51702] logged in with entity id 528627 at (259.2249284843818, 100.0, -326.7056731906953)
+[08Jan2024 01:28:41.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail joined the game
+[08Jan2024 01:28:41.240] [Server thread/INFO] [Jade/]: Syncing config to Turnail (372821ce-463a-3272-940e-1420d8ca5573)
+[08Jan2024 01:28:52.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08Jan2024 01:29:11.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jan2024 01:29:29.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[08Jan2024 01:29:51.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 01:30:08.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[08Jan2024 01:30:26.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[08Jan2024 01:30:42.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 01:30:44.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[08Jan2024 01:31:03.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3312ms or 66 ticks behind
+[08Jan2024 01:31:22.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
+[08Jan2024 01:31:41.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4036ms or 80 ticks behind
+[08Jan2024 01:31:50.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=17, z=-223} BlockPos{x=366, y=16, z=-224}
+[08Jan2024 01:31:59.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[08Jan2024 01:32:07.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CrawKatt[/186.79.14.14:46066] logged in with entity id 531314 at (81.64329956770426, 128.0, -184.32800279870327)
+[08Jan2024 01:32:07.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt joined the game
+[08Jan2024 01:32:07.491] [Server thread/INFO] [Jade/]: Syncing config to CrawKatt (5cf373c6-9b7d-3c4b-b767-5718e6090af7)
+[08Jan2024 01:32:17.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
+[08Jan2024 01:32:35.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[08Jan2024 01:32:53.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
+[08Jan2024 01:33:11.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[08Jan2024 01:33:30.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4580ms or 91 ticks behind
+[08Jan2024 01:33:46.693] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
+[08Jan2024 01:33:52.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6869ms or 137 ticks behind
+[08Jan2024 01:34:13.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5917ms or 118 ticks behind
+[08Jan2024 01:34:26.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Wither Skeleton Knight'/533203, l='ServerLevel[world]', x=452.22, y=90.00, z=-595.25] died: Wither Skeleton Knight suffocated in a wall
+[08Jan2024 01:34:33.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4564ms or 91 ticks behind
+[08Jan2024 01:34:53.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5759ms or 115 ticks behind
+[08Jan2024 01:35:13.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4493ms or 89 ticks behind
+[08Jan2024 01:35:32.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4506ms or 90 ticks behind
+[08Jan2024 01:35:55.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7175ms or 143 ticks behind
+[08Jan2024 01:36:18.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8390ms or 167 ticks behind
+[08Jan2024 01:36:39.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5762ms or 115 ticks behind
+[08Jan2024 01:36:58.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4749ms or 94 ticks behind
+[08Jan2024 01:37:16.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3205ms or 64 ticks behind
+[08Jan2024 01:37:34.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[08Jan2024 01:37:57.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8048ms or 160 ticks behind
+[08Jan2024 01:38:22.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10571ms or 211 ticks behind
+[08Jan2024 01:38:44.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6407ms or 128 ticks behind
+[08Jan2024 01:39:04.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5364ms or 107 ticks behind
+[08Jan2024 01:39:26.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6779ms or 135 ticks behind
+[08Jan2024 01:39:47.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6170ms or 123 ticks behind
+[08Jan2024 01:40:12.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9794ms or 195 ticks behind
+[08Jan2024 01:40:37.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10409ms or 208 ticks behind
+[08Jan2024 01:41:02.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10071ms or 201 ticks behind
+[08Jan2024 01:41:09.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has made the advancement [Weakened]
+[08Jan2024 01:41:16.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Corrupted Enderman'/521734, l='ServerLevel[world]', x=104.13, y=123.42, z=-229.34] died: Corrupted Enderman was killed whilst fighting mBattousai
+[08Jan2024 01:41:28.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10462ms or 209 ticks behind
+[08Jan2024 01:41:53.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10608ms or 212 ticks behind
+[08Jan2024 01:42:22.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13586ms or 271 ticks behind
+[08Jan2024 01:42:51.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13739ms or 274 ticks behind
+[08Jan2024 01:43:15.785] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
+[08Jan2024 01:43:20.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14136ms or 282 ticks behind
+[08Jan2024 01:43:26.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [Hostile Paradise]
+[08Jan2024 01:43:43.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7944ms or 158 ticks behind
+[08Jan2024 01:43:47.266] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Wither Skeleton Knight'/541982, l='ServerLevel[world]', x=1036.75, y=90.00, z=-579.22] died: Wither Skeleton Knight suffocated in a wall
+[08Jan2024 01:44:04.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6212ms or 124 ticks behind
+[08Jan2024 01:44:26.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6965ms or 139 ticks behind
+[08Jan2024 01:44:48.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7085ms or 141 ticks behind
+[08Jan2024 01:45:10.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7610ms or 152 ticks behind
+[08Jan2024 01:45:32.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6489ms or 129 ticks behind
+[08Jan2024 01:45:53.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6457ms or 129 ticks behind
+[08Jan2024 01:46:17.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8527ms or 170 ticks behind
+[08Jan2024 01:46:40.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8182ms or 163 ticks behind
+[08Jan2024 01:47:03.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8254ms or 165 ticks behind
+[08Jan2024 01:47:27.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9149ms or 182 ticks behind
+[08Jan2024 01:47:44.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai lost connection: Disconnected
+[08Jan2024 01:47:44.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai left the game
+[08Jan2024 01:47:50.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7286ms or 145 ticks behind
+[08Jan2024 01:48:08.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3519ms or 70 ticks behind
+[08Jan2024 01:48:27.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3858ms or 77 ticks behind
+[08Jan2024 01:48:44.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[08Jan2024 01:49:15.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2024 01:49:15.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mBattousai[/38.10.112.5:54409] logged in with entity id 546206 at (81.20070242569251, 121.0, -183.21190655248006)
+[08Jan2024 01:49:15.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai joined the game
+[08Jan2024 01:49:15.645] [Server thread/INFO] [Jade/]: Syncing config to mBattousai (dcdff24d-ed82-3e06-bfdf-2dd452bcb2e9)
+[08Jan2024 01:49:40.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9559ms or 191 ticks behind
+[08Jan2024 01:49:47.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=15, z=-668} BlockPos{x=915, y=15, z=-667}
+[08Jan2024 01:50:01.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6514ms or 130 ticks behind
+[08Jan2024 01:50:22.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5732ms or 114 ticks behind
+[08Jan2024 01:50:36.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has completed the challenge [Cover Me in Debris]
+[08Jan2024 01:50:43.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6196ms or 123 ticks behind
+[08Jan2024 01:51:05.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7480ms or 149 ticks behind
+[08Jan2024 01:51:28.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7366ms or 147 ticks behind
+[08Jan2024 01:51:50.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7383ms or 147 ticks behind
+[08Jan2024 01:52:12.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7377ms or 147 ticks behind
+[08Jan2024 01:52:35.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7198ms or 143 ticks behind
+[08Jan2024 01:52:55.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5153ms or 103 ticks behind
+[08Jan2024 01:53:14.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4116ms or 82 ticks behind
+[08Jan2024 01:53:33.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4075ms or 81 ticks behind
+[08Jan2024 01:53:41.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=16, z=-912} BlockPos{x=915, y=15, z=-911}
+[08Jan2024 01:53:41.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=16, z=-912} BlockPos{x=915, y=15, z=-911}
+[08Jan2024 01:53:52.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4195ms or 83 ticks behind
+[08Jan2024 01:54:11.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3946ms or 78 ticks behind
+[08Jan2024 01:54:34.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7783ms or 155 ticks behind
+[08Jan2024 01:54:55.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6132ms or 122 ticks behind
+[08Jan2024 01:55:12.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[08Jan2024 01:55:30.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[08Jan2024 01:55:48.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[08Jan2024 01:56:09.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6287ms or 125 ticks behind
+[08Jan2024 01:56:31.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6872ms or 137 ticks behind
+[08Jan2024 01:56:51.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5478ms or 109 ticks behind
+[08Jan2024 01:57:12.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5962ms or 119 ticks behind
+[08Jan2024 01:57:33.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
+[08Jan2024 01:57:53.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5528ms or 110 ticks behind
+[08Jan2024 01:58:14.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5751ms or 115 ticks behind
+[08Jan2024 01:58:35.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6123ms or 122 ticks behind
+[08Jan2024 01:58:56.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5699ms or 113 ticks behind
+[08Jan2024 01:59:17.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6174ms or 123 ticks behind
+[08Jan2024 01:59:38.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5939ms or 118 ticks behind
+[08Jan2024 02:00:01.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08Jan2024 02:00:20.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[08Jan2024 02:00:37.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[08Jan2024 02:00:55.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[08Jan2024 02:01:13.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2900ms or 58 ticks behind
+[08Jan2024 02:01:31.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[08Jan2024 02:01:49.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[08Jan2024 02:02:07.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[08Jan2024 02:02:25.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
+[08Jan2024 02:02:44.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4002ms or 80 ticks behind
+[08Jan2024 02:03:02.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[08Jan2024 02:03:20.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3291ms or 65 ticks behind
+[08Jan2024 02:03:37.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[08Jan2024 02:03:59.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08Jan2024 02:04:28.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[08Jan2024 02:04:46.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[08Jan2024 02:05:17.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jan2024 02:05:35.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2884ms or 57 ticks behind
+[08Jan2024 02:05:54.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4532ms or 90 ticks behind
+[08Jan2024 02:06:11.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[08Jan2024 02:06:29.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3027ms or 60 ticks behind
+[08Jan2024 02:06:48.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
+[08Jan2024 02:07:05.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
+[08Jan2024 02:07:27.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6768ms or 135 ticks behind
+[08Jan2024 02:07:44.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 02:08:03.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2024 02:08:20.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[08Jan2024 02:08:38.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[08Jan2024 02:08:58.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[08Jan2024 02:09:17.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jan2024 02:09:34.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2024 02:09:55.434] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 1 ms
+[08Jan2024 02:09:58.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8910ms or 178 ticks behind
+[08Jan2024 02:10:21.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7241ms or 144 ticks behind
+[08Jan2024 02:10:40.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4197ms or 83 ticks behind
+[08Jan2024 02:10:59.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4072ms or 81 ticks behind
+[08Jan2024 02:11:18.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3998ms or 79 ticks behind
+[08Jan2024 02:11:37.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4262ms or 85 ticks behind
+[08Jan2024 02:11:57.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4755ms or 95 ticks behind
+[08Jan2024 02:12:16.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
+[08Jan2024 02:12:26.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has reached the goal [Home Sweet Home]
+[08Jan2024 02:12:35.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3926ms or 78 ticks behind
+[08Jan2024 02:14:48.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jan2024 02:15:12.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jan2024 02:15:34.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jan2024 02:15:57.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Jan2024 02:16:48.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jan2024 02:21:09.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[08Jan2024 02:21:09.820] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
+	... 33 more
+[08Jan2024 02:21:43.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> [name:"Boss", x:-7568, y:81, z:-14864, dim:minecraft:the_nether]
+[08Jan2024 02:21:46.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Jan2024 02:22:04.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
+[08Jan2024 02:22:19.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [Nightmare Fuel]
+[08Jan2024 02:22:24.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4174ms or 83 ticks behind
+[08Jan2024 02:22:43.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
+[08Jan2024 02:22:51.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
+[08Jan2024 02:22:51.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
+[08Jan2024 02:23:00.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[08Jan2024 02:23:30.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jan2024 02:25:03.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[08Jan2024 02:25:26.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2024 02:26:12.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 02:27:12.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has completed the challenge [Master Disenchanter]
+[08Jan2024 02:27:12.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has completed the challenge [Soul Eater]
+[08Jan2024 02:29:49.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Jan2024 02:32:35.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nygel1657[/181.177.255.117:7997] logged in with entity id 570941 at (110.48865661715924, 98.0, -404.69999998807907)
+[08Jan2024 02:32:35.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 joined the game
+[08Jan2024 02:32:35.641] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
+[08Jan2024 02:33:04.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[08Jan2024 02:33:24.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4886ms or 97 ticks behind
+[08Jan2024 02:33:46.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6697ms or 133 ticks behind
+[08Jan2024 02:34:06.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5368ms or 107 ticks behind
+[08Jan2024 02:34:32.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11598ms or 231 ticks behind
+[08Jan2024 02:34:53.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5715ms or 114 ticks behind
+[08Jan2024 02:35:14.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5555ms or 111 ticks behind
+[08Jan2024 02:35:34.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5368ms or 107 ticks behind
+[08Jan2024 02:35:56.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6817ms or 136 ticks behind
+[08Jan2024 02:36:21.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10122ms or 202 ticks behind
+[08Jan2024 02:36:44.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7851ms or 157 ticks behind
+[08Jan2024 02:37:04.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5063ms or 101 ticks behind
+[08Jan2024 02:37:25.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6221ms or 124 ticks behind
+[08Jan2024 02:37:51.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10571ms or 211 ticks behind
+[08Jan2024 02:38:17.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11150ms or 223 ticks behind
+[08Jan2024 02:38:28.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrawKatt> [x:-665, y:60, z:-1529, dim:minecraft:the_nether]
+[08Jan2024 02:38:44.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12256ms or 245 ticks behind
+[08Jan2024 02:39:06.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7330ms or 146 ticks behind
+[08Jan2024 02:39:28.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6844ms or 136 ticks behind
+[08Jan2024 02:39:49.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5489ms or 109 ticks behind
+[08Jan2024 02:40:10.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
+[08Jan2024 02:40:30.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5204ms or 104 ticks behind
+[08Jan2024 02:40:35.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has made the advancement [Magic Recycling]
+[08Jan2024 02:40:51.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5733ms or 114 ticks behind
+[08Jan2024 02:41:12.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6900ms or 138 ticks behind
+[08Jan2024 02:41:33.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5753ms or 115 ticks behind
+[08Jan2024 02:41:56.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7804ms or 156 ticks behind
+[08Jan2024 02:42:00.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved too quickly! 402.30494174917436,18.5,-170.75891467330365
+[08Jan2024 02:42:07.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has completed the challenge [Hot Tourist Destinations]
+[08Jan2024 02:42:15.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4065ms or 81 ticks behind
+[08Jan2024 02:42:34.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 12.815928768693993,8.905977475940716,-9.576777987084142
+[08Jan2024 02:42:40.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9919ms or 198 ticks behind
+[08Jan2024 02:43:02.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6642ms or 132 ticks behind
+[08Jan2024 02:43:28.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11550ms or 231 ticks behind
+[08Jan2024 02:43:30.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 10.914703331770625,-2.732428192309726,-13.76606202642796
+[08Jan2024 02:43:36.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 8.591503636250764,-2.591406164314037,-15.828724918194752
+[08Jan2024 02:43:54.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11153ms or 223 ticks behind
+[08Jan2024 02:44:13.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4192ms or 83 ticks behind
+[08Jan2024 02:44:33.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
+[08Jan2024 02:44:51.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3435ms or 68 ticks behind
+[08Jan2024 02:44:55.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-728, y=101, z=-2035} BlockPos{x=-728, y=100, z=-2036}
+[08Jan2024 02:45:16.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9397ms or 187 ticks behind
+[08Jan2024 02:45:37.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6955ms or 139 ticks behind
+[08Jan2024 02:46:02.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9532ms or 190 ticks behind
+[08Jan2024 02:46:05.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/590135, l='ServerLevel[world]', x=-1258.50, y=44.00, z=-1037.50]
+[08Jan2024 02:46:09.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/590304, l='ServerLevel[world]', x=-1247.50, y=44.00, z=-1037.50]
+[08Jan2024 02:46:24.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7514ms or 150 ticks behind
+[08Jan2024 02:46:43.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3559ms or 71 ticks behind
+[08Jan2024 02:46:45.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has completed the challenge [Find: The column temple]
+[08Jan2024 02:47:02.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4429ms or 88 ticks behind
+[08Jan2024 02:47:28.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10156ms or 203 ticks behind
+[08Jan2024 02:47:48.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5509ms or 110 ticks behind
+[08Jan2024 02:48:12.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=169, z=-2966} BlockPos{x=-1067, y=169, z=-2967}
+[08Jan2024 02:48:12.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8787ms or 175 ticks behind
+[08Jan2024 02:48:12.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=169, z=-2966} BlockPos{x=-1067, y=169, z=-2967}
+[08Jan2024 02:48:12.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=169, z=-2966} BlockPos{x=-1067, y=169, z=-2967}
+[08Jan2024 02:48:12.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=169, z=-2966} BlockPos{x=-1067, y=169, z=-2967}
+[08Jan2024 02:48:12.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=169, z=-2966} BlockPos{x=-1067, y=169, z=-2967}
+[08Jan2024 02:48:32.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5451ms or 109 ticks behind
+[08Jan2024 02:48:51.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3496ms or 69 ticks behind
+[08Jan2024 02:49:12.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6474ms or 129 ticks behind
+[08Jan2024 02:49:34.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6885ms or 137 ticks behind
+[08Jan2024 02:49:56.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7195ms or 143 ticks behind
+[08Jan2024 02:50:21.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9987ms or 199 ticks behind
+[08Jan2024 02:50:43.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6570ms or 131 ticks behind
+[08Jan2024 02:50:50.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 7.804157070950737,-9.141717167845684,-13.314650295771798
+[08Jan2024 02:50:50.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! -3.5842429646336313,-2.8773174900046,-16.898948620737883
+[08Jan2024 02:51:11.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13708ms or 274 ticks behind
+[08Jan2024 02:51:23.142] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 15 ms
+[08Jan2024 02:51:46.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19222ms or 384 ticks behind
+[08Jan2024 02:52:14.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13720ms or 274 ticks behind
+[08Jan2024 02:52:15.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 has made the advancement [Who is Cutting Onions?]
+[08Jan2024 02:52:32.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! 7.390046753723368,-13.331560761410373,-8.462923504811897
+[08Jan2024 02:52:36.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7024ms or 140 ticks behind
+[08Jan2024 02:52:53.357] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 3 ms
+[08Jan2024 02:52:59.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7464ms or 149 ticks behind
+[08Jan2024 02:53:22.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8063ms or 161 ticks behind
+[08Jan2024 02:53:49.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11963ms or 239 ticks behind
+[08Jan2024 02:54:11.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7454ms or 149 ticks behind
+[08Jan2024 02:54:29.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3260ms or 65 ticks behind
+[08Jan2024 02:54:47.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
+[08Jan2024 02:55:04.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[08Jan2024 02:55:22.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[08Jan2024 02:55:29.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [Straddle My Ol' Saddle]
+[08Jan2024 02:55:46.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 02:56:03.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2358ms or 47 ticks behind
+[08Jan2024 02:56:27.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8704ms or 174 ticks behind
+[08Jan2024 02:56:35.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved wrongly!
+[08Jan2024 02:56:52.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10361ms or 207 ticks behind
+[08Jan2024 02:57:10.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3135ms or 62 ticks behind
+[08Jan2024 02:57:44.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[08Jan2024 02:58:04.280] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
+[08Jan2024 02:58:09.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9444ms or 188 ticks behind
+[08Jan2024 02:58:28.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jan2024 02:58:52.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08Jan2024 02:59:11.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4586ms or 91 ticks behind
+[08Jan2024 02:59:29.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[08Jan2024 02:59:55.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jan2024 03:00:16.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[08Jan2024 03:00:38.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6813ms or 136 ticks behind
+[08Jan2024 03:00:56.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
+[08Jan2024 03:01:24.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12558ms or 251 ticks behind
+[08Jan2024 03:01:28.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved wrongly!
+[08Jan2024 03:01:45.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved too quickly! 211.61240731555392,-19.5,-182.79434730849522
+[08Jan2024 03:01:54.576] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
+[08Jan2024 03:01:58.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18786ms or 375 ticks behind
+[08Jan2024 03:02:17.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4610ms or 92 ticks behind
+[08Jan2024 03:02:36.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3328ms or 66 ticks behind
+[08Jan2024 03:02:55.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
+[08Jan2024 03:02:58.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! -13.530906874794255,10.494004849103504,-6.17342965921307
+[08Jan2024 03:03:05.745] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 37 ms
+[08Jan2024 03:03:26.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15895ms or 317 ticks behind
+[08Jan2024 03:03:59.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18558ms or 371 ticks behind
+[08Jan2024 03:04:32.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17924ms or 358 ticks behind
+[08Jan2024 03:05:04.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17309ms or 346 ticks behind
+[08Jan2024 03:05:33.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13067ms or 261 ticks behind
+[08Jan2024 03:05:41.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved wrongly!
+[08Jan2024 03:06:04.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16231ms or 324 ticks behind
+[08Jan2024 03:06:09.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved too quickly! -7.408904114229827,-15.552962778372219,2.6370934386073372
+[08Jan2024 03:06:09.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! -9.758796134495242,0.9951686383811023,-14.444222622870257
+[08Jan2024 03:06:15.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved wrongly!
+[08Jan2024 03:06:17.034] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 295 ms
+[08Jan2024 03:06:44.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24816ms or 496 ticks behind
+[08Jan2024 03:06:58.451] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
+[08Jan2024 03:07:00.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! -2.771225815284197,-16.165346843102384,-5.592510087907613
+[08Jan2024 03:07:00.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 10.101893130717258,0.0,0.0
+[08Jan2024 03:07:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [The Kings Residence]
+[08Jan2024 03:07:16.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17159ms or 343 ticks behind
+[08Jan2024 03:07:18.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Wither Skeleton Knight'/611667, l='ServerLevel[world]', x=-3283.03, y=90.38, z=-8012.00] died: Wither Skeleton Knight suffocated in a wall
+[08Jan2024 03:07:39.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8397ms or 167 ticks behind
+[08Jan2024 03:07:49.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported mBattousai to CrawKatt]
+[08Jan2024 03:08:03.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9444ms or 188 ticks behind
+[08Jan2024 03:08:24.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5924ms or 118 ticks behind
+[08Jan2024 03:08:40.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [A Terrible Fortress]
+[08Jan2024 03:08:44.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4239ms or 84 ticks behind
+[08Jan2024 03:09:04.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5783ms or 115 ticks behind
+[08Jan2024 03:09:30.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10586ms or 211 ticks behind
+[08Jan2024 03:09:52.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6945ms or 138 ticks behind
+[08Jan2024 03:09:52.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [Awaken]
+[08Jan2024 03:10:12.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5291ms or 105 ticks behind
+[08Jan2024 03:10:25.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has completed the challenge [Into Ashes]
+[08Jan2024 03:10:32.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Blaze King'/611669, l='ServerLevel[world]', x=-3279.54, y=104.55, z=-8015.52] died: Blaze King was killed
+[08Jan2024 03:10:33.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6272ms or 125 ticks behind
+[08Jan2024 03:10:54.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5592ms or 111 ticks behind
+[08Jan2024 03:11:14.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5755ms or 115 ticks behind
+[08Jan2024 03:11:35.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5652ms or 113 ticks behind
+[08Jan2024 03:11:59.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 moved too quickly! 4.397156471895869E-4,0.0,10.102205038379452
+[08Jan2024 03:11:59.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt moved too quickly! 13.83348015354263,7.842806291569929,-7.482707532369005
+[08Jan2024 03:12:00.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9809ms or 196 ticks behind
+[08Jan2024 03:12:22.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6916ms or 138 ticks behind
+[08Jan2024 03:12:43.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6458ms or 129 ticks behind
+[08Jan2024 03:13:07.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8287ms or 165 ticks behind
+[08Jan2024 03:13:30.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8514ms or 170 ticks behind
+[08Jan2024 03:13:55.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9934ms or 198 ticks behind
+[08Jan2024 03:14:18.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8320ms or 166 ticks behind
+[08Jan2024 03:14:42.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8838ms or 176 ticks behind
+[08Jan2024 03:15:06.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9049ms or 180 ticks behind
+[08Jan2024 03:15:21.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported CrawKatt to mBattousai]
+[08Jan2024 03:15:29.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8131ms or 162 ticks behind
+[08Jan2024 03:15:46.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [The Soul Forge]
+[08Jan2024 03:15:50.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6316ms or 126 ticks behind
+[08Jan2024 03:16:10.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4661ms or 93 ticks behind
+[08Jan2024 03:16:29.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3638ms or 72 ticks behind
+[08Jan2024 03:16:48.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
+[08Jan2024 03:17:05.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[08Jan2024 03:17:18.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has completed the challenge [The broken Nether's warmachine]
+[08Jan2024 03:17:55.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Jan2024 03:18:15.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
+[08Jan2024 03:18:34.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4019ms or 80 ticks behind
+[08Jan2024 03:18:53.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3330ms or 66 ticks behind
+[08Jan2024 03:18:54.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt has made the advancement [Hidden in the Depths]
+[08Jan2024 03:19:11.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3148ms or 62 ticks behind
+[08Jan2024 03:19:29.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3058ms or 61 ticks behind
+[08Jan2024 03:19:47.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3541ms or 70 ticks behind
+[08Jan2024 03:20:08.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5305ms or 106 ticks behind
+[08Jan2024 03:20:28.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5105ms or 102 ticks behind
+[08Jan2024 03:20:47.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3955ms or 79 ticks behind
+[08Jan2024 03:21:07.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[08Jan2024 03:21:26.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4053ms or 81 ticks behind
+[08Jan2024 03:21:44.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[08Jan2024 03:22:02.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3322ms or 66 ticks behind
+[08Jan2024 03:22:19.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[08Jan2024 03:22:36.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[08Jan2024 03:23:15.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2024 03:23:33.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
+[08Jan2024 03:23:54.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[08Jan2024 03:24:12.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[08Jan2024 03:24:29.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
+[08Jan2024 03:24:46.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[08Jan2024 03:25:04.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[08Jan2024 03:25:22.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[08Jan2024 03:25:30.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Sigma'/621554, l='ServerLevel[world]', x=91.50, y=121.67, z=-188.50] died: Sigma was slain by mBattousai
+[08Jan2024 03:25:30.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Omicron'/621556, l='ServerLevel[world]', x=91.50, y=121.67, z=-181.50] died: Omicron was slain by mBattousai
+[08Jan2024 03:25:39.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[08Jan2024 03:25:56.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[08Jan2024 03:26:14.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2999ms or 59 ticks behind
+[08Jan2024 03:26:33.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3490ms or 69 ticks behind
+[08Jan2024 03:26:51.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
+[08Jan2024 03:27:10.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3801ms or 76 ticks behind
+[08Jan2024 03:27:28.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3248ms or 64 ticks behind
+[08Jan2024 03:27:50.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 03:28:08.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[08Jan2024 03:28:27.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[08Jan2024 03:28:46.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
+[08Jan2024 03:29:04.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3587ms or 71 ticks behind
+[08Jan2024 03:29:16.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved too quickly! 16.767752679551137,-1.7676809005364618,-5.419130991315399
+[08Jan2024 03:29:22.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[08Jan2024 03:29:39.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
+[08Jan2024 03:29:57.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[08Jan2024 03:30:15.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[08Jan2024 03:30:32.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[08Jan2024 03:30:50.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[08Jan2024 03:31:08.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2024 03:31:26.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[08Jan2024 03:31:44.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[08Jan2024 03:32:02.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
+[08Jan2024 03:32:20.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[08Jan2024 03:32:38.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[08Jan2024 03:32:56.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[08Jan2024 03:33:13.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2823ms or 56 ticks behind
+[08Jan2024 03:34:27.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2024 03:34:47.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4644ms or 92 ticks behind
+[08Jan2024 03:35:07.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5237ms or 104 ticks behind
+[08Jan2024 03:35:27.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5207ms or 104 ticks behind
+[08Jan2024 03:35:46.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4268ms or 85 ticks behind
+[08Jan2024 03:36:04.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
+[08Jan2024 03:36:22.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[08Jan2024 03:36:40.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind
+[08Jan2024 03:36:57.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2869ms or 57 ticks behind
+[08Jan2024 03:37:15.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[08Jan2024 03:37:33.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3200ms or 64 ticks behind
+[08Jan2024 03:37:53.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4448ms or 88 ticks behind
+[08Jan2024 03:38:10.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[08Jan2024 03:38:27.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[08Jan2024 03:38:45.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
+[08Jan2024 03:39:03.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[08Jan2024 03:39:20.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[08Jan2024 03:39:37.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[08Jan2024 03:39:55.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[08Jan2024 03:40:13.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
+[08Jan2024 03:40:31.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3373ms or 67 ticks behind
+[08Jan2024 03:40:49.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
+[08Jan2024 03:41:07.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2024 03:41:25.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 03:41:41.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 03:41:42.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[08Jan2024 03:41:59.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[08Jan2024 03:42:18.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
+[08Jan2024 03:42:37.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4471ms or 89 ticks behind
+[08Jan2024 03:42:45.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 03:42:57.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4829ms or 96 ticks behind
+[08Jan2024 03:43:16.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4588ms or 91 ticks behind
+[08Jan2024 03:43:35.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[08Jan2024 03:43:44.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 03:43:50.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! -11.193880419089055,2.9424988035046056,-13.909977659700417
+[08Jan2024 03:43:55.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4816ms or 96 ticks behind
+[08Jan2024 03:44:12.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[08Jan2024 03:44:30.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2939ms or 58 ticks behind
+[08Jan2024 03:44:31.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 03:44:43.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt lost connection: Disconnected
+[08Jan2024 03:44:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt left the game
+[08Jan2024 03:44:49.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3508ms or 70 ticks behind
+[08Jan2024 03:45:06.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[08Jan2024 03:45:24.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[08Jan2024 03:45:41.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[08Jan2024 03:45:59.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3419ms or 68 ticks behind
+[08Jan2024 03:46:15.590] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [obscure_api:obscure_api,nitrogen_internals:main,aquamirae:main,aether:main,cataclysm:main_channel] rejected their client side version number
+[08Jan2024 03:46:15.591] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Jan2024 03:46:15.622] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45867bf0[id=<null>,name=CypherLatino,properties={},legacy=false] (/206.128.73.226:58804) lost connection: Connection closed - mismatched mod channel list
+[08Jan2024 03:46:18.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4182ms or 83 ticks behind
+[08Jan2024 03:46:38.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4892ms or 97 ticks behind
+[08Jan2024 03:46:41.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 03:46:59.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5589ms or 111 ticks behind
+[08Jan2024 03:47:17.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
+[08Jan2024 03:47:35.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3076ms or 61 ticks behind
+[08Jan2024 03:47:53.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[08Jan2024 03:48:11.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
+[08Jan2024 03:48:31.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4411ms or 88 ticks behind
+[08Jan2024 03:48:50.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4231ms or 84 ticks behind
+[08Jan2024 03:50:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 03:50:04.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jan2024 03:50:26.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jan2024 03:50:46.266] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/647058, l='ServerLevel[world]', x=2018.50, y=47.00, z=1779.50]
+[08Jan2024 03:50:52.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jan2024 03:51:19.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2024 03:52:43.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 03:53:58.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 03:54:37.936] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Nygel1657 with unique ID 62dc8af6-7d48-4235-bc7b-c794d8529716
+[08Jan2024 03:54:37.939] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 97 Y: 128 Z: -185
+[08Jan2024 03:54:37.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 was slain by mBattousai
+[08Jan2024 03:54:37.941] [Server thread/INFO] [tombstone/]: The player Nygel1657 has successfully been saved
+[08Jan2024 03:56:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 03:56:14.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 04:01:09.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
+[08Jan2024 04:01:09.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
+[08Jan2024 04:06:43.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail has reached the goal [Knowledge Wasted]
+[08Jan2024 04:10:59.971] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2bd00b0a[id=<null>,name=CypherLatino,properties={},legacy=false] (/206.128.73.226:58896) lost connection: Disconnected
+[08Jan2024 04:12:03.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nygel1657[/181.177.255.117:10961] logged in with entity id 655006 at (267.69999998807907, 99.0, -344.6254579740871)
+[08Jan2024 04:12:03.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 joined the game
+[08Jan2024 04:12:03.817] [Server thread/INFO] [Jade/]: Syncing config to Nygel1657 (39a046c2-d9c3-3284-8bb6-8f65ce2bc19d)
+[08Jan2024 04:15:00.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CypherLatino[/206.128.73.226:65408] logged in with entity id 655874 at (-5.5, 69.0, 22.5)
+[08Jan2024 04:15:00.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino joined the game
+[08Jan2024 04:15:00.197] [Server thread/INFO] [Jade/]: Syncing config to CypherLatino (ffbbb657-cfb3-3252-b9e1-e7569e19ab29)
+[08Jan2024 04:15:33.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Alex's Mobs]
+[08Jan2024 04:17:47.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jan2024 04:18:32.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[08Jan2024 04:18:50.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[08Jan2024 04:19:08.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[08Jan2024 04:19:26.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
+[08Jan2024 04:19:42.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Cover Me with Diamonds]
+[08Jan2024 04:19:44.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[08Jan2024 04:20:03.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3722ms or 74 ticks behind
+[08Jan2024 04:20:22.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4628ms or 92 ticks behind
+[08Jan2024 04:21:22.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> [name:"Granja de EXP", x:-143, y:81, z:-173, dim:minecraft:overworld]
+[08Jan2024 04:21:40.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> [name:"Spawn Creepers", x:-516, y:63, z:-865, dim:minecraft:overworld]
+[08Jan2024 04:21:48.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[08Jan2024 04:21:48.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mBattousai> [name:"Portal END", x:-216, y:39, z:2051, dim:minecraft:overworld]
+[08Jan2024 04:22:06.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Jan2024 04:22:25.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 04:22:42.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[08Jan2024 04:23:00.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jan2024 04:23:17.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[08Jan2024 04:23:35.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2024 04:23:54.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08Jan2024 04:24:13.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Jan2024 04:24:30.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08Jan2024 04:24:52.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Jan2024 04:25:12.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2024 04:25:32.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2024 04:25:49.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[08Jan2024 04:26:06.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[08Jan2024 04:26:24.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[08Jan2024 04:26:42.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[08Jan2024 04:29:52.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Jan2024 04:30:10.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[08Jan2024 04:30:27.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
+[08Jan2024 04:30:45.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[08Jan2024 04:30:54.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shuryn[/190.231.178.118:55819] logged in with entity id 663842 at (123.99172652603258, 95.0, -365.32156589307897)
+[08Jan2024 04:30:54.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn joined the game
+[08Jan2024 04:30:54.718] [Server thread/INFO] [Jade/]: Syncing config to Shuryn (b7602664-58da-37d0-9805-0f07d495f458)
+[08Jan2024 04:31:04.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3780ms or 75 ticks behind
+[08Jan2024 04:31:24.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
+[08Jan2024 04:31:42.756] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:sunken_city took 0 ms
+[08Jan2024 04:31:44.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4578ms or 91 ticks behind
+[08Jan2024 04:31:46.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported mBattousai to 96.500000, 121.000000, -5951.500000]
+[08Jan2024 04:32:03.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4260ms or 85 ticks behind
+[08Jan2024 04:32:16.209] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:cursed_pyramid took 1206 ms
+[08Jan2024 04:32:29.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Teleported mBattousai to 2640.500000, 56.000000, -5007.500000]
+[08Jan2024 04:32:31.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved wrongly!
+[08Jan2024 04:32:32.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved wrongly!
+[08Jan2024 04:32:32.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved wrongly!
+[08Jan2024 04:32:32.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved wrongly!
+[08Jan2024 04:32:33.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2641, y=57, z=-5008} BlockPos{x=2640, y=58, z=-5008}
+[08Jan2024 04:32:33.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2642, y=57, z=-5008} BlockPos{x=2640, y=58, z=-5008}
+[08Jan2024 04:32:33.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2643, y=57, z=-5008} BlockPos{x=2640, y=58, z=-5008}
+[08Jan2024 04:32:34.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16030ms or 320 ticks behind
+[08Jan2024 04:33:10.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21422ms or 428 ticks behind
+[08Jan2024 04:33:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai has made the advancement [Cursed Pyramid]
+[08Jan2024 04:33:29.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai moved too quickly! 1.0828670550426978,1.8717766248499714,10.414450845133615
+[08Jan2024 04:33:43.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17853ms or 357 ticks behind
+[08Jan2024 04:34:15.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16947ms or 338 ticks behind
+[08Jan2024 04:34:39.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9484ms or 189 ticks behind
+[08Jan2024 04:34:52.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Stone Age]
+[08Jan2024 04:35:03.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9106ms or 182 ticks behind
+[08Jan2024 04:35:12.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Getting an Upgrade]
+[08Jan2024 04:35:28.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9214ms or 184 ticks behind
+[08Jan2024 04:35:52.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9214ms or 184 ticks behind
+[08Jan2024 04:36:05.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Not Today, Thank You]
+[08Jan2024 04:36:17.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9728ms or 194 ticks behind
+[08Jan2024 04:36:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Monster Hunter]
+[08Jan2024 04:36:40.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8807ms or 176 ticks behind
+[08Jan2024 04:37:03.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7762ms or 155 ticks behind
+[08Jan2024 04:37:26.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8274ms or 165 ticks behind
+[08Jan2024 04:37:50.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8681ms or 173 ticks behind
+[08Jan2024 04:38:14.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8798ms or 175 ticks behind
+[08Jan2024 04:38:37.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8718ms or 174 ticks behind
+[08Jan2024 04:39:03.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10152ms or 203 ticks behind
+[08Jan2024 04:39:28.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10867ms or 217 ticks behind
+[08Jan2024 04:39:55.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11584ms or 231 ticks behind
+[08Jan2024 04:40:20.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9955ms or 199 ticks behind
+[08Jan2024 04:40:44.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9337ms or 186 ticks behind
+[08Jan2024 04:41:09.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10028ms or 200 ticks behind
+[08Jan2024 04:41:34.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9860ms or 197 ticks behind
+[08Jan2024 04:41:37.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 04:41:59.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9874ms or 197 ticks behind
+[08Jan2024 04:42:03.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 04:42:08.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 04:42:23.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 04:42:25.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10662ms or 213 ticks behind
+[08Jan2024 04:42:36.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 04:42:47.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 04:42:51.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10971ms or 219 ticks behind
+[08Jan2024 04:42:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 04:42:59.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 04:43:18.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12169ms or 243 ticks behind
+[08Jan2024 04:43:20.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 04:43:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 04:43:35.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 04:43:44.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11373ms or 227 ticks behind
+[08Jan2024 04:44:11.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11642ms or 232 ticks behind
+[08Jan2024 04:44:37.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11747ms or 234 ticks behind
+[08Jan2024 04:44:41.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 04:45:00.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/674832, l='ServerLevel[world]', x=95.66, y=62.58, z=-5947.32] died, message: 'Fisherman was shot by Pillager'
+[08Jan2024 04:45:05.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12278ms or 245 ticks behind
+[08Jan2024 04:45:35.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15095ms or 301 ticks behind
+[08Jan2024 04:45:50.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Spectator Mode]
+[08Jan2024 04:46:00.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Creative Mode]
+[08Jan2024 04:46:01.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11435ms or 228 ticks behind
+[08Jan2024 04:46:29.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13213ms or 264 ticks behind
+[08Jan2024 04:46:41.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! 17.408318075512398,-5.833127439247022,-1.6261978918178102
+[08Jan2024 04:46:47.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mBattousai: Set own game mode to Survival Mode]
+[08Jan2024 04:46:48.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved wrongly!
+[08Jan2024 04:46:57.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12601ms or 252 ticks behind
+[08Jan2024 04:47:24.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11727ms or 234 ticks behind
+[08Jan2024 04:47:52.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13300ms or 266 ticks behind
+[08Jan2024 04:48:20.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13029ms or 260 ticks behind
+[08Jan2024 04:48:51.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16319ms or 326 ticks behind
+[08Jan2024 04:49:27.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20413ms or 408 ticks behind
+[08Jan2024 04:49:56.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14570ms or 291 ticks behind
+[08Jan2024 04:50:24.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13354ms or 267 ticks behind
+[08Jan2024 04:50:53.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13517ms or 270 ticks behind
+[08Jan2024 04:51:20.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12301ms or 246 ticks behind
+[08Jan2024 04:51:49.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13559ms or 271 ticks behind
+[08Jan2024 04:52:16.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12546ms or 250 ticks behind
+[08Jan2024 04:52:42.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10825ms or 216 ticks behind
+[08Jan2024 04:53:10.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12466ms or 249 ticks behind
+[08Jan2024 04:53:37.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12872ms or 257 ticks behind
+[08Jan2024 04:54:05.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13008ms or 260 ticks behind
+[08Jan2024 04:54:33.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12850ms or 257 ticks behind
+[08Jan2024 04:55:00.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11791ms or 235 ticks behind
+[08Jan2024 04:55:28.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12781ms or 255 ticks behind
+[08Jan2024 04:55:55.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12500ms or 250 ticks behind
+[08Jan2024 04:56:23.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12584ms or 251 ticks behind
+[08Jan2024 04:56:50.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11735ms or 234 ticks behind
+[08Jan2024 04:57:01.139] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/684910, l='ServerLevel[world]', x=2020.50, y=47.00, z=1772.50]
+[08Jan2024 04:57:16.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11904ms or 238 ticks behind
+[08Jan2024 04:57:27.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mBattousai lost connection: Disconnected
+[08Jan2024 04:57:27.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mBattousai left the game
+[08Jan2024 04:57:40.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8723ms or 174 ticks behind
+[08Jan2024 04:57:49.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail moved too quickly! -15.938279925179586,-2.200302571597703,8.848733051878526
+[08Jan2024 04:58:02.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6885ms or 137 ticks behind
+[08Jan2024 04:58:13.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nygel1657 lost connection: Disconnected
+[08Jan2024 04:58:13.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nygel1657 left the game
+[08Jan2024 05:03:38.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [Pest Control]
+[08Jan2024 05:04:03.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [Destroy The Child]
+[08Jan2024 05:04:30.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has reached the goal [A Soul for a Soul]
+[08Jan2024 05:04:41.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has made the advancement [Should've Gone for the Head]
+[08Jan2024 05:06:13.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Turnail lost connection: Disconnected
+[08Jan2024 05:06:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Turnail left the game
+[08Jan2024 05:06:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [A Strange Grave Dust]
+[08Jan2024 05:06:57.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Knowledge of Death]
+[08Jan2024 05:06:57.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Ashes 'n Bones]
+[08Jan2024 05:07:36.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Knowledge raises the soul]
+[08Jan2024 05:07:48.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has reached the goal [Bone Crusher]
+[08Jan2024 05:09:20.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn moved wrongly!
+[08Jan2024 05:12:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino has made the advancement [Crops of the Wild]
+[08Jan2024 05:13:29.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CypherLatino lost connection: Disconnected
+[08Jan2024 05:13:29.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CypherLatino left the game
+[08Jan2024 05:30:01.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[08Jan2024 05:38:30.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn has completed the challenge [Wormy]
+[08Jan2024 05:49:52.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuryn lost connection: Disconnected
+[08Jan2024 05:49:52.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuryn left the game
+[08Jan2024 15:02:10.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CrawKatt[/186.79.14.14:45502] logged in with entity id 708609 at (83.89841881389026, 121.0, -182.13029186009416)
+[08Jan2024 15:02:10.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt joined the game
+[08Jan2024 15:02:10.102] [Server thread/INFO] [Jade/]: Syncing config to CrawKatt (5cf373c6-9b7d-3c4b-b767-5718e6090af7)
+[08Jan2024 15:02:31.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrawKatt lost connection: Disconnected
+[08Jan2024 15:02:31.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrawKatt left the game
+[08Jan2024 15:02:58.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jan2024 15:02:58.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jan2024 15:02:58.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jan2024 15:02:59.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jan2024 15:02:59.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jan2024 15:03:00.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[08Jan2024 15:03:00.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jan2024 15:03:00.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[08Jan2024 15:03:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jan2024 15:03:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jan2024 15:03:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[08Jan2024 15:03:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jan2024 15:03:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[08Jan2024 15:03:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jan2024 15:03:01.384] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Jan2024 15:03:01.386] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
