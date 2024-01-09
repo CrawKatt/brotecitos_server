@@ -987,12 +987,17 @@
       "minecraft:blaze": "2023-12-26 02:17:49 +0000",
       "minecraft:skeleton": "2023-12-20 00:05:55 +0000",
       "minecraft:ghast": "2023-12-28 23:49:37 +0000",
+      "minecraft:hoglin": "2024-01-09 00:16:30 +0000",
       "minecraft:vindicator": "2023-12-28 01:45:05 +0000",
+      "minecraft:magma_cube": "2024-01-09 00:10:01 +0000",
       "minecraft:spider": "2023-12-19 23:34:30 +0000",
+      "minecraft:piglin_brute": "2024-01-08 23:48:58 +0000",
       "minecraft:creeper": "2023-12-20 01:11:24 +0000",
       "minecraft:evoker": "2023-12-28 02:08:39 +0000",
       "minecraft:phantom": "2023-12-21 00:24:00 +0000",
+      "minecraft:zombified_piglin": "2024-01-09 00:56:39 +0000",
       "minecraft:witch": "2024-01-07 19:12:49 +0000",
+      "minecraft:wither_skeleton": "2024-01-09 00:52:00 +0000",
       "minecraft:shulker": "2023-12-31 07:24:53 +0000",
       "minecraft:cave_spider": "2023-12-21 23:10:06 +0000",
       "minecraft:piglin": "2023-12-28 23:55:49 +0000",
@@ -1080,6 +1085,7 @@
       "chorus_fruit": "2023-12-30 22:49:23 +0000",
       "baked_potato": "2023-12-29 00:26:03 +0000",
       "porkchop": "2023-12-28 01:51:55 +0000",
+      "apple": "2024-01-09 00:59:29 +0000",
       "potato": "2023-12-21 23:32:11 +0000",
       "cooked_cod": "2023-12-29 01:30:08 +0000",
       "pumpkin_pie": "2023-12-20 22:17:12 +0000",
@@ -9670,7 +9676,8 @@
   },
   "1_splatus:ultris/completed": {
     "criteria": {
-      "shulker_stone": "2024-01-06 23:02:03 +0000"
+      "shulker_stone": "2024-01-06 23:02:03 +0000",
+      "blaze_king": "2024-01-09 00:46:22 +0000"
     },
     "done": false
   },
@@ -10469,6 +10476,660 @@
   "aether:recipes/tools/golden_pickaxe_repairing": {
     "criteria": {
       "has_golden_pickaxe": "2024-01-08 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-01-08 22:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-01-08 23:26:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-01-08 23:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-01-08 23:26:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-01-08 23:36:26 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-01-08 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-01-08 23:49:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-01-08 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-01-08 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-01-08 23:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-01-08 23:55:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-01-08 23:57:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-01-09 00:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-01-09 00:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-01-09 00:26:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-01-09 00:28:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-01-09 00:28:08 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/blazetower": {
+    "criteria": {
+      "c1": "2024-01-09 00:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-01-09 00:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-01-09 00:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-01-09 00:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2024-01-09 00:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2024-01-09 00:45:29 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/kingblaze": {
+    "criteria": {
+      "c1": "2024-01-09 00:45:41 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/kingblazekill": {
+    "criteria": {
+      "c1": "2024-01-09 00:46:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-01-09 00:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-01-09 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2024-01-09 00:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-01-09 00:51:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-01-09 00:56:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2024-01-09 00:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-01-09 01:02:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-01-09 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2024-01-09 01:43:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2024-01-09 01:45:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-01-09 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2024-01-09 02:43:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2024-01-09 03:59:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2024-01-09 04:00:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-01-09 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-01-09 05:04:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2024-01-09 14:46:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2024-01-09 15:03:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-01-09 14:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2024-01-09 14:48:23 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2024-01-09 15:08:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2024-01-09 14:46:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2024-01-09 14:32:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2024-01-09 14:37:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2024-01-09 14:46:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2024-01-09 14:24:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-01-09 14:39:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-01-09 14:32:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-01-09 14:56:30 +0000"
     },
     "done": true
   },

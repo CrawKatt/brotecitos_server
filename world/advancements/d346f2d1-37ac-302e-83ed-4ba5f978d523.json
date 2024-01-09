@@ -9194,21 +9194,27 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
+  "1_splatus:ultris/blazepath/endpyramid": {
     "criteria": {
-      "citadel": "2024-01-06 23:45:18 +0000"
+      "c1": "2024-01-06 23:24:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+  "securitycraft:recipes/decorations/glow_display_case": {
     "criteria": {
-      "has_end_stone_bricks": "2024-01-06 23:40:20 +0000"
+      "has_item_frame": "2024-01-06 23:24:33 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/enderiophage": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "killed_by": "2024-01-06 23:41:08 +0000"
+      "has_shulker_shell": "2024-01-06 23:25:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-01-06 23:25:55 +0000"
     },
     "done": true
   },
@@ -9218,9 +9224,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
+  "1_splatus:ultris/blazepath/shulkerstone2": {
     "criteria": {
-      "has_purpur_block": "2024-01-06 23:33:53 +0000"
+      "c1": "2024-01-06 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/shulkerstonekill": {
+    "criteria": {
+      "c1": "2024-01-06 23:27:55 +0000"
     },
     "done": true
   },
@@ -9230,33 +9242,9 @@
     },
     "done": true
   },
-  "repurposed_structures:shipwrecks": {
+  "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
-      "in_shipwreck_end": "2024-01-06 23:40:36 +0000"
-    },
-    "done": false
-  },
-  "cataclysm:kill_ender_golem": {
-    "criteria": {
-      "endergolem": "2024-01-06 23:46:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2024-01-07 00:09:18 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2024-01-06 23:41:15 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2024-01-06 23:59:08 +0000"
+      "has_purpur_block": "2024-01-06 23:33:53 +0000"
     },
     "done": true
   },
@@ -9272,63 +9260,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_sword_repairing": {
-    "criteria": {
-      "has_diamond_sword": "2024-01-06 23:25:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2024-01-06 23:40:20 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/fisherman_necklace": {
-    "criteria": {
-      "has_tropical_fish": "2024-01-07 00:26:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2024-01-06 23:25:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2024-01-06 23:40:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-01-06 23:33:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_feather_fall": {
-    "criteria": {
-      "has_magic_scroll": "2024-01-06 23:36:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2024-01-06 23:40:20 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/blazepath/shulkerstonekill": {
-    "criteria": {
-      "c1": "2024-01-06 23:27:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/glow_display_case": {
-    "criteria": {
-      "has_item_frame": "2024-01-06 23:24:33 +0000"
     },
     "done": true
   },
@@ -9338,15 +9272,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
-      "has_end_stone_bricks": "2024-01-06 23:40:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2024-01-07 00:09:18 +0000"
+      "has_purpur_block": "2024-01-06 23:33:53 +0000"
     },
     "done": true
   },
@@ -9356,9 +9284,51 @@
     },
     "done": true
   },
-  "1_splatus:ultris/blazepath/endpyramid": {
+  "awesomedungeonend:root": {
     "criteria": {
-      "c1": "2024-01-06 23:24:20 +0000"
+      "awesomedungeonend:end_pyramid": "2024-01-06 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:end_pyramid/find_normal": {
+    "criteria": {
+      "requirement": "2024-01-06 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2024-01-06 23:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-01-06 23:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-01-06 23:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-01-06 23:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-01-06 23:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-01-06 23:40:20 +0000"
     },
     "done": true
   },
@@ -9368,39 +9338,39 @@
     },
     "done": true
   },
-  "awesomedungeonend:root": {
-    "criteria": {
-      "awesomedungeonend:end_pyramid": "2024-01-06 23:34:35 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/blazepath/shulkerstone2": {
-    "criteria": {
-      "c1": "2024-01-06 23:26:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-01-06 23:40:20 +0000"
     },
     "done": true
   },
-  "1_splatus:ultris/completed": {
+  "repurposed_structures:shipwrecks": {
     "criteria": {
-      "shulker_stone": "2024-01-07 00:17:47 +0000"
+      "in_shipwreck_end": "2024-01-06 23:40:36 +0000"
     },
     "done": false
   },
-  "awesomedungeonend:end_pyramid/find_normal": {
+  "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
-      "requirement": "2024-01-06 23:34:35 +0000"
+      "killed_by": "2024-01-06 23:41:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+  "alexsmobs:alexsmobs/capsid": {
     "criteria": {
-      "has_purpur_block": "2024-01-06 23:33:53 +0000"
+      "capsid": "2024-01-06 23:41:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-01-06 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2024-01-06 23:46:34 +0000"
     },
     "done": true
   },
@@ -9410,15 +9380,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-01-06 23:58:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-01-06 23:59:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-01-07 00:09:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-01-07 00:09:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2024-01-07 00:09:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "1_splatus:ultris/completed": {
     "criteria": {
-      "has_enchanted_golden_apple": "2024-01-06 23:58:05 +0000"
+      "shulker_stone": "2024-01-07 00:17:47 +0000"
+    },
+    "done": false
+  },
+  "skilltree:recipes/misc/fisherman_necklace": {
+    "criteria": {
+      "has_tropical_fish": "2024-01-07 00:26:55 +0000"
     },
     "done": true
   },

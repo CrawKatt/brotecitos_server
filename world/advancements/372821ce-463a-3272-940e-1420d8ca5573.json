@@ -12727,21 +12727,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_sword_repairing": {
-    "criteria": {
-      "has_netherite_sword": "2024-01-08 02:40:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2024-01-08 03:13:05 +0000"
     },
     "done": true
   },
@@ -12751,21 +12739,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/soul_elytra": {
-    "criteria": {
-      "has_elytra": "2024-01-08 03:13:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_helmet_repairing": {
-    "criteria": {
-      "has_netherite_helmet": "2024-01-08 03:13:05 +0000"
     },
     "done": true
   },
@@ -12781,18 +12757,6 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
-    "criteria": {
-      "has_item": "2024-01-08 03:12:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_boots_repairing": {
-    "criteria": {
-      "has_leather_boots": "2024-01-08 03:47:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
@@ -12805,33 +12769,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/master_disenchanter": {
-    "criteria": {
-      "coded_trigger": "2024-01-08 02:27:12 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2024-01-08 03:10:21 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_recycling": {
-    "criteria": {
-      "coded_trigger": "2024-01-08 02:40:35 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2024-01-08 03:11:41 +0000"
     },
     "done": true
   },
@@ -12847,12 +12787,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2024-01-08 03:12:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
@@ -12862,30 +12796,6 @@
   "securitycraft:recipes/building_blocks/secret_sign_item": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_helmet_repairing": {
-    "criteria": {
-      "has_diamond_helmet": "2024-01-08 03:12:47 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2024-01-08 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/soul_eater": {
-    "criteria": {
-      "coded_trigger": "2024-01-08 02:27:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2024-01-08 03:07:02 +0000"
     },
     "done": true
   },
@@ -12901,12 +12811,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/knowledge_wasted": {
-    "criteria": {
-      "coded_trigger": "2024-01-08 04:06:43 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
@@ -12916,12 +12820,6 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_chestplate_repairing": {
-    "criteria": {
-      "has_golden_chestplate": "2024-01-08 02:15:03 +0000"
     },
     "done": true
   },
@@ -12937,21 +12835,9 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
-    "criteria": {
-      "has_item": "2024-01-08 03:10:21 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_boots_repairing": {
-    "criteria": {
-      "has_diamond_boots": "2024-01-08 03:08:08 +0000"
     },
     "done": true
   },
@@ -12970,6 +12856,132 @@
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2024-01-08 01:33:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-01-08 02:15:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_disenchanter": {
+    "criteria": {
+      "coded_trigger": "2024-01-08 02:27:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_eater": {
+    "criteria": {
+      "coded_trigger": "2024-01-08 02:27:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2024-01-08 02:40:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_recycling": {
+    "criteria": {
+      "coded_trigger": "2024-01-08 02:40:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-01-08 03:07:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-01-08 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-01-08 03:08:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2024-01-08 03:10:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-01-08 03:10:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-01-08 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2024-01-08 03:12:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-01-08 03:12:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-01-08 03:12:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2024-01-08 03:13:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-01-08 03:13:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2024-01-08 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-01-08 03:47:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/knowledge_wasted": {
+    "criteria": {
+      "coded_trigger": "2024-01-08 04:06:43 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygelium": {
+    "criteria": {
+      "has_item": "2024-01-09 04:21:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-01-09 04:30:30 +0000"
     },
     "done": true
   },

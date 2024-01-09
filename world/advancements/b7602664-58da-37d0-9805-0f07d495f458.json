@@ -13657,15 +13657,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/void_worm_split": {
-    "criteria": {
-      "ex": "2024-01-08 05:04:41 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/mysterious_worm": {
     "criteria": {
       "mysterious_worm": "2024-01-08 05:04:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_summon": {
+    "criteria": {
+      "ex": "2024-01-08 05:04:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_split": {
+    "criteria": {
+      "ex": "2024-01-08 05:04:41 +0000"
     },
     "done": true
   },
@@ -13675,9 +13681,69 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/void_worm_summon": {
+  "supplementaries:recipes/stonecutting/stone_tile_stairs_from_bricks": {
     "criteria": {
-      "ex": "2024-01-08 05:04:30 +0000"
+      "has_stone_tile": "2024-01-09 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2024-01-09 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2024-01-09 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_cosmaw": {
+    "criteria": {
+      "tame": "2024-01-09 01:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-01-09 02:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-01-09 01:57:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile_wall_from_bricks": {
+    "criteria": {
+      "has_stone_tile": "2024-01-09 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-01-09 01:57:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_wall": {
+    "criteria": {
+      "has_stone_tile": "2024-01-09 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-01-09 02:03:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_stairs": {
+    "criteria": {
+      "has_stone_tile": "2024-01-09 02:25:31 +0000"
     },
     "done": true
   },

@@ -14958,57 +14958,9 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2024-01-08 01:50:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2024-01-08 04:39:44 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/technical/used_shield": {
-    "criteria": {
-      "requirement": "2024-01-08 02:14:21 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_helmet_repairing": {
-    "criteria": {
-      "has_netherite_helmet": "2024-01-08 01:50:34 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/sandstone_corner_trim": {
-    "criteria": {
-      "has_sandstone_corner_trim": "2024-01-08 04:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2024-01-08 04:39:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
       "has_item": "2024-01-08 01:50:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2024-01-08 01:50:36 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2024-01-08 01:50:35 +0000"
     },
     "done": true
   },
@@ -15018,9 +14970,27 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_helmet_repairing": {
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
-      "has_golden_helmet": "2024-01-08 03:03:44 +0000"
+      "has_item": "2024-01-08 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-01-08 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2024-01-08 01:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-01-08 01:50:36 +0000"
     },
     "done": true
   },
@@ -15030,15 +15000,51 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+  "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "has_sandstone_pillar_trim": "2024-01-08 04:32:39 +0000"
+      "requirement": "2024-01-08 02:14:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2024-01-08 03:03:44 +0000"
     },
     "done": true
   },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2024-01-08 03:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2024-01-08 04:32:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2024-01-08 04:32:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2024-01-08 04:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-01-08 04:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-01-08 04:39:44 +0000"
     },
     "done": true
   },
@@ -15054,9 +15060,111 @@
     },
     "done": true
   },
-  "cataclysm:find_cursed_pyramid": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "pyramid": "2024-01-08 04:33:28 +0000"
+      "has_purple_dye": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "forge:dyes/purple": "2024-01-08 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-01-08 23:05:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2024-01-09 04:11:12 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygelium": {
+    "criteria": {
+      "has_item": "2024-01-09 04:21:09 +0000"
     },
     "done": true
   },

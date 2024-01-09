@@ -7408,5 +7408,59 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-01-09 01:27:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-01-09 01:27:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-01-09 01:41:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2024-01-09 01:44:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2024-01-09 01:44:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2024-01-09 01:44:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2024-01-09 01:44:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-01-09 01:44:46 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2024-01-09 01:45:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
